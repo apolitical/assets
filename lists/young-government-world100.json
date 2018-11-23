@@ -20,7 +20,7 @@
       "Twitter:  Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum.",
       "Wikimedia: Lorem ipsum"
     ]
-},
+  },
   "gallery": [
     {
       "Name": "Alan Avila Magos",
@@ -722,5 +722,15 @@
       "Biography": "Yannick Haan is a digital campaigner and politician. He holds several senior roles in Germany’s Social Democratic Party (SPD), including membership of the Network and Media Policy Commission of the SPD party executive committee, chairman of SPD Alexanderplatz and vice chairman of the SPD Berlin Mitte. He is the author of a book, \"Society in the Digital Transformation - a Handbook\".",
       "Picture": "yannick-haan.jpg"
     }
+  ],
+  "galleryOrder": [
+    "Top 20",
+    "Africa",
+    "Asia",
+    "Europe",
+    "Latin America and Caribbean",
+    "North America",
+    "Oceania",
+    "South America"
   ]
 }
