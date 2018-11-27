@@ -11,7 +11,7 @@ stages:
 ###########
 .quality:
   stage: Quality
-  image: node:8.9.1
+  image: node:10
   before_script:
     - npm install
 
