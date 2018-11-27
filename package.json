@@ -1,0 +1,24 @@
+{
+  "name": "assets",
+  "version": "1.0.0",
+  "description": "Static assets for Apolitical",
+  "scripts": {
+    "lint": "eslint . --ext .json --ext .js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apolitical/assets.git"
+  },
+  "author": "Apolitical",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/apolitical/assets/issues"
+  },
+  "homepage": "https://github.com/apolitical/assets#readme",
+  "devDependencies": {
+    "eslint": "^5.9.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-json": "^1.2.1"
+  }
+}
