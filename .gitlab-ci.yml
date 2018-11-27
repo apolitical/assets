@@ -1,0 +1,21 @@
+#########
+# Reuse #
+#########
+variables:
+
+stages:
+  - Quality     # Quality checks, unit tests, lints, etc
+
+###########
+# Quality #
+###########
+.quality:
+  stage: Quality
+  image: node:8.9.1
+  before_script:
+    - npm install
+
+Lint:
+  extends: .quality
+  script:
+    - npm run lint
