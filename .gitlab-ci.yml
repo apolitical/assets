@@ -28,6 +28,8 @@ pages:
   stage: Release
   only:
   - master
+  script:
+  - echo "nothing to do here!"
   artifacts:
     paths:
     - public
