@@ -5,17 +5,29 @@ variables:
 
 stages:
   - Quality     # Quality checks, unit tests, lints, etc
+  - Release
+
+image: node:10
+
 
 ###########
 # Quality #
 ###########
-.quality:
+Lint:
   stage: Quality
-  image: node:10
   before_script:
     - npm install
-
-Lint:
-  extends: .quality
   script:
     - npm run lint
+
+###########
+# Release #
+###########
+
+pages:
+  stage: Release
+  only:
+  - master
+  artifacts:
+    paths:
+    - public
