@@ -1,0 +1,835 @@
+{
+  "metaData": {
+    "htmlTitle": "Apolitical Lists | Apolitical",
+    "twitterTitle": "the most influential people In Global Policy 2019",
+    "twitterDescription": "",
+    "twitterImage": "",
+    "facebookImage": "",
+    "facebookTitle": ""
+  },
+  "hero": {
+    "title": "gender equality top 100",
+    "subtitle": "the most influential people in global policy 2019",
+    "imageUrl": ""
+  },
+  "pre": [
+    "First paragraph",
+    "Second paragraph",
+    "Third paragraph",
+    "If you work in policymaking, we’d like to invite you to <a href=\"https://apolitical.co/signup?ref=list-gender-equality-100/2019\" data-gtm-event-type=\"signup-click\" data-gtm-event-context=\"lists-intro-text\">join our free global network</a> for public servants. If you think someone’s missing from our top 100, please nominate them now for next year’s list by emailing <a href=\"mailto:eve.powell@apolitical.co\">eve.powell@apolitical.co</a>. If you'd like to know more about how we made our choices please <a href=\"https://drive.google.com/file/d/15d8U03Hm29-9HhJ2vW_hwomkcoSeAR_6/view?usp=sharing\">click here.</a>"
+  ],
+  "footer": {
+    "header": "Photo Credits:",
+    "content": []
+  },
+  "galleryOrder": [
+    "Top 20",
+    "Academia",
+    "Advocacy",
+    "Government and Politics",
+    "International and Non-governmental Organisations",
+    "Youth"
+  ],
+  "gallery": [
+    {
+      "cardTitle": "Julia Gillard",
+      "cardSubtitle": "Former Australian PM and Chair of Global Institute for Women’s Leadership (Kings college)",
+      "section": "Academia",
+      "biography": "Julia Gillard was prime minister of Australia from 2010 to 2013. While in office, she became widely known as an outspoken opponent of sexism in politics. Gillard has now been named the inaugural chair of the new Global Institute for Women’s Leadership at King’s College, London. The institute aims to better understand why women continue to be underrepresented in leadership positions around the world.",
+      "image": "julia-gillard.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/julia-gillard.jpg"
+    },
+    {
+      "cardTitle": "Leith Dunn",
+      "cardSubtitle": "Head, University of the West Indies' Institute for Gender and Development Studies",
+      "section": "Academia",
+      "biography": "Leith Dunn is a Jamaican sociologist, and has served as a senior lecturer and head of the institute for gender and development studies mona unit at the University of the West Indies since 2006. Her research has centred on a range of issues affecting migrant and other women from Jamaica including human trafficking and labour markets in host countries. She is a member of the International Migration Policy Task Force of the Planning Institute of Jamaica, supporting gender mainstreaming in migration policy.",
+      "image": "leith-dunn.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/leith-dunn.jpg"
+    },
+    {
+      "cardTitle": "Lina Abirafeh ",
+      "cardSubtitle": "Executive Director, The Arab Institute for Women at the Lebanese American University",
+      "section": "Academia",
+      "biography": "Lina Abirafeh is the executive director of the Arab Institute for Women at the Lebanese American University, a body focused on the academic research of Arab women. Over a career working in academia and NGOs, Abirafeh has researched gender issues in development, specialising in gender-based violence in emergency settings. She has worked with the UN and other NGOs in countries around the world on gender policy, and written several books on her work and experiences.",
+      "image": "lina-abirafeh.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/lina-abirafeh.jpg"
+    },
+    {
+      "cardTitle": "Wanjiku Mukabi Kabira",
+      "cardSubtitle": "Director, African Women's Studies Centre",
+      "section": "Academia",
+      "biography": "Wanjiku Mukabi Kabria is an associate professor of literature at the University of Nairobi and spearheaded the launch of the African Women’s studies Centre in 2009. She has spent several years advocating for gender equality and equity as a leader of the Women’s Movement in Kenya. She is the author of several books that focus on women’s empowerment and celebrate women’s resistance. She also served as the vice-chair in the Kenya Constitutional Review Process from 2000-2005 and as a Chair on the Women Political Alliance from 2002 to 2011.",
+      "image": "wanjiku-mukabikabira.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/wanjiku-mukabikabira.jpg"
+    },
+    {
+      "cardTitle": "Jeni Klugman",
+      "cardSubtitle": "Managing Director at the Georgetown Institute for Women, Peace and Security",
+      "section": "Academia",
+      "biography": "Jeni Klugman is a fellow at the Kennedy School of Government’s Women in Public Policy Program at Harvard University and managing director at the Georgetown Institute for Women, Peace and Security. She was previously director of gender and development at the World Bank, and she was lead author of three global Human Development Reports published by the United Nations Development Program.",
+      "image": "jeni-klugman.jpeg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/jeni-klugman.jpeg"
+    },
+    {
+      "cardTitle": "Marian Baird",
+      "cardSubtitle": "Director of the Women and Work Research Group at the University of Sydney Business School",
+      "section": "Academia",
+      "biography": "Marian Baird is co-director of the Women and Work Research Group at the University of Sydney Business School. Baird is one of Australia’s leading researchers in the fields of women, work and family. In 2016 she was awarded an AO (Officer of the Order of Australia) for outstanding services to improving the quality of women’s working lives and for contributions to tertiary education.",
+      "image": "marian-baird.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/marian-baird.jpg"
+    },
+    {
+      "cardTitle": "Melanne Verveer",
+      "cardSubtitle": "Executive Director, Georgetown Institute for Women, Peace and Security",
+      "section": "Academia",
+      "biography": "Melanne Verveer is the executive director of the Georgetown Institute for Women, Peace and Security at Georgetown University. She is also a founding partner of Seneca Point Global, a strategy firm that advises government and businesses on how to advance the rights of women and girls. She recently served as the first US ambassador-at-large for Global Women’s Issues. She is the co-author of Fast Forward: How Women can Achieve Power and Purpose.",
+      "image": "melanne-verveer.jpeg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/melanne-verveer.jpeg"
+    },
+    {
+      "cardTitle": "Naila Kabeer",
+      "cardSubtitle": "Feminist Economist/Academic, London School of Economics",
+      "section": "Academia",
+      "biography": "Naila Kabeer is professor of gender and development at the London School of Economics Gender Institute. She also holds the position of president elect at the International Association for Feminist Economics. Kabeer is currently on the editorial committees of journals including Feminist Economics, Development and Change and Gender and Development, as well as the board of the Feminist Review Trust. She is a member of the Advisory Committee for the International Labour Organisation’s Better Works program.",
+      "image": "naila-kabeer.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/naila-kabeer.jpg"
+    },
+    {
+      "cardTitle": "Iris Bohnet",
+      "cardSubtitle": "Professor, Harvard Kennedy School",
+      "section": "Academia",
+      "biography": "Iris Bohnet is the director of the Women and Public Policy Program at the Harvard Kennedy School. She is the author of the award-winning book What Works: Gender Equality by Design and she advises governments and companies around the world on using behavioural insights. She is also a member of the Global Agenda Council on Women’s Empowerment at the World Economic Forum. Her most recent research examines “gender equality nudges,” interventions that decrease the gender gaps in organizations, politics and society.",
+      "image": "iris-bohnet.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/iris-bohnet.jpg"
+    },
+    {
+      "cardTitle": "Irma Erlingsdottir",
+      "cardSubtitle": "Head of the Center for Gender Research, RIKK",
+      "section": "Academia",
+      "biography": "Irma Erlingsdóttir is head of the Center for Gender Research. She’s also the director of both the EDDA Centre of Excellence and the United Nations University Gender Studies and Training, which educates students from developing and post-conflict countries. Erlingsdóttir has led several large-scale academic projects in the fields of gender studies, globalisation, contemporary politics and critical theory. She’s also an associate professor of French Contemporary Literature at the University of Iceland.",
+      "image": "irma-erlingsdottir.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/irma-erlingsdottir.jpg"
+    },
+    {
+      "cardTitle": "Tarana Burke",
+      "cardSubtitle": "Founder of the #MeToo movement",
+      "section": "Advocacy",
+      "biography": "Tarana Burke is an American civil rights activist who founded the #MeToo movement. In 2006, Burke began using the phrase “Me Too”, to raise awareness of the pervasiveness of sexual abuse and assault in society. Time magazine named Burke, among a group of other prominent female activists dubbed “the silence breakers”, as their Person of the Year for 2017. She is currently senior director at Girls for Gender Equity, an intergenerational organization committed to the physical, psychological, social, and economic development of girls and women.",
+      "image": "tarana-burke.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/tarana-burke.jpg"
+    },
+    {
+      "cardTitle": "Pat Mitchell",
+      "cardSubtitle": "Author and Activist",
+      "section": "Advocacy",
+      "biography": "Pat Michell is CEO, producer and activist in the media industry who has dedicated much of her career to using media as a force for social change. She the chair of the Women’s Media Center, an organisation dedicated to advocating for greater representation of women in the media, and a member of the International Women’s Forum, a group with the aim of supporting women leaders. She now acts as an independent consultant, advising corporations of issues of women’s empowerment, and is in the process of releasing her new book “Becoming a Dangerous Woman.”",
+      "image": "pat-mitchell.png",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/pat-mitchell.png"
+    },
+    {
+      "cardTitle": "Ola Abu Al Ghaib",
+      "cardSubtitle": "Executive Director and Founder, Stars of Hope Center ",
+      "section": "Advocacy",
+      "biography": "Ola Abu Al Ghaib is a disability rights activist, focusing on disabled women in the Middle East. She is the vice-chair of the International Disability and Development Consortium and the Director of Global Influencing and Research at Leonard Cheshire Disability, a foundation dedicated to supporting the independence of disabled people. She is the executive director and founder of the Stars of Hope Center, an organisation that works to improve the inclusion of disabled women in society, and an advocate for government adoption of the Convention on the Rights for People with Disabilities, a UN human rights treaty protecting those with disabilities. ",
+      "image": "ola-abualghaib.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/ola-abualghaib.jpg"
+    },
+    {
+      "cardTitle": "Michael Kaufman",
+      "cardSubtitle": "Co-Founder, White Ribbon Campaign",
+      "section": "Advocacy",
+      "biography": "Michael Kaufman is a writer, consultant, and speaker focused on engaging men to support gender equality, ending men’s violence against women, transforming fatherhood and promoting positive ideals of manhood. He is the co-founder of the White Ribbon Campaign, the largest network of men working to ending violence against women worldwide. He is the author or editor of several books on gender issues, including Beyond Patriarchy: Essays by Men on Pleasure, Power and Change.",
+      "image": "michael-kauffman.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/michael-kauffman.jpg"
+    },
+    {
+      "cardTitle": "Monique Wilson",
+      "cardSubtitle": "Director, One Billion Rising",
+      "section": "Advocacy",
+      "biography": "Monique Wilson founded One Billion Rising for Justice, a mass action campaign to end violence against women. Launched in 2012, One Billion Rising calls people to action based on the statistic that 1 in 3 women on the planet will be beaten or raped during her lifetime. She also is an actor, director, and founder of New Voice Company (NVC) theatre group in the Philippines.  NVC’s productions are meant to be socially proactive. NVC’s production of the Vagina Monologues performed in the Senate and Congress have helped changed laws on sex trafficking and domestic violence.",
+      "image": "monique-wilson.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/monique-wilson.jpg"
+    },
+    {
+      "cardTitle": "Roopa Dhatt",
+      "cardSubtitle": "Executive Director and Co-founder, Women in Global Health",
+      "section": "Advocacy",
+      "biography": "Women make up the majority of health professionals worldwide, but only 25% of leadership roles go to women. This imbalance is what Roopa Dhatt and her three co-founders set out to correct when they founded Women in Global Health in 2015. Writing in the Lancet, Roopa Dhatt argues that the imperative is not only a moral one: women in leadership roles are more attentive to women’s health issues than male leaders, underscoring the need for gender parity in this field. Since its foundation Women in Global Health, an organisation staffed entirely by volunteers, has expanded to become a global movement, with chapters in four continents and more than 21.000 followers in 90+ countries. ",
+      "image": "roopa-dhatt.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/roopa-dhatt.jpg"
+    },
+    {
+      "cardTitle": "Shruti Kapoor",
+      "cardSubtitle": "Founder, Safty.com",
+      "section": "Advocacy",
+      "biography": "Shruti Kapoor is an Indian gender equality activist, economist, and social entrepreneur. Following a horrific gang rape attack on a female student in Delhi in 2012, Kapoor decided to found Sayfty, which started life in June 2013. The organisation works to make the daily lives of Indian women safer through a mix of education, self-defence workshops and online campaigns. Kapoor has worked at international organisations including The World Bank and UN Women, and as an Adjunct Professor of Economics at Occidental College in Los Angeles.",
+      "image": "shruti-kapoor.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/shruti-kapoor.jpg"
+    },
+    {
+      "cardTitle": "Zainab Salbi",
+      "cardSubtitle": "Author and Founder, Women for Women International",
+      "section": "Advocacy",
+      "biography": "Zainab Salbi is an author and the founder of Women for Women International, a development organization that helps women survivors of war. Harnessing her first-hand experience of war during the conflict between Iran-Iraq, at the age of 23 she launched Women for Women International in 1993, which has grown from helping 30 women to over 447,000 and has distributed more than $120 million in aid. She was nominated by former President Clinton in 2010 as one of the 21st century heroes for her work. She is the author of three books that focus on the plight and voices of women, including her own,  surviving during the tribulations of war, violence, and conflict.",
+      "image": "zainab-salbi.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/zainab-salbi.jpg"
+    },
+    {
+      "cardTitle": "Habiba Mohammed",
+      "cardSubtitle": "Malala Fund Gulmakai Champion",
+      "section": "Advocacy",
+      "biography": "Habiba Mohammed has been a Malala Fund Gulmaki Champion since 2017. As co-director of the Centre for Girls’ Education, Habiba teaches girls ages 12 to 18 to be advocates in their communities through the Safe Space Club for Girls programme. In the places where the Safe Space Club for Girls operates, girls’ secondary school completion rates rose from 4% to 82%. Using her Gulmakai Network grant, Habiba also advocates for the Kaduna State government to eliminate school costs and ensure higher learning standards.",
+      "image": "habiba-mohammed.jpeg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/habiba-mohammed.jpeg"
+    },
+    {
+      "cardTitle": "Josephine Kulea",
+      "cardSubtitle": "Founder and Executive Director, Samburu Girls Foundation",
+      "section": "Advocacy",
+      "biography": "Josephine Kulea is a woman's rights activist, hailing from the Samburu people in Central Kenya. She is the founder and director of Samburu Girls Foundation (SGF). She campaigns for the rights of women and girls within a culture where practices including child marriage and female genical multilation are common, and her work has included opening her home to girls at risk of rape and other abuse. She has rescued up to 1000 girls from harm and SGF is supporting more than 300 girls through education.",
+      "image": "josephine-kulea.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/josephine-kulea.jpg"
+    },
+    {
+      "cardTitle": "Julienne Lusenge",
+      "cardSubtitle": "Women’s Rights Champion, Democratic Republic of the Congo",
+      "section": "Advocacy",
+      "biography": "Julienne Lusenge is a Congolese human rights activist who focuses on supporting survivors of wartime sexual violence. In response to the high levels of sexual violence in Congo, in 2000 she co-founded Female Solidarity for Integrated Peace and Development (SOFEPADI) — a group with the aim of addressing violence against women. Alongside her position as President of the group, she is also Director of the Congolese Women's Fund, an organisation dedicated to supporting Congolese women grassroots organisations, In 2018, she received the Women’s International Rights Award from Geneva Summit for Human Rights and Democracy and, in 2016, was awarded the Ginetta Sagan Award from Amnesty International. ",
+      "image": "julienne-lusenge.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/julienne-lusenge.jpg"
+    },
+    {
+      "cardTitle": "Leymah Gbowee",
+      "cardSubtitle": "Founder and President, Gbowee Peace Foundation Africa",
+      "section": "Advocacy",
+      "biography": "Leymah Gbowee is a Liberian activist responsible for leading a women’s peace movement that helped bring an end to the Second Liberian Civil War in 2003. She was awarded the 2011 Nobel Peace Prize, along with then-President Ellen Johnson Sirleaf and the Yemeni journalist and activisit Tawakkol Karman “for their non-violent struggle for the safety of women and for women’s rights to full participation in peace-building work”. Gbowee is the founder and president of Gbowee Peace Foundation Africa, founded in 2012, which provides educational and leadership opportunities to girls, women and the youth in Liberia.",
+      "image": "leymah-gbowee.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/leymah-gbowee.jpg"
+    },
+    {
+      "cardTitle": "Maria Cavalcanti",
+      "cardSubtitle": "CEO, Pro Mujer",
+      "section": "Advocacy",
+      "biography": "Maria Cavalcanti is President and CEO of Pro Mujer, a leading social enterprise in Latin America that empowers women through a suite of financial, health and skill-building services. She joined the organisation in 2016 folowing a 25 career advancing women's rights in the workplace and working with a wide range of business and nonprofits in Latin America, the United States, Western Europe, and India. She now oversees all Latin American operations for the organisation, which works to improve access to health, finance, and educational services. Maria is recognized as a leading speaker on impact investing and financial inclusion in Latin America",
+      "image": "maria-cavalcanti.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/maria-cavalcanti.jpg"
+    },
+    {
+      "cardTitle": "Paula Donovan",
+      "cardSubtitle": "Co-Director of AIDS-Free World",
+      "section": "Advocacy",
+      "biography": "Paula Donovan is co-director of AIDS-Free World and its Code Blue Campaign, which works to end impunity for sexual exploitation and abuse by UN peacekeepers. Thanks to the work of Code Blue, the UN policy towards sexual exploitation and abuse has improved dramatically. Earlier in 2010, she was influential in the formation of UN women, having called for the United Nations to create an agency specifically for women. In the early 90s, she organised UNICEF’s global advocacy campaign for breastfeeding to improve breastfeeding policies, programs, financing and communication.",
+      "image": "paula-donovan.jpeg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/paula-donovan.jpeg"
+    },
+    {
+      "cardTitle": "Charlotte Watts",
+      "cardSubtitle": "Chief Scientific Adviser at the Department for Global Health and Development, UK Government",
+      "section": "Government and Politics",
+      "biography": "Charlotte Watts is a professor of social and mathematical epidemiology and chief scientific adviser at the UK's Department for International Development. She has 20 years' experience in international HIV and violence research and is the founder of the Gender, Violence and Health Centre at the London School of Hygiene and Tropical Medicine, which is dedicated to researching gender-based violence prevention. ",
+      "image": "charlotte-watts.jpeg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/charlotte-watts.jpeg"
+    },
+    {
+      "cardTitle": "Fabiana Tuñez",
+      "cardSubtitle": "Executive Director, National Women's Institute",
+      "section": "Government and Politics",
+      "biography": "Fabiana Tuñez is the president of the National Institute of Women in Argentina, where she carries out the national plan of action preventing and eradicating violence against women. She has been a prominent activist for women’s rights for more than 20 years and works against violence, abuse and discrimination against women from a human rights persepctive. She is co-founder of the Civil Association Casa del Encuentro.",
+      "image": "fabiana-tunez.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/fabiana-tunez.jpg"
+    },
+    {
+      "cardTitle": "Janet Camilo",
+      "cardSubtitle": "President, Inter-American Commission of Women of the Organization of American States",
+      "section": "Government and Politics",
+      "biography": "Janet Camilo is the Dominican Republic's minister for women, and was recently appointed president for the Inter-American Commission of Women of the Organisation of American States (OAS). Established in 1928, the forum is the first inter-governmental agency to promote women's human rights, and remains the principal forum for gender equality policy in the Americas. Camilo has called on governments in the region to ensure equal rights between the sexes, including ensuring women’s right to abortion as a health care priority. Despite her activism, the Dominican Republic still has one of the harshest abortion laws in the world with a total ban on the procedure in all circumstances. ",
+      "image": "janet-camilo.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/janet-camilo.jpg"
+    },
+    {
+      "cardTitle": "Katrín Jakobsdóttir",
+      "cardSubtitle": "Prime Minister, Iceland",
+      "section": "Government and Politics",
+      "biography": "Katrín Jakobsdóttir became Iceland’s second female prime minister in November 2017. Under her leadership Iceland became the first country in the world to make it illegal to pay men more than women for the same job. The country has consistently ranked as the world’s most gender-equal country during this time, and Jakobsdóttir's government aims to eradicate the gender pay gap by 2022. In October she joined thousands of Icelandic women who walked out of their workplaces to protest against wage inequality and sexual harassment. She was previously minister of education, science and culture from 2009 to 2013.",
+      "image": "katrin-jakobsdottir.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/katrin-jakobsdottir.jpg"
+    },
+    {
+      "cardTitle": "Mariella Mazzotti",
+      "cardSubtitle": "Director of the National Institute of Women, Uruguay",
+      "section": "Government and Politics",
+      "biography": "Mariella Mazzotti is the Director of the National Institute of Women in Uruguay, an organisation working to achieve gender equal policies in the country — from combating gender-based violence through to promoting women’s rights and the decentralisation of gender policies. From 1995-2005, she served as chair of the Commission on Women. She has had an influential political career, previously serving as director of municipal development and participation in the Municipality of Montevideo and director of citizen development in the ministry of social development. ",
+      "image": "mariella-mazzotti.jpeg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/mariella-mazzotti.jpeg"
+    },
+    {
+      "cardTitle": "Nancy Pelosi",
+      "cardSubtitle": "Speaker of the US House of Representatives",
+      "section": "Government and Politics",
+      "biography": "First elected to Congress in 1989, Nancy Pelosi is the first and only woman to be elected Speaker of the House of Representatives, making her the highest-ranking woman in US history. Now in her third term as Speaker — and her 17th as a congresswoman — Pelosi has been instrumental in passing landmark bills, including the Lilly Ledbetter Fair Pay Act, which enshrines the right of women and all workers to fight pay discrimination. Throughout her career, she's been a strong advocate for increasing the number of women in public service and has paved the way for many to enter politics.",
+      "image": "nancy-pelosi.png",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/nancy-pelosi.png"
+    },
+    {
+      "cardTitle": "Rose Rwabuhihi",
+      "cardSubtitle": "Head of the Gender Monitoring Office, Government of Rwanda",
+      "section": "Government and Politics",
+      "biography": "Rose Rwabuhihi has dedicated the majority of her career to gender equality, and women’s rights. She is currently head of the Gender Monitoring office, which is a Rwandan government department that promotes gender equality and human rights through good governance for sustainable development. Prior to joining the government in 2013, she spent 15 years at the UN in Africa and the United States.",
+      "image": "rose-rwabuhihi.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/rose-rwabuhihi.jpg"
+    },
+    {
+      "cardTitle": "Shen Yueyue",
+      "cardSubtitle": "President, All-China Women's Federation",
+      "section": "Government and Politics",
+      "biography": "Shen Yueyue is the current president of the All-China Women's Federation and the Vice-Chairperson of the National People's Congress Standing Committee. The Federation is the largest women’s organisation in China, with thousands of women’s associations under its leadership. As part of the Federation, she is working protecting women’s rights and driving policy change in China, as well as supporting women’s organisations in other countries. ",
+      "image": "shen-yueyue.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/shen-yueyue.jpg"
+    },
+    {
+      "cardTitle": "Eva Kail",
+      "cardSubtitle": "Strategic Planner, Vienna",
+      "section": "Government and Politics",
+      "biography": "Eva Kail is the gender planning expert for the Executive Group for Construction and Technology in the City of Vienna. Vienna is currently Europe’s leader in fostering gender equality in public spaces and Kail heading up efforts to make the city better designed for women. In 1991, she  became the first Head of the Women´s Office and was responsible for the establishment of the Co-Ordination Office for Planning and Construction Geared to the Requirements of Daily Life and the Specific Needs of Women in 1998. ",
+      "image": "eva-kail.jpeg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/eva-kail.jpeg"
+    },
+    {
+      "cardTitle": "Laura Liswood",
+      "cardSubtitle": "Co-founder and Secretary General of the Council of Women World Leaders",
+      "section": "Government and Politics",
+      "biography": "Laura Liswood is secretary general of the Council of Women World Leaders, which is composed of women presidents, prime ministers and heads of government. She is a committed advocate of female inclusion and leadership in the public sector, and has been involved in numerous organizations promoting women in politics, including the Women’s Leadership Project and The White House Project. From 2001-2015, Liswood served as managing director of global leadership and diversity for Goldman Sachs.",
+      "image": "laura-liswood.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/laura-liswood.jpg"
+    },
+    {
+      "cardTitle": "Libby Lyons",
+      "cardSubtitle": "Director of the Workplace Gender Equality Agency, Australia",
+      "section": "Government and Politics",
+      "biography": "Libby Lyons is Director of the Australian Government’s Workplace Gender Equality Agency. She was appointed in 2015. The Agency collects and analyses gender equality data from organisations in the private sector with 100 or more employees. Under the leadership of Lyons, the Agency has used the data findings to build a comprehensive picture of the state of workplace gender equality across Australia and campaign for change, particularly in the areas of gender pay equity and industry and occupational segregation. This has led to both domestic and international recognition for her work and the role of the Agency in working with employers to improve gender equality outcomes.",
+      "image": "libby-lyons.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/libby-lyons.jpg"
+    },
+    {
+      "cardTitle": "Mandu Reid",
+      "cardSubtitle": "Leader, UK Women's Equality Party",
+      "section": "Government and Politics",
+      "biography": "Mandu Reid, is the leader of Britain's Women’s Equality (WE) Party, becoming the first black person in England to lead a national political party. The WE Party was founded four years ago and focuses on creating policies that help women balance work and motherhood. She founded the English period-poverty charity, the Cup Effect in 2015. The Cup Effect educates young women in Kenya and Malawi on mensuration while also providing menstrual cups.",
+      "image": "mandu-reid.png",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/mandu-reid.png"
+    },
+    {
+      "cardTitle": "Hilary Spencer",
+      "cardSubtitle": "Director of the Government Equalities Office, United Kingdom",
+      "section": "Government and Politics",
+      "biography": "Hilary Spencer is the director of the UK’s Government Equalities Office, in charge of policy relating to women, sexual orientation and transgender equality. Spencer ran the team that brought forward gender pay gap regulations, forcing British companies to calculate and publish their pay gaps. She also oversaw a recent, pioneering national survey collecting the life experiences of lesbian, gay, bisexual and transgender people.",
+      "image": "hilary-spencer.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/hilary-spencer.jpg"
+    },
+    {
+      "cardTitle": "Nadine Gasman",
+      "cardSubtitle": "President of the National Women's Institute, Uruguay",
+      "section": "Government and Politics",
+      "biography": "As head of the National Women’s Institute in Mexico, Nadine Gasman has been instrumental in the launch of the country's national plan to prevent violence against women. Recently, she also successfully campaigned for the introduction of a minimum wage to protect domestic workers in Mexico. She is the former Senior Director of the UN Secretary General UNiTE to end Violence against Women Campaign for Latin America and, in her previous role as UNFPA Representative in Guatemala, she was influential in bringing about government action to advance reproductive rights and sexual health. ",
+      "image": "nadine-gasman.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/nadine-gasman.jpg"
+    },
+    {
+      "cardTitle": "Dalia Grybauskaitė",
+      "cardSubtitle": "President of Lithuania",
+      "section": "Government and Politics",
+      "biography": "In 2009 Dalia Grybauskaitė became the first woman to be elected as president of Lithuania, and In 2014 she broke another record when she became the first incumbent to be re-elected for a second consecutive term. In 2019 she stepped down after serving five years as the chair of the Council of Women World Leaders. Under her leadership the membership of CWWL grew from 54 to 74 current or former female heads of state. Grybauskaitė is know colloquially as the nation's \"Iron Lady\", due in part to her reputation for not mincing words and the fact that she has a black belt in karate. ",
+      "image": "dalia-grybauskaite.jpeg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/dalia-grybauskaite.jpeg"
+    },
+    {
+      "cardTitle": "Helen Clark",
+      "cardSubtitle": "Former Prime Minister of New Zealand",
+      "section": "Government and Politics",
+      "biography": "Helen Clark was the thirty-seventh prime minister of New Zealand from 1999 to 2008. She served three consecutive terms, and was the first woman to be elected. She advocated strongly for women, including on the issues of gender equality, climate change, global health and human rights. She resigned from parliament in April 2009 to become the first female head of the UN Development Programme, and concurrently chaired the UN Development Group. During her time as administrator, the UNDP was ranked the most transparent global development organisation.",
+      "image": "helen-clark.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/helen-clark.jpg"
+    },
+    {
+      "cardTitle": "Amina Mohammed",
+      "cardSubtitle": "Deputy Secretary-General, UN",
+      "section": "International and Non-governmental Organisations",
+      "biography": "Amina Mohammed is the deputy secretary-general of the UN. She was Nigeria’s environment minister from November 2015 to December 2016, a job in which she steered the country’s efforts on climate action. She has served on numerous international advisory boards and panels, including the Global Development Program of the Bill and Melinda Gates Foundation, the African Women’s Millennium Initiative and Girl Effect. From 2002-2005, Mohammed coordinated the Task Force on Gender and Education for the UN Millennium Project.",
+      "image": "amina-mohammed.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/amina-mohammed.jpg"
+    },
+    {
+      "cardTitle": "Gabriela Ramos",
+      "cardSubtitle": "OECD Chief of Staff and Sherpa to the G20",
+      "section": "International and Non-governmental Organisations",
+      "biography": "Gabriela Ramos is the OECD’s chief of staff, special counsellor to the secretary-general and sherpa to the G20. From these roles she has helped to launch key OECD initiatives on gender, specifically relating to skills and work, and advocates getting more women into decision-making positions. Previously, she served as head of the OECD's Office in Mexico and Latin America, where she promoted OECD recommendations in many areas including gender equality. Prior to this she held several positions within the Mexican government, including the role of Director of Economic Analysis in the Foreign Affairs Ministry.",
+      "image": "gabriela-ramos.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/gabriela-ramos.jpg"
+    },
+    {
+      "cardTitle": "Kavita Ramdas",
+      "cardSubtitle": "Director, Open Society Foundations' Women's Rights Program",
+      "section": "International and Non-governmental Organisations",
+      "biography": "Kavita Ramdas is an advocate for gender and racial equity, justice and sustainable development. She serves as a senior advisor to the president of the Ford Foundation, an organisation devoted to improving human welfare, and director of the Women’s Rights Program at Open Society Foundations. She previously served as head of the Global Fund for Women and the executive director of the Program on Social Entrepreneurship at Stanford University.",
+      "image": "kavita-ramdas.png",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/kavita-ramdas.png"
+    },
+    {
+      "cardTitle": "Marai Larasi",
+      "cardSubtitle": "Executive Director, Imkaan",
+      "section": "International and Non-governmental Organisations",
+      "biography": "Marai Larasi is the executive director of Imkaan, a UK-based black and minority ethnic feminist organisation dedicated to ending violence against marginalised women and girls. Through Imkaan, Larasi works at the local, national and international levels to improve policy and practice on gender-based violence. She also co-chairs the End Violence Against Women Coalition and has worked with UN Women on better addressing intersectional issues. In 2013, Larasi was ranked number 80 on the World Pride Power List.",
+      "image": "marai-larasi.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/marai-larasi.jpg"
+    },
+    {
+      "cardTitle": "Melinda Gates",
+      "cardSubtitle": "Co-founder, The Gates Foundation",
+      "section": "International and Non-governmental Organisations",
+      "biography": "Melinda Gates is co-chair of the Bill & Melinda Gates Foundation, which works to help all people lead healthy, productive lives. In recent years, she has become a vocal advocate for access to contraception, advancing the idea that empowering women to decide whether and when to have children can have transformational effects on societies. She spearheaded the London Summit on Family Planning, which adopted the goal of delivering contraceptives to an additional 120 million women in developing countries by 2020. Her new focus is on women in tech.",
+      "image": "melinda-gates.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/melinda-gates.jpg"
+    },
+    {
+      "cardTitle": "Natalia Kanem",
+      "cardSubtitle": "Executive Director, UNFPA",
+      "section": "International and Non-governmental Organisations",
+      "biography": "Natalia Kanem was appointed as Executive Director of UNFPA on 3 October 2017. She has more than 30 years of strategic leadership experience in medicine, public and reproductive health, social justice and philanthropy. While working as an officer at the Ford Foundation from 1992 to 2005, she spearheaded work in women’s reproductive health and sexuality. She then became Deputy Vice-President for the foundation's worldwide peace and social justice programs in Africa, Asia, Eastern Europe, Latin America and North America. She holds a medical degree from Columbia University, New York, and a Master’s degree in Public Health.",
+      "image": "natalia-kanem.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/natalia-kanem.jpg"
+    },
+    {
+      "cardTitle": "Ros Sopheap",
+      "cardSubtitle": "Executive Director, Gender and Development for Cambodia",
+      "section": "International and Non-governmental Organisations",
+      "biography": "Ros Sopheap is the executive director of gender and development for Cambodia, an organisation that builds llinks between women leaders. With members from both the government and community sectors, the organisation plays an important role in connecting women across government and ensuring local needs are heard. She has been highly influential in the Cambodian women’s rights movement, having instigated the country’s first domestic violence research project. ",
+      "image": "ros-sopheap.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/ros-sopheap.jpg"
+    },
+    {
+      "cardTitle": "Senait Fisseha",
+      "cardSubtitle": "Director of International Programs, Susan Buffet Foundation",
+      "section": "International and Non-governmental Organisations",
+      "biography": "Senait Fisseha is director of international programs at the Susan Buffet Foundation, a charity that invests in reproductive health and family planning grants. Fisseha is also a renowned Ethiopian advocate for women’s reproductive and maternal health and professor of obstetrics and gynecology at the University of Michigan. At the university, she founded the Center for International Reproductive Health Training which prepares medical students to provide quality care that seeks to reduce maternal mortality and empower women and girls. As chief adviser to the Director-General of the World Health Organisation and a member of the Global Health 50/50 advisory council, she is highly influential in efforts to achieve equality in global health policy. In 2013, she received the highest award from the Ethiopian Ministry of Health for her contribution to the health sector.  ",
+      "image": "senait-fisseha.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/senait-fisseha.jpg"
+    },
+    {
+      "cardTitle": "Randa Siniora",
+      "cardSubtitle": "General Director, the Women's Center for Legal Aid and Counseling in Jerusalem",
+      "section": "International and Non-governmental Organisations",
+      "biography": "Randa Siniora is a Palestinian human right's activist, who has been the General Director of the Women's Center for Legal Aid and Counseling (WCLAC) since 2015. WCLAC provides legal aid and counselling to victims of gender based violence in Palestine. Siniora has previously held senior roles in prominent NGOs including serving eight years as the Senior Executive Director for the Independent Commission for Human Rights. In 2018 she became the 1st Palestinian woman to address the Security Council on the topics of women, peace and security.",
+      "image": "randa-siniora",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/randa-siniora"
+    },
+    {
+      "cardTitle": "Rosa Emilia Salamanca",
+      "cardSubtitle": "Director, the Coporations of Social and Economic Research",
+      "section": "International and Non-governmental Organisations",
+      "biography": "Rosa Emilia Salamanca is the executive director for the Colombia-based NGO Corporación de Investigación y Acción Social y Económica (CIASE). Founded in 2005, CIASE addresses the lack of human rights guarantees in Colombia with a focus on economic, social and cultural rights of women. Salamanca has been a prominent voice for peace in Colombia, and has been a central figure in the negotiations that ended with a peace agreement between the government and guerilla forces in 2016, where she advocated for an inclusive focus on women’s rights. ",
+      "image": "rosa-emiliasalamanca.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/rosa-emiliasalamanca.jpg"
+    },
+    {
+      "cardTitle": "Elizabeth Nyamayaro",
+      "cardSubtitle": "Founder of the UN’s HeForShe campaign",
+      "section": "International and Non-governmental Organisations",
+      "biography": "Elizabeth Nyamayaro is senior advisor to the United Nations Under-Secretary-General and executive director of UN Women and is the mastermind behind United Nations HeForShe – a global solidarity movement for gender equality. The movement engages all genders, and in particular men and boys to take action in ending gender inequality. Born in Zimbabwe and a Political Scientist by training, Nyamayaro is a strong advocate for women’s rights and economic empowerment and has worked at the forefront of Africa’s development agenda for more than two decades in both the public and private sector, and previously held positions with UNAIDS, World Health Organization and the World Bank.",
+      "image": "elizabeth-nyamayaro.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/elizabeth-nyamayaro.jpg"
+    },
+    {
+      "cardTitle": "Geeta Rao Gupta",
+      "cardSubtitle": "Executive Director of the 3D Program for Girls and Women",
+      "section": "International and Non-governmental Organisations",
+      "biography": "Geeta Rao Gupta is executive director of the 3D Program for Girls and Women, which works to maximize impact and increase efficiencies in programmes to help women and girls. Previously she has served as co-chair of the Gender-Based Violence Task Force of the World Bank, Deputy Executive Director at UNICEF and president of the International Centre for Research on Women (ICRW). She has received numerous awards, including Harvard University’s 2006 Anne Roe Award and the 2007 Washington Business Journal’s “Women Who Mean Business” Award.",
+      "image": "geeta-raogupta.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/geeta-raogupta.jpg"
+    },
+    {
+      "cardTitle": "Henriette Kolb",
+      "cardSubtitle": "Head of the Gender Secretariat, International Finance Corporation.",
+      "section": "International and Non-governmental Organisations",
+      "biography": "Henriette Kolb is the head of the Gender Secretariat at the International Finance Corporation, a member of the World Bank group, where she works directly with businesses to advance gender equality within in the private sector. Until 2013 Kolb was the CEO of the Cherie Blair Foundation for Women, and across her career has served in a number of organisations in the fields of governance and diplomacy.",
+      "image": "henriette-kolb.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/henriette-kolb.jpg"
+    },
+    {
+      "cardTitle": "Joanna Maycock",
+      "cardSubtitle": "Secretary General of the European Women’s Lobby",
+      "section": "International and Non-governmental Organisations",
+      "biography": "Joanna Maycock is secretary general of the European Women’s Lobby, the largest umbrella group of women’s organisations in the EU. One of the most influential women in Brussels, she was also the first woman president of CONCORD, the European Confederation of Development NGOs. As well as helping shape European policy, she is also an adviser to UN Women.",
+      "image": "joanna-maycock.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/joanna-maycock.jpg"
+    },
+    {
+      "cardTitle": "Lyric Thompson",
+      "cardSubtitle": "Director of Policy and Advocacy at the International Center for Research on Women (ICRW)",
+      "section": "International and Non-governmental Organisations",
+      "biography": "Lyric Thompson is the director of policy and advocacy at the International Centre for Research on Women, a global research institute whose mission is to empower women and advance gender equality. She leads the organisation’s evidence-based policymaking efforts and its advocacy work with governments. She also co-chairs Girls Not Brides and teaches at George Washington University. She has advocated for gender-equitable policies at the UN, the World Bank, the White House, State Department, the Department of Defense, USAID, and on Capitol Hill.",
+      "image": "lyric-thompson.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/lyric-thompson.jpg"
+    },
+    {
+      "cardTitle": "Musimbi Kanyoro",
+      "cardSubtitle": "President and CEO of Global Fund for Women",
+      "section": "International and Non-governmental Organisations",
+      "biography": "Musimbi Kanyoro is a leading Kenyan human rights advocate. Holding doctorates in linguistics and feminist theology, she is the CEO and president of the Global Fund for Women, a non-profit foundation funding women’s rights initiatives. Under her leadership, the organization has granted more than $140 million to projects empowering women.",
+      "image": "musimbi-kanyoro.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/musimbi-kanyoro.jpg"
+    },
+    {
+      "cardTitle": "Randi Davis",
+      "cardSubtitle": "Director, Gender Team UNDP",
+      "section": "International and Non-governmental Organisations",
+      "biography": "Randi Davis is director of the UNDP Gender Team, running a group dedicated to the promotion of gender equality and the empowerment of women and girls. The team puts gender to the forefront of UNDP’s advocacy and policy work, as well as ensuring gender balance within the organisation. For the past two decades, Davis has led policy work in the fields of democratic governance, inclusive political participation, economic reform and community engagement.",
+      "image": "randi-davis.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/randi-davis.jpg"
+    },
+    {
+      "cardTitle": "Sarah Degnan Kambou",
+      "cardSubtitle": "President, International Center for Research on Women",
+      "section": "International and Non-governmental Organisations",
+      "biography": "Sarah Degnan Kambou is president of the International Center for Research on Women, the global research institute that focuses on realizing women’s empowerment and gender equality to alleviate poverty worldwide. Her expertise centers on sexual and reproductive health, HIV and AIDS and adolescent health and livelihoods. She has served as an advisor to multilaterals, leading corporations and governments seeking to integrate gender into policies, programs and services that advance the status of women and girls.",
+      "image": "sarah-degnankambou.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/sarah-degnankambou.jpg"
+    },
+    {
+      "cardTitle": "Sarah Hendriks",
+      "cardSubtitle": "Director, Gender Equality at the Gates Foundation",
+      "section": "International and Non-governmental Organisations",
+      "biography": "Sarah Hendriks is the director of gender equality at the Gates Foundation. Previously, she was director of gender equality and social inclusion for Plan International, where she developed the Global Girls Innovation Program, a $500 million portfolio of innovation and results-driven initiatives for adolescent girls.",
+      "image": "sarah-hendriks.jpeg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/sarah-hendriks.jpeg"
+    },
+    {
+      "cardTitle": "Shauna Olney",
+      "cardSubtitle": "Chief, Gender, Equality and Diversity Branch of the International Labour Organization ",
+      "section": "International and Non-governmental Organisations",
+      "biography": "Shauna Olney is the chief of the Gender, Equality and Diversity Branch of the International Labour Organization (ILO), a specialised labour agency under the United Nations. Olney has worked at the ILO for more than 30 years, during which time she has been a vital figure in promoting equality in labour issues. She has authored several books on gender and equality, including Equal Pay: An Introductory Guide (2013). Under Olney's leadership, the ILO recently published its report on \"women at work\", concluding on five years of research and giving a rare glimpse into the global state of gender equality.  ",
+      "image": "shauna-olney.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/shauna-olney.jpg"
+    },
+    {
+      "cardTitle": "Silvana Koch-Mehrin",
+      "cardSubtitle": "President and Founder, Women Political Leaders",
+      "section": "International and Non-governmental Organisations",
+      "biography": "Silvana Koch-Mehrin is the president and founder of the Women Political Leaders Global Forum, a worldwide network of female politicians whose mission is to increase the number and influence of women in politics. Koch-Mehrin is the former vice-president of the European Parliament. She was one of the key organisers of last year’s Women Political Leaders Global Summit in Reykjavik, bringing together 400 powerful women from more than 100 countries.",
+      "image": "silvana-kochmehrin.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/silvana-kochmehrin.jpg"
+    },
+    {
+      "cardTitle": "Theo Sowa",
+      "cardSubtitle": "CEO of The African Women’s Development Fund",
+      "section": "International and Non-governmental Organisations",
+      "biography": "Theo Sowa is the CEO of the African Women’s Development Fund, a foundation that supports women’s rights work across Africa. Previously an independent consultant specialising in international social development, she has worked all around Africa, in Europe and the US. She was senior program advisor on the UN Study on Children and Armed Conflict (the Machel Report) and also led its five-year review.",
+      "image": "theo-sowa.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/theo-sowa.jpg"
+    },
+    {
+      "cardTitle": "Veronica Magar",
+      "cardSubtitle": "Head of Gender, WHO",
+      "section": "International and Non-governmental Organisations",
+      "biography": "Victoria Magar leads a team of technical experts across six regions to ensure that World Health Organisation programs and policies integrate gender, equity and human rights. Before joining WHO, she was executive director at REACH (research and action for change), leading research, policy analysis and technical support. Since 2006, she has worked with UN agencies, NGOs and governments in more than 30 countries across Asia, Africa and the Middle East to address gender inequality and human rights.",
+      "image": "veronica-magar.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/veronica-magar.jpg"
+    },
+    {
+      "cardTitle": "Gary Barker",
+      "cardSubtitle": "CEO, Promundo",
+      "section": "International and Non-governmental Organisations",
+      "biography": "Gary Barker is president and CEO of Promundo, a leading global organisation in engaging men and boys to promote gender equality and prevent violence. He is also the co-founder of MenCare, a global campaign to promote men becoming equitable, non-violent caregivers and co-founder of MenEngage, a global alliance of more than 700 NGOs and UN agencies working toward gender equality. He also coordinates IMAGES (the International Men and Gender Equality Survey), a pioneering multi-country survey of men’s attitudes and behaviours related to violence, fatherhood and gender equality.",
+      "image": "gary-barker.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/gary-barker.jpg"
+    },
+    {
+      "cardTitle": "Mabel van Oranje",
+      "cardSubtitle": "Founder, VOW for Girls",
+      "section": "International and Non-governmental Organisations",
+      "biography": "Having worked on ending child marriage for the last decade, Mabel van Oranje recently founded \"VOW To End Child Marriage\". This innovative initiative mobilises the multi-billion wedding sector (couples, companies, local vendors, and the wider public) to generate financial support for grassroots efforts to end child marriage. The initiative's pitch is simple: When a couple says \"I do\", they can help a girl elsewhere in the world to say \"I don’t\" or \"not yet\". Mabel is also a member of the (advisory) boards of several organisations, including the European Council on Foreign Relations, the Malala Fund, the Open Society Foundations, and the Jo Cox Foundation.",
+      "image": "mabel-vanoranje.jpeg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/mabel-vanoranje.jpeg"
+    },
+    {
+      "cardTitle": "Alyse Nelson",
+      "cardSubtitle": "CEO, Vital Voices",
+      "section": "International and Non-governmental Organisations",
+      "biography": "Alyse Nelson is president and CEO of Vital Voices Global Partnership, an NGO she co-founded with Hillary Clinton, Madeleine Albright and Melanne Verveer in 2000. Vital Voices works with women leaders on issues of economic empowerment, political participation and human rights. Thanks to her leadership, Vital Voices now serves over 15,000 women leaders in 144 countries. Alyse was previously deputy director of the State Department’s Vital Voices Global Democracy Initiative, and worked at the White House with the President’s Interagency Council on Women.",
+      "image": "alyse-nelson.jpeg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/alyse-nelson.jpeg"
+    },
+    {
+      "cardTitle": "Anne-Birgitte Albrectsen",
+      "cardSubtitle": "CEO, Plan International",
+      "section": "International and Non-governmental Organisations",
+      "biography": "Anne-Birgitte Albrectsen has worked in gender equality and international development for over 25 years. She has been the CEO of Plan International, an organisation devoted to advancing rights and equality for girls, since September 2015, and previously served as the United Nations Assistant Secretary General and deputy executive director for management at the United Nations Population Fund. Albrectsen is also  a member of the United Nations Every Woman Every Child High Level Steering Group.",
+      "image": "annebirgitte-albrectsen.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/annebirgitte-albrectsen.jpg"
+    },
+    {
+      "cardTitle": "Hilary Gbedemah",
+      "cardSubtitle": "Committee Chair, Committee on the Elimination of Discrimination against Women",
+      "section": "International and Non-governmental Organisations",
+      "biography": "Hilary Gbedemah is the chair of a UN General Assembly’s Committee on the Elimination of Discrimination against Women, which is a body comprised of independent experts that focuses on bringing women’s rights into focus as a human rights concern. She has many publications within the field of discrimination against women as a human rights issue. Throughout her law career, she has done significant research in gender and human rights issues, particularly with an advocacy on affirmative action and women’s right to equal representation, property rights of spouses, and women’s economic rights. She previously was a contributor to the World Bank IFC 2012: Women, Business and the Law; Removing Barrier to Economic Inclusion and worked with the Legal Awareness Programme advancing the rights of women living in rural areas.",
+      "image": "hilary-gbedemah.jpeg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/hilary-gbedemah.jpeg"
+    },
+    {
+      "cardTitle": "Memory Kachambwa",
+      "cardSubtitle": "Executive Director, FEMNET",
+      "section": "International and Non-governmental Organisations",
+      "biography": "Memory Kachambwa is a women’s rights activist with 18 years of experience in roles that focus on issues in gender and development, human rights, and women’s empowerment. She is currently the executive director of FEMNET, a pan-African feminist based network that promotes the sharing of ideas, experiences, and information strategies for equality among African women’s organisations. Her previously roles include Gender and Economic Empowerment specialist at the International Youth Foundation, executive director of the Women’s Trust in Zimbabwe, and eight years in various positions at the UN.",
+      "image": "memory-kachambwa.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/memory-kachambwa.jpg"
+    },
+    {
+      "cardTitle": "Purna Sen",
+      "cardSubtitle": "Executive Co-ordinator and Spokesperson on Sexual Harassment, UN Women",
+      "section": "International and Non-governmental Organisations",
+      "biography": "Purna Sen is the UN Women’s executive coordinator and spokesperson on sexual harassment and other forms of discrimination, a role where she aims to introduce “survivor-focused approaches” to work tackling sexual harrassment. She has had a three decades-long career as an activist, an expert on violence against women, an academic and a politician.",
+      "image": "purna-sen.jpeg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/purna-sen.jpeg"
+    },
+    {
+      "cardTitle": "Michelle Bachelet",
+      "cardSubtitle": "High Comissioner for Human Rights, United Nations",
+      "section": "Top 20",
+      "biography": "Michelle Bachelet was appointed High Comissioner for Human Rights at United Nations in 2019. She was the first female president of Chile, serving two terms and leaving a legacy of legislative victories in the fight for gender equality. These included sponsoring a reproductive rights bill and signing a bill legalising gay marriage. She is also a former executive director of UN Women. As Co-Chair of the High-Level Steering Group for Every Woman Every Child, Ms. Bachelet launched Every Woman Every Child Latin America and the Caribbean, the first platform for tailored, regional implementation of the EWEC Global Strategy. In March 2018, Bachelet became board chair of the WHO’s Partnership for Maternal, Newborn and Child Health.",
+      "image": "michelle-bachelet.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/michelle-bachelet.jpg"
+    },
+    {
+      "cardTitle": "Margot Wallström",
+      "cardSubtitle": "Minister for foreign affairs, Sweden",
+      "section": "Top 20",
+      "biography": "Margot Wallström is the minister for foreign affairs and former deputy prime minister of Sweden. From 2010-2012, she was the UN’s special representative on sexual violence in conflict. She is a long-time advocate for the participation of women in peace and security issues, with a focus on the injustice they face in war and conflict. She also served as chair of the Council of Women World Leaders Ministerial Initiative, where she promoted the appointment of women to positions of political responsibility.",
+      "image": "margot-wallstrom.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/margot-wallstrom.jpg"
+    },
+    {
+      "cardTitle": "Ai-jen Poo",
+      "cardSubtitle": "Director, National Domestic Workers Alliance",
+      "section": "Top 20",
+      "biography": "Ai-jen Poo is an American labour activist devoted to advancing women's rights. She serves as director of the National Domestic Workers Alliance and co-director of Caring Across Generations, a national coalition of 200 advocacy organisations working to transform care — work that has been historically associated with women and, particularly, women of colour. In 2014, she won the MacArthur Genious Award, and in 2015, her book, The Age of Dignity: Preparing for the Elder Boom in a Changing America, was published.",
+      "image": "aijen-poo.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/aijen-poo.jpg"
+    },
+    {
+      "cardTitle": "Mariam Jalabi",
+      "cardSubtitle": "Founding member, Syrian Women’s Political Movement",
+      "section": "Top 20",
+      "biography": "Mariam Jalabi is a the United Nations representative of the Syrian Opposition Coalition and a co-founder of the Syrian Women’s Political Movement, an organisation which aims to achieve equal rights for men and women in Syria. She focuses on bringing women’s voices into the process negotiations for Syria and ensuring that the issue of gender equality is promoted in the rebuilding of a new Syrian state, believing that a new Syria is an opportunity to achieve greater female empowerment. She has led the Syrian Coalition’s diplomatic engagement with the Permanent Missions to the United Nations, UN Department of Political Affairs, and Office of the UN Secretary-General where her advocacy and leadership at the United Nations has proven instrumental in framing the narrative on Syrian with the UN community.",
+      "image": "mariam-jalabi.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/mariam-jalabi.jpg"
+    },
+    {
+      "cardTitle": "Amanda Nguyen",
+      "cardSubtitle": "Founder and CEO of Rise",
+      "section": "Top 20",
+      "biography": "Amanda Nguyen is the founder and CEO of Rise, a non-governmental civil rights organisation aimed at protecting the civil rights of sexual assault and rape survivors. She was the driving force behind the Sexual Assault Survivors’ Rights Act, which established statutory rights in federal code for survivors for the first time. It was one of only 23 bills to pass unanimously through US Congress. In 2019, Nguyen was nominated for a Nobel Peace Prize.",
+      "image": "amanda-nguyen.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/amanda-nguyen.jpg"
+    },
+    {
+      "cardTitle": "Bineta Diop",
+      "cardSubtitle": "Founder, Femmes Africa Solidarité",
+      "section": "Top 20",
+      "biography": "Bineta Diop is the special envoy on women, peace and security to the African Union and founder of the NGO Femmes Africa Solidarité (FAS). Through FAS, Diop works to ensure women have a seat at the table for conflict prevention, management and resolution in Africa. Diop's efforts in this field is internationally recognised, and she has received numerous awards, including the United Nations General Assembly Prize in Human Rights in 2003.  In 2011 she was named one of the 100 most influential people in the world by Time Magazine. ",
+      "image": "bineta-diop.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/bineta-diop.jpg"
+    },
+    {
+      "cardTitle": "Denis Mukwege",
+      "cardSubtitle": "Congolese Gynecologist",
+      "section": "Top 20",
+      "biography": "Denis Mukwege is a world-renowned Congolese gynaecologist, human rights activist, Nobel Peace laureate and pastor. He founded and works in Panzi Hospital in Bukavu, a city in the eastern DRC, where he treats women who have been raped and assaulted by armed rebels. Known as “Doctor Miracle” for his ability to repair horrific damage on women who have been raped, he is considered the world’s leading specialist in treating wartime sexual violence. He has campaigned globally against the use of rape as weapon of war and is a member of the G7 Gender Equality Advisory Council",
+      "image": "denis-wukwege.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/denis-wukwege.jpg"
+    },
+    {
+      "cardTitle": "Marlène Schiappa",
+      "cardSubtitle": "Secretary of State in charge of Equality between Women and Men, France",
+      "section": "Top 20",
+      "biography": "Marlène Schiappa is France’s gender equality minister. She is also a writer and activist, and formerly wrote a widely-read self-help blog for working mothers, Maman Travaille. Since her appointment last May, Schiappa has been critical to a wide range of ambitious new gender equality initiatives, including preparing a bill to tackle violence against women and sexual harassment.",
+      "image": "marlene-schiappa.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/marlene-schiappa.jpg"
+    },
+    {
+      "cardTitle": "Maryam Monsef",
+      "cardSubtitle": "Minister for International Development, Canada",
+      "section": "Top 20",
+      "biography": "Maryam Monsef is Canada's minister for women and gender equality, where she leads the federal government’s efforts to ensure all women, girls and gender non-conforming people have the opportunity to succeed. She is the co-founder of the Red Pashmina Campaign, a grassroots initiative which has raised over CA$150,000 to support women in Afghanistan. She is a former community organiser and co-recipient of the YMCA’s Peace Medallion. She served as minister of democratic institutions from November 2015 to January 2017.",
+      "image": "maryam-monsef.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/maryam-monsef.jpg"
+    },
+    {
+      "cardTitle": "Ruth Bader-Ginsburg",
+      "cardSubtitle": "US Supreme Court Justice",
+      "section": "Top 20",
+      "biography": "Ruth Bader Ginsburg is an associate justice of the US Supreme Court, the second woman to be appointed to the position. She is a strong advocate for women’s rights, having won numerous cases of gender discrimination and been an influential pro-abortion advocate. During the 1970s, she served as the director of the Women's Rights Project of the American Civil Liberties Union. She has a track record of defending the equal rights of all groups: for instance, she previously won a case challenging the Social Security Act for favouring the rights of widows over widowers. ",
+      "image": "ruth-baderginsburg.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/ruth-baderginsburg.jpg"
+    },
+    {
+      "cardTitle": "Caren Grown",
+      "cardSubtitle": "Senior Director for Gender at the World Bank Group",
+      "section": "Top 20",
+      "biography": "Caren Grown is senior director for gender at the World Bank. From 2011-2013, she served as senior gender advisor at USAID, where she crafted the Gender Equality and Female Empowerment policy. Formerly, she was co-director of the Gender Equality and Economy Program at The Levy Economics Institute and director of the Poverty Reduction and Economic Governance team at the International Center for Research on Women. Her recent books include The Feminist Economics of Trade and Taxation and Gender Equity.",
+      "image": "caren-grown.jpeg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/caren-grown.jpeg"
+    },
+    {
+      "cardTitle": "Katja Iversen",
+      "cardSubtitle": "CEO and President, Women Deliver",
+      "section": "Top 20",
+      "biography": "Katja Iversen is CEO of Women Deliver, a leading global advocate for investment in the health, rights and wellbeing of girls and women. Iversen is an expert on development, advocacy and communications, and has more than 20 years of experience working in NGOs, the private sector and UN agencies. She is a health adviser to the Clinton Global Initiative, and is on the civil society consultative group to the World Bank. She has also been named an “International Gender Champion”.",
+      "image": "katja-iversen.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/katja-iversen.jpg"
+    },
+    {
+      "cardTitle": "Winnie Byanyima",
+      "cardSubtitle": "Executive Director, Oxfam International",
+      "section": "Top 20",
+      "biography": "Winnie Byanyima is a champion of women’s rights, democratic governance, climate change, and peace building and is currently the executive director of Oxfam International. Elected in Uganda’s Parliament for three terms, she led Uganda’s first parliamentary women’s caucus helping enact gender equality provisions in the country’s post-conflict constitution. In 1985, during Uganda’s peace agreement, she helped broker peace while supporting women’s involvement in the process. She is the founder of the Forum for Women in Democracy (FOWODE) as well as the co-founder of the Global Gender and Climate Alliance.",
+      "image": "winnie-byanyima.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/winnie-byanyima.jpg"
+    },
+    {
+      "cardTitle": "Ranjana Kumari",
+      "cardSubtitle": "Director, Centre for Social Research",
+      "section": "Top 20",
+      "biography": "Ranjana Kumari is a social activist, academic and prolific writer who has devoted her life to empowering women across South Asia. She serves as the director of the Centre for Social Research and chairperson of Women Power Connect. Previously, she was coordinator of the South Asia Network Against Trafficking in Persons. She has written nine books, including Brides are Not for Burning: Dowry Victims in India.",
+      "image": "ranjana-kumari.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/ranjana-kumari.jpg"
+    },
+    {
+      "cardTitle": "Alaa Murabit",
+      "cardSubtitle": "Physician, Canada",
+      "section": "Top 20",
+      "biography": "Alaa Murabit is a Canadian physician, Meritorious Service Cross recipient and one of 17 Global Sustainable Development Goal Advocates appointed by the UN Secretary General. She is also UN high level commissioner on Health Employment and Economic Growth. Prior to this Murabit founded The Voice of Libyan Women at the age of 21, which pushes for greater inclusivity of women in peace processes. Her ted talk  'What my religion really says about women\" has been viewed over four million times. She is a regular speaker on women's rights and inclusive security  all over the world. She has been the recipient of numerous awards from organisatios such as Forbes, The New York Times and Harvard Law. Murabit also serves as a board member for The Malala Fund, International Alert, Malaria No More and Women’s March Global. ",
+      "image": "alaa-murabit.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/alaa-murabit.jpg"
+    },
+    {
+      "cardTitle": "Åsa Regnér",
+      "cardSubtitle": "Assistant Secretary-General of the United Nations and Deputy Executive Director of UN Women",
+      "section": "Top 20",
+      "biography": "Åsa Regnér is assistant secretary-general of the United Nations and deputy executive director of UN Women. She served as Sweden’s gender minister from 2014-2018, where she focussed on preventing violence against women and involving men and boys in gender equality work. During her tenure, Sweden was known for its commitment to gender equality and its self-described “feminist foreign policy”. She is now assistant secretary-general of the United Nations and deputy executive director of UN Women. She previously served as UN Women Country Director in Bolivia (2013-2014) and Secretary-General of Riksförbundet för sexuell upplysning, Swedish International Planned Parenthood Federation branch.",
+      "image": "asa-regner.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/asa-regner.jpg"
+    },
+    {
+      "cardTitle": "Christine Lagarde",
+      "cardSubtitle": "Managing Director and Chairman, International Monetary Fund",
+      "section": "Top 20",
+      "biography": "Christine Langarde is the first female Managing Director and Chairman of the International Monetary Fund. As a strong advocate for women’s economic equality, she is working as director to encourage countries to implement policies to empower women. As a former finance minster for France, she was also the first woman to become finance minister of a G7 country. In 2018, she was ranked third on Forbes’ World’s 100 Most Powerful Women List. ",
+      "image": "christine-lagarde.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/christine-lagarde.jpg"
+    },
+    {
+      "cardTitle": "Michelle Obama",
+      "cardSubtitle": "Founder, Global Girls Alliance",
+      "section": "Top 20",
+      "biography": "Michelle Obama is a lawyer, public servant, university administrator, best-selling author and former First Lady of the United States — the first African-American to serve in that role. She used her platform to establish herself as a powerful role model for women and girls in the US and around the world, advocating for service members, healthy families and education access for all. In 2018 Michelle Obama unveiled a new project, the Girls Opportunity Alliance which sits under the Obama Foundation umbrella and seeks to empower adolescent girls through access to education. Her memoir, Becoming, chronicles the experiences that have shaped her, from growing up on Chicago’s South Side to breaking down barriers at the world’s most famous address.",
+      "image": "michelle-obama.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/michelle-obama.jpg"
+    },
+    {
+      "cardTitle": "Phumzile Mlambo-Ngcuka",
+      "cardSubtitle": "Executive Director, UN Women",
+      "section": "Top 20",
+      "biography": "Phumzile Mlambo-Ngcuka is the executive director of UN Women. In that role, she has had a strong focus on highlighting the rights and activism of rural women. She also founded the HeforShe campaign, which aims to mobilise a million men and boys to support gender parity. Mlambo-Ngcuka served as deputy president of South Africa from 2005 to 2008, the first woman to hold the position, and was actively involved in the struggle to end apartheid.",
+      "image": "phumzile-mlambongcuka.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/phumzile-mlambongcuka.jpg"
+    },
+    {
+      "cardTitle": "Loujain al-Hathloul",
+      "cardSubtitle": "Activist",
+      "section": "Top 20",
+      "biography": "Loujain al-Hathloul is a Saudi activist, and an important figure in a Saudi women's movement that helped fight for reforms such as the June 2018 law change that gave women the right to drive. In 2015 she ran for her country's first municipal elections to allow women, and she has also campaigned for women's right to travel unchaperoned. Al-Hathloul has since attracted international attention in more difficult circumstances, having been jailed alongside other activists in a crackdown on dissent. ",
+      "image": "loujain-alhathloul.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/loujain-alhathloul.jpg"
+    },
+    {
+      "cardTitle": "Nadia Murad",
+      "cardSubtitle": "Activist",
+      "section": "Youth",
+      "biography": "Born to a farming family in the Iraqi village of Kojo, Nadia Murad is a member of the country's Yazidi ethnic and religious minority group. Aged just 19, Murad was subjected to beatings and rape and saw 600 men, including some of her family, slaughtered in an attack by the Islamic State (IS) terrorist group. Murad subsequently escaped IS's grasp and fled to Germany, where she has built a new life working with women and children who are victims of abuse and human trafficking. She was jointly awarded the Nobel Peace Prize in 2018.",
+      "image": "nadia-murad.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/nadia-murad.jpg"
+    },
+    {
+      "cardTitle": "Nimco Ali",
+      "cardSubtitle": "Co-founder and the Director, the Daughters of Eve",
+      "section": "Youth",
+      "biography": "Nimco Ali is a British Somali feminist and social activist. She co-founded and serves as director of Daughters of Eve, which works \"to advance and protect the physical, mental, sexual and reproductive health rights of  young people from female genital mutilation practising communities\". She is an ambassador for #makersUK, an AOL platform that promotes women's leadership. In 2017 she ran as an election candidate for Britain's Women's Equality Party.",
+      "image": "nimco-ali.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/nimco-ali.jpg"
+    },
+    {
+      "cardTitle": "Rebeca Gyumi",
+      "cardSubtitle": "Founder & Executive Director, Msichana Initiative",
+      "section": "Youth",
+      "biography": "Rebeca Gyumi and her organisation, Msichana Initiative (named for the Swahili word for \"girl\") campaigned for the overhaul of Tanzania's Marriage Act of 1971, which allowed girls as young as 14 to be married with their parents' consent. The law was changed in 2016, and in 2018 Gyumi was awarded the UN Human Rights Prize. Msichana also campaigns on other issues including transportation for rural women.",
+      "image": "rebeca-gyumi.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/rebeca-gyumi.jpg"
+    },
+    {
+      "cardTitle": "Amika George",
+      "cardSubtitle": "Activist",
+      "section": "Youth",
+      "biography": "In 2017, Amika George founded the #FreePeriods movement when she was 18 — inspired by the fact that period poverty was leading her contemporaries to miss school. In 2017, the group led a 2000-strong protest outside the British Prime Minister's office, and it is now campaigning for free menstrual products to be introduced in schools in England, following the example of Scotland to the north. In the UK, sanitary products are deemed a \"luxury item\" and incur a significant sales tax. ",
+      "image": "amika-george.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/amika-george.jpg"
+    },
+    {
+      "cardTitle": "Leana Wen",
+      "cardSubtitle": "President, Planned Parenthood",
+      "section": "Youth",
+      "biography": "Leana Wen is an American physician, public health advocate, author and president of Planned Parenthood Federation of America, the US’s leading provider of sexual and reproductive healthcare and education. Wen, the first doctor to lead Planned Parenthood in 50 years, previously served as the Health Commissioner for the City of Baltimore, where she worked to fight the opioid epidemic, treat violence and racism as health issues and improve maternal and child health. She wrote the book When Doctors Don’t Listen: How to Avoid Misdiagnoses and Unnecessary Tests.",
+      "image": "leana-wen.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/leana-wen.jpg"
+    },
+    {
+      "cardTitle": "Liz Plank",
+      "cardSubtitle": "Senior Producer and Political Correspondent, Vox",
+      "section": "Youth",
+      "biography": "Liz Plank is a video blogger, author and journalist. She is currently a senior producer and political correspondent at Vox and uses her platform to raise awareness for feminist issues. While studying at the London School of Economics, she launched a successful petition to reverse the Amateur International Boxing Association’s decision to make skirts mandatory for female boxers at the 2012 Olympic Games. ",
+      "image": "liz-plank.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/liz-plank.jpg"
+    },
+    {
+      "cardTitle": "Bhumika Shrestha",
+      "cardSubtitle": "Activist, Blue Diamond Society",
+      "section": "Youth",
+      "biography": "Bhumika Shrestha is a transgender activist, model, and actress, who has become a prominent voice of the transgender movement in Nepal. Due to her own experiences as a transgender woman, she has been outspoken on changing laws that prevent discrimination against the LGBT community. She played a prominent role campaigning alongside the Blue Diamond Society, a Nepali LGBT rights organisation, to include a third gender option on nepalese passports.  She was the first Nepali citizen to travel with documents marked with the country’s legally recognised “third gender”. ",
+      "image": "bhumika-shrestha.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/bhumika-shrestha.jpg"
+    },
+    {
+      "cardTitle": "Emma Watson",
+      "cardSubtitle": "Activist, actress",
+      "section": "Youth",
+      "biography": "Emma Watson, actress, model and UN Women Goodwill Ambassador became a household name from a young age through her role as Hermione in the popular Harry Potter movies. Outside of her appearances on the silver screen, she has made a name for herself as a vocal defender of women's rights. Her speech at the kick-off event for the 2014 United Nations HeForShe campaign made the message of gender equality go viral. Her social media accounts are followed by tens of millions of people around the world, giving her a global platform to advance her message of equality. In 2019 Watson was appointed to the G7 Gender Equality Advisory Council along with 30 other prominent equal rights activists. ",
+      "image": "emma-watson.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/emma-watson.jpg"
+    },
+    {
+      "cardTitle": "Jaha Dukureh",
+      "cardSubtitle": "CEO and Founder, Safe Hands for Girls",
+      "section": "Youth",
+      "biography": "Jaha Dukureh is a Gambian women’s right activist and anti-female genital mutilation campaigner. Herself a survivor of FGM, she is the founder and executive director of Safe Hands for Girls. Alongside other women’s organizations and civil society, she contributed to the Gambian government’s announcing a ban on FGM.",
+      "image": "jaha-dukereh.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/jaha-dukereh.jpg"
+    },
+    {
+      "cardTitle": "Sarah McBride",
+      "cardSubtitle": "Transgender rights activist and National Press Secretary of the Human Rights Campaign",
+      "section": "Youth",
+      "biography": "Sarah McBride is an American transgender rights activist and the National Press Secretary of the Human Rights Campaign, the largest LGBTQ advocacy group in the US. As a member of Equality Delaware, she successfully campaigned to introduce legislation banning discrimination on the basis of gender identity in employment, housing, insurance, and public accomodations. Her speech at the Democratic National Convention of 2016 made her the first openly transgender person to speak at a national party convention. ",
+      "image": "sarah-mcbride.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/sarah-mcbride.jpg"
+    }
+  ]
+}
