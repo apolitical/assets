@@ -16,8 +16,8 @@
   "pre": [
     "With more nominations than ever before, this is our biggest and most global list yet: drawn from over 9000 nominations, it celebrates the people currently making the biggest impact in transforming gender policy around the world. ",
     "Featuring politicians, civil servants, academics and activists, the list both recognises high-profile icons, and shines a light on the unsung heroes whose work is indispensable in creating a fairer world for everyone. ",
-    "If you work in policymaking, we’d like to invite you to <a href=\"https://apolitical.co/signup?ref=list-gender-equality-100/2019\" data-gtm-event-type=\"signup-click\" data-gtm-event-context=\"lists-intro-text\">join our free global network</a> for public servants. If you think someone’s missing from our top 100, please nominate them now for next year’s list by emailing <a href=\"mailto:eve.powell@apolitical.co\">eve.powell@apolitical.co</a>. If you'd like to know more about how we made our choices please <a href=\"https://drive.google.com/file/d/15d8U03Hm29-9HhJ2vW_hwomkcoSeAR_6/view?usp=sharing\">click here.</a>",
-    "If you'd like to know more about how we made our choices please click <a href=\"drive.google.com/file/d/15YKyTi54_NW60n27c0WaV-C0bkJssyU7/view\">here</a>. If you’d like to see last years list, please follow this <a href=\"https://apolitical.co/gender-equality-top-100/\">link.</a>"
+    "If you work in policymaking, we’d like to invite you to <a href=\"https://apolitical.co/signup?ref=list-gender-equality-100/2019\" data-gtm-event-type=\"signup-click\" data-gtm-event-context=\"lists-intro-text\">join our free global network</a> for public servants. If you think someone’s missing from our top 100, please nominate them now for next year’s list by emailing <a href=\"mailto:eve.powell@apolitical.co\">eve.powell@apolitical.co</a>.",
+    "If you'd like to know more about how we made our choices please click <a href=\"https://drive.google.com/file/d/15YKyTi54_NW60n27c0WaV-C0bkJssyU7/view\">here</a>. If you’d like to see last years list, please follow this <a href=\"https://apolitical.co/gender-equality-top-100/\">link.</a>"
   ],
   "footer": {
     "header": "Photo Credits:",
@@ -603,6 +603,30 @@
       "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/purna-sen.jpeg"
     },
     {
+      "cardTitle": "Ruth Bader-Ginsburg",
+      "cardSubtitle": "US Supreme Court Justice",
+      "section": "Top 20",
+      "biography": "Ruth Bader Ginsburg is an associate justice of the US Supreme Court, the second woman to be appointed to the position. She is a strong advocate for women’s rights, having won numerous cases of gender discrimination and been an influential pro-abortion advocate. During the 1970s, she served as the director of the Women's Rights Project of the American Civil Liberties Union. She has a track record of defending the equal rights of all groups: for instance, she previously won a case challenging the Social Security Act for favouring the rights of widows over widowers. ",
+      "image": "ruth-baderginsburg.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/ruth-baderginsburg.jpg"
+    },
+    {
+      "cardTitle": "Alaa Murabit",
+      "cardSubtitle": "Physician, Canada",
+      "section": "Top 20",
+      "biography": "Alaa Murabit is a Canadian physician, Meritorious Service Cross recipient and one of 17 Global Sustainable Development Goal Advocates appointed by the UN Secretary General. She is also UN high level commissioner on Health Employment and Economic Growth. Prior to this Murabit founded The Voice of Libyan Women at the age of 21, which pushes for greater inclusivity of women in peace processes. Her ted talk  'What my religion really says about women\" has been viewed over four million times. She is a regular speaker on women's rights and inclusive security  all over the world. She has been the recipient of numerous awards from organisatios such as Forbes, The New York Times and Harvard Law. Murabit also serves as a board member for The Malala Fund, International Alert, Malaria No More and Women’s March Global. ",
+      "image": "alaa-murabit.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/alaa-murabit.jpg"
+    },
+    {
+      "cardTitle": "Ranjana Kumari",
+      "cardSubtitle": "Director, Centre for Social Research",
+      "section": "Top 20",
+      "biography": "Ranjana Kumari is a social activist, academic and prolific writer who has devoted her life to empowering women across South Asia. She serves as the director of the Centre for Social Research and chairperson of Women Power Connect. Previously, she was coordinator of the South Asia Network Against Trafficking in Persons. She has written nine books, including Brides are Not for Burning: Dowry Victims in India.",
+      "image": "ranjana-kumari.jpg",
+      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/ranjana-kumari.jpg"
+    },
+    {
       "cardTitle": "Michelle Bachelet",
       "cardSubtitle": "High Comissioner for Human Rights, United Nations",
       "section": "Top 20",
@@ -675,14 +699,6 @@
       "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/maryam-monsef.jpg"
     },
     {
-      "cardTitle": "Ruth Bader-Ginsburg",
-      "cardSubtitle": "US Supreme Court Justice",
-      "section": "Top 20",
-      "biography": "Ruth Bader Ginsburg is an associate justice of the US Supreme Court, the second woman to be appointed to the position. She is a strong advocate for women’s rights, having won numerous cases of gender discrimination and been an influential pro-abortion advocate. During the 1970s, she served as the director of the Women's Rights Project of the American Civil Liberties Union. She has a track record of defending the equal rights of all groups: for instance, she previously won a case challenging the Social Security Act for favouring the rights of widows over widowers. ",
-      "image": "ruth-baderginsburg.jpg",
-      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/ruth-baderginsburg.jpg"
-    },
-    {
       "cardTitle": "Caren Grown",
       "cardSubtitle": "Senior Director for Gender at the World Bank Group",
       "section": "Top 20",
@@ -705,22 +721,6 @@
       "biography": "Winnie Byanyima is a champion of women’s rights, democratic governance, climate change, and peace building and is currently the executive director of Oxfam International. Elected in Uganda’s Parliament for three terms, she led Uganda’s first parliamentary women’s caucus helping enact gender equality provisions in the country’s post-conflict constitution. In 1985, during Uganda’s peace agreement, she helped broker peace while supporting women’s involvement in the process. She is the founder of the Forum for Women in Democracy (FOWODE) as well as the co-founder of the Global Gender and Climate Alliance.",
       "image": "winnie-byanyima.jpg",
       "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/winnie-byanyima.jpg"
-    },
-    {
-      "cardTitle": "Ranjana Kumari",
-      "cardSubtitle": "Director, Centre for Social Research",
-      "section": "Top 20",
-      "biography": "Ranjana Kumari is a social activist, academic and prolific writer who has devoted her life to empowering women across South Asia. She serves as the director of the Centre for Social Research and chairperson of Women Power Connect. Previously, she was coordinator of the South Asia Network Against Trafficking in Persons. She has written nine books, including Brides are Not for Burning: Dowry Victims in India.",
-      "image": "ranjana-kumari.jpg",
-      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/ranjana-kumari.jpg"
-    },
-    {
-      "cardTitle": "Alaa Murabit",
-      "cardSubtitle": "Physician, Canada",
-      "section": "Top 20",
-      "biography": "Alaa Murabit is a Canadian physician, Meritorious Service Cross recipient and one of 17 Global Sustainable Development Goal Advocates appointed by the UN Secretary General. She is also UN high level commissioner on Health Employment and Economic Growth. Prior to this Murabit founded The Voice of Libyan Women at the age of 21, which pushes for greater inclusivity of women in peace processes. Her ted talk  'What my religion really says about women\" has been viewed over four million times. She is a regular speaker on women's rights and inclusive security  all over the world. She has been the recipient of numerous awards from organisatios such as Forbes, The New York Times and Harvard Law. Murabit also serves as a board member for The Malala Fund, International Alert, Malaria No More and Women’s March Global. ",
-      "image": "alaa-murabit.jpg",
-      "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/alaa-murabit.jpg"
     },
     {
       "cardTitle": "Åsa Regnér",
@@ -765,7 +765,7 @@
     {
       "cardTitle": "Nadia Murad",
       "cardSubtitle": "Activist",
-      "section": "Youth",
+      "section": "Young Leaders",
       "biography": "Born to a farming family in the Iraqi village of Kojo, Nadia Murad is a member of the country's Yazidi ethnic and religious minority group. Aged just 19, Murad was subjected to beatings and rape and saw 600 men, including some of her family, slaughtered in an attack by the Islamic State (IS) terrorist group. Murad subsequently escaped IS's grasp and fled to Germany, where she has built a new life working with women and children who are victims of abuse and human trafficking. She was jointly awarded the Nobel Peace Prize in 2018.",
       "image": "nadia-murad.jpg",
       "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/nadia-murad.jpg"
@@ -773,7 +773,7 @@
     {
       "cardTitle": "Nimco Ali",
       "cardSubtitle": "Co-founder and the Director, the Daughters of Eve",
-      "section": "Youth",
+      "section": "Young Leaders",
       "biography": "Nimco Ali is a British Somali feminist and social activist. She co-founded and serves as director of Daughters of Eve, which works \"to advance and protect the physical, mental, sexual and reproductive health rights of  young people from female genital mutilation practising communities\". She is an ambassador for #makersUK, an AOL platform that promotes women's leadership. In 2017 she ran as an election candidate for Britain's Women's Equality Party.",
       "image": "nimco-ali.jpg",
       "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/nimco-ali.jpg"
@@ -781,7 +781,7 @@
     {
       "cardTitle": "Rebeca Gyumi",
       "cardSubtitle": "Founder & Executive Director, Msichana Initiative",
-      "section": "Youth",
+      "section": "Young Leaders",
       "biography": "Rebeca Gyumi and her organisation, Msichana Initiative (named for the Swahili word for \"girl\") campaigned for the overhaul of Tanzania's Marriage Act of 1971, which allowed girls as young as 14 to be married with their parents' consent. The law was changed in 2016, and in 2018 Gyumi was awarded the UN Human Rights Prize. Msichana also campaigns on other issues including transportation for rural women.",
       "image": "rebeca-gyumi.jpg",
       "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/rebeca-gyumi.jpg"
@@ -789,7 +789,7 @@
     {
       "cardTitle": "Amika George",
       "cardSubtitle": "Activist",
-      "section": "Youth",
+      "section": "Young Leaders",
       "biography": "In 2017, Amika George founded the #FreePeriods movement when she was 18 — inspired by the fact that period poverty was leading her contemporaries to miss school. In 2017, the group led a 2000-strong protest outside the British Prime Minister's office, and it is now campaigning for free menstrual products to be introduced in schools in England, following the example of Scotland to the north. In the UK, sanitary products are deemed a \"luxury item\" and incur a significant sales tax. ",
       "image": "amika-george.jpg",
       "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/amika-george.jpg"
@@ -797,7 +797,7 @@
     {
       "cardTitle": "Leana Wen",
       "cardSubtitle": "President, Planned Parenthood",
-      "section": "Youth",
+      "section": "Young Leaders",
       "biography": "Leana Wen is an American physician, public health advocate, author and president of Planned Parenthood Federation of America, the US’s leading provider of sexual and reproductive healthcare and education. Wen, the first doctor to lead Planned Parenthood in 50 years, previously served as the Health Commissioner for the City of Baltimore, where she worked to fight the opioid epidemic, treat violence and racism as health issues and improve maternal and child health. She wrote the book When Doctors Don’t Listen: How to Avoid Misdiagnoses and Unnecessary Tests.",
       "image": "leana-wen.jpg",
       "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/leana-wen.jpg"
@@ -805,7 +805,7 @@
     {
       "cardTitle": "Liz Plank",
       "cardSubtitle": "Senior Producer and Political Correspondent, Vox",
-      "section": "Youth",
+      "section": "Young Leaders",
       "biography": "Liz Plank is a video blogger, author and journalist. She is currently a senior producer and political correspondent at Vox and uses her platform to raise awareness for feminist issues. While studying at the London School of Economics, she launched a successful petition to reverse the Amateur International Boxing Association’s decision to make skirts mandatory for female boxers at the 2012 Olympic Games. ",
       "image": "liz-plank.jpg",
       "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/liz-plank.jpg"
@@ -813,7 +813,7 @@
     {
       "cardTitle": "Bhumika Shrestha",
       "cardSubtitle": "Activist, Blue Diamond Society",
-      "section": "Youth",
+      "section": "Young Leaders",
       "biography": "Bhumika Shrestha is a transgender activist, model, and actress, who has become a prominent voice of the transgender movement in Nepal. Due to her own experiences as a transgender woman, she has been outspoken on changing laws that prevent discrimination against the LGBT community. She played a prominent role campaigning alongside the Blue Diamond Society, a Nepali LGBT rights organisation, to include a third gender option on nepalese passports.  She was the first Nepali citizen to travel with documents marked with the country’s legally recognised “third gender”. ",
       "image": "bhumika-shrestha.jpg",
       "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/bhumika-shrestha.jpg"
@@ -821,7 +821,7 @@
     {
       "cardTitle": "Emma Watson",
       "cardSubtitle": "Activist, actress",
-      "section": "Youth",
+      "section": "Young Leaders",
       "biography": "Emma Watson, actress, model and UN Women Goodwill Ambassador became a household name from a young age through her role as Hermione in the popular Harry Potter movies. Outside of her appearances on the silver screen, she has made a name for herself as a vocal defender of women's rights. Her speech at the kick-off event for the 2014 United Nations HeForShe campaign made the message of gender equality go viral. Her social media accounts are followed by tens of millions of people around the world, giving her a global platform to advance her message of equality. In 2019 Watson was appointed to the G7 Gender Equality Advisory Council along with 30 other prominent equal rights activists. ",
       "image": "emma-watson.jpg",
       "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/emma-watson.jpg"
@@ -829,7 +829,7 @@
     {
       "cardTitle": "Jaha Dukureh",
       "cardSubtitle": "CEO and Founder, Safe Hands for Girls",
-      "section": "Youth",
+      "section": "Young Leaders",
       "biography": "Jaha Dukureh is a Gambian women’s right activist and anti-female genital mutilation campaigner. Herself a survivor of FGM, she is the founder and executive director of Safe Hands for Girls. Alongside other women’s organizations and civil society, she contributed to the Gambian government’s announcing a ban on FGM.",
       "image": "jaha-dukereh.jpg",
       "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/jaha-dukereh.jpg"
@@ -837,7 +837,7 @@
     {
       "cardTitle": "Sarah McBride",
       "cardSubtitle": "Transgender rights activist and National Press Secretary of the Human Rights Campaign",
-      "section": "Youth",
+      "section": "Young Leaders",
       "biography": "Sarah McBride is an American transgender rights activist and the National Press Secretary of the Human Rights Campaign, the largest LGBTQ advocacy group in the US. As a member of Equality Delaware, she successfully campaigned to introduce legislation banning discrimination on the basis of gender identity in employment, housing, insurance, and public accomodations. Her speech at the Democratic National Convention of 2016 made her the first openly transgender person to speak at a national party convention. ",
       "image": "sarah-mcbride.jpg",
       "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/sarah-mcbride.jpg"
