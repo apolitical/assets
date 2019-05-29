@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
+    <defs>
+        <filter id="a" width="129.8%" height="128.6%" x="-14.9%" y="-14.3%" filterUnits="objectBoundingBox">
+            <feMerge>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+        <circle id="b" cx="60" cy="60" r="60"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" filter="url(#a)">
+        <mask id="c" fill="#fff">
+            <use xlink:href="#b"/>
+        </mask>
+        <use fill="#46B8A6" xlink:href="#b"/>
+        <g fill="#FFF" mask="url(#c)">
+            <path d="M102.545 103.636c0-23.498-19.045-42.545-42.545-42.545-23.483 0-42.545 19.066-42.545 42.526v12.842a3.273 3.273 0 0 0 6.545 0v-12.842c0-19.845 16.132-35.98 36-35.98 19.885 0 36 16.115 36 36v12.803a3.273 3.273 0 1 0 6.545 0v-12.804zM82.91 38.182c0-12.653-10.257-22.91-22.909-22.91S37.09 25.53 37.09 38.183C37.09 50.834 47.349 61.09 60 61.09c12.652 0 22.91-10.257 22.91-22.91zm-39.273 0c0-9.038 7.327-16.364 16.364-16.364s16.364 7.326 16.364 16.364c0 9.037-7.327 16.363-16.364 16.363S43.636 47.22 43.636 38.182z"/>
+        </g>
+    </g>
+</svg>
