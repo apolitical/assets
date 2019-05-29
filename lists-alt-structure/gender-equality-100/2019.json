@@ -1,34 +1,45 @@
 {
   "metaData": {
-    "htmlTitle": "Apolitical Lists | Apolitical",
-    "twitterTitle": "The Most Influential People In Global Policy 2019",
-    "twitterDescription": "",
-    "twitterImage": "",
-    "facebookImage": "",
-    "facebookTitle": ""
+    "htmlTitle": "The World's 100 Most Influential People in Gender Policy | Apolitical",
+    "twitterTitle": "The World's 100 Most Influential People in Gender Policy",
+    "twitterDescription": "Drawn from over 9000 nominations, this list celebrates the people currently making the biggest impact in transforming gender policy around the world.",
+    "twitterImage": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/Gender List - social card.png",
+    "facebookDescription": "Drawn from over 9000 nominations, this list celebrates the people currently making the biggest impact in transforming gender policy around the world.",
+    "facebookImage": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/Gender List - social card.png",
+    "facebookTitle": "The World's 100 Most Influential People in Gender Policy"
   },
   "hero": {
     "title": "gender equality top 100",
     "subtitle": "the most influential people in global policy 2019",
-    "imageUrl": ""
+    "imageUrl": "https://assets.apolitical.co/images/lists/gender-equality-100/2019/Gender List Banner.png"
   },
   "pre": [
-    "First paragraph",
-    "Second paragraph",
-    "Third paragraph",
+    "With more nominations than ever before, this is our biggest and most global list yet: drawn from over 9000 nominations, it celebrates the people currently making the biggest impact in transforming gender policy around the world. ",
+    "Featuring politicians, civil servants, academics and activists, the list both recognises high-profile icons, and shines a light on the unsung heroes whose work is indispensable in creating a fairer world for everyone. ",
     "If you work in policymaking, we’d like to invite you to <a href=\"https://apolitical.co/signup?ref=list-gender-equality-100/2019\" data-gtm-event-type=\"signup-click\" data-gtm-event-context=\"lists-intro-text\">join our free global network</a> for public servants. If you think someone’s missing from our top 100, please nominate them now for next year’s list by emailing <a href=\"mailto:eve.powell@apolitical.co\">eve.powell@apolitical.co</a>. If you'd like to know more about how we made our choices please <a href=\"https://drive.google.com/file/d/15d8U03Hm29-9HhJ2vW_hwomkcoSeAR_6/view?usp=sharing\">click here.</a>"
+    "If you'd like to know more about how we made our choices please click <a href=\"drive.google.com/file/d/15YKyTi54_NW60n27c0WaV-C0bkJssyU7/view">here</a>. If you’d like to see last years list, please follow this <a href="https://apolitical.co/gender-equality-top-100/">link.</a>",
   ],
   "footer": {
     "header": "Photo Credits:",
-    "content": []
+    "content": [
+      "Twitter: Amanda Nguyen, Amina Mohammed, Bineta Diop, Denis Mukwege, Fabiana Tuñez, Janet Camilo, Julia Gillard, Katrín Jakobsdóttir, Kavita Ramdas, Lina Abirafeh, Marai Larasi, Marlène Schiappa, Maryam Monsef, Melinda Gates, Nadia Murad, Nancy Pelosi, Natalia Kanem, Ola Abu Al Ghaib, Rose Rwabuhihi, Senait Fisseha, Tarana Burke, Rebeca Gyumi, Ai-jen Poo, Amika George, Caren Grown, Geeta Rao Gupta, Henriette Kolb, Jeni Klugman, Joanna Maycock, Katja Iversen, Laura Liswood, Leana Wen, Lyric Thompson, Mandu Reid, Marian Baird, Melanne Verveer, Musimbi Kanyoro, Naila Kabeer, Pat Mitchell, Randi Davis, Roopa Dhatt, Sarah Hendriks, Shauna Olney, Silvana Koch-Mehrin, Theo Sowa, Veronica Magar, Winnie Byanyima, Zainab Salbi, Hilary Spencer, Nadine Gasman, Gary Barker, Mabel van Oranje, Ranjana Kumari, Alyse Nelson, Anne-Birgitte Albrectsen, Åsa Regnér, Christine Lagarde, Dalia Grybauskaitė, Helen Clark, Iris Bohnet, Irma Erlingsdottir, Jaha Dukureh, Josephine Kulea, Julienne Lusenge, Leymah Gbowee, Margot Wallstrom, Maria Cavalcanti, Memory Kachambwa, Michelle Bachelet, Phumzile Mlambo-Ngcuka, Purna Sen, Sarah McBride",
+      "Own website/picture: Leith Dunn, Mariella Mazzotti, Ros Sopheap, Shen Yueyue, Elizabeth Nyamayaro, Eva Kail, Libby Lyons, Michael Kaufman, Monique Wilson, Sarah Degnan Kambou, Shruti Kapoor, Hilary Gbedemah, Paula Donovan, Gabriela Ramos, Bhumika Shrestha",
+      "Wikimedia: Loujain al-Hathloul, Ruth Bader-Ginsburg, Wanjiku Mukabi Kabira, Alaa Murabit",
+      "Flickr: Randa Siniora, Rosa Emilia Salamanca, Mariam Jalabi, Emma Watson",
+      "Flickr/Gage Skidmore: Michelle Obama",
+      "Medium: Charlotte Watts",
+      'Women’s Equality Party: Nimco Ali",
+      "Malala Fund: Habiba Mohammed",
+      "James Bareham: Liz Plank",
+    ]
   },
   "galleryOrder": [
     "Top 20",
-    "Academia",
-    "Advocacy",
+    "Young Leaders",
+    "International and Non-Governmental Organisations",
     "Government and Politics",
-    "International and Non-governmental Organisations",
-    "Youth"
+    "Advocacy",
+    "Academia"
   ],
   "gallery": [
     {
