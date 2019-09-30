@@ -32,714 +32,713 @@
   },
   "gallery": [
     {
+      "biography": "Aaron Snow is chief executive officer of the Canadian Digital Service, a position he took up in 2018 after previously having enjoyed a top-flight career in US digital government. He co-founded 18F, an influential tech fixes team that sits within the American General Services Administration (GSA), in 2013. He later advised the GSA’s Technology Transformation Service. He has also worked as chief operating office at cBrain, a government digitsation and automation company based in Denmark.",
+      "cardSubtitle": "CEO, Canadian Digital Service",
       "cardTitle": "Aaron Snow",
-      "cardSubtitle": "CEO, Canadian Digital Services",
-      "biography": "Aaron Snow is chief executive officer of the Canadian Digital Service, a position he took up this year after previously having enjoyed a top-flight career in US digital government. He co-founded 18F, an influential tech fixes team that sits within the American General Services Administration (GSA), in 2013. He later advised the GSA’s Technology Transformation Service. He has also worked as chief operating office at cBrain, a government digitsation and automation company based in Denmark.",
-      "section": "National government",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/AaronSnow.jpg"
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Aaron-Snow.jpg",
+      "section": "Government"
     },
     {
-      "cardTitle": "Alan Brown",
-      "cardSubtitle": "Professor of Entrepreneurship and Innovation, Surrey Business School, University of Surrey",
-      "biography": "Alan Brown is a professor of entrepreneurship and Innovation and executive director of the Surrey Centre for the Digital Economy (CoDE) in the Surrey Business School at the University of Surrey, UK, where he investigates emerging patterns in the digital economy. Much of his current work focuses on developing insights aimed at accelerating digital change in the private and public sectors. His 2014 book Digitizing Government has been praised by digital government experts all over the world.",
-      "section": "Academia",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/AlanBrown.jpg"
+      "biography": "Amanda Smith is the recently appointed Head of User-Centred Policy Design at the Ministry of Justice UK. Before taking this role up in May 2019, Amanda was the Head of Data Strategy and Culture for the Ministry, and acted as a Senior Consultant at the Open Data Institute. In 2011 she led the UK Prime Ministerial commitment to deliver the world's first open crime and justice website and data platform: police.uk and data.police.uk, and in 2015 won the first Bloomberg WISE Open Technology award from the HRH Process Royal for her contributions in data and technology across Europe. Amanda specialises in data strategy, leadership and innovation programmes, and organisational design with a focus on open culture and user-centred approaches. ",
+      "cardSubtitle": "Head of User-Centred Policy Design, UK Ministry of Justice",
+      "cardTitle": "Amanda Smith",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Amanda-Smith.jpeg",
+      "section": "Young Leaders"
     },
     {
-      "cardTitle": "Alex Benay",
-      "cardSubtitle": "CIO, Government of Canada",
-      "biography": "Alex Benay has been chief information officer for the Canadian federal government since 2017. He has previously worked in government running the Canada Science & Technology Museums Corporation, overseeing its digital transformation, and in the Canadian foreign affairs ministry. In the private sector, Benay worked for five years at OpenText, Canada’s largest software company.",
-      "section": "National government",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/AlexBenay.jpg"
+      "biography": "Aneeta Bains is a Consultant in Public Sector Innovation and Digital Transformation at Deloitte Canada. She is a member of the CIO Strategy Council, and previously held the position of Chief Digital Officer for Innovation Science and Economic Development for the government of Canada. Aneeta is determined to bring government and society together in an integrated digital world, and has been recognised as a collaborative visionary with strong leadership.",
+      "cardSubtitle": "Chief Digital Officer, Assistant Deputy Minister, Innovation Science and Economic Development Canada",
+      "cardTitle": "Aneeta Bains",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Aneeta-Bains.jpg",
+      "section": "Government"
     },
     {
-      "cardTitle": "Alex Howard",
-      "cardSubtitle": "Independent Writer and Open Government Advocate",
-      "biography": "Alex Howard is founder of government technology blog e-PluribusUnum.org, a top resource for open government and press freedom communities across the world. Previously, he was the Deputy Director of Sunlight Foundation, a US-based nonprofit that uses civic technologies, open data, policy analysis, and journalism to increase government accountability. In this position, he helped enact reforms of the Freedom of Information Act, draft the Honest Ads Act, which would increase transparency of online political advertising, and advocate for democratic principles to be encoded into digital government platforms, services and policies.",
-      "section": "Nonprofit",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/AlexHoward.jpg"
+      "biography": "Angela Colter is the Executive Director of 18F, a USA federal government design consultancy serving other government organisations, helping them build products and improve their public service delivery. She has contributed in overseeing 18F’s shift towards building with their government agency clients rather than for them, educating and empowering them to do more of the actual development and maintenance of their products. Before 18F, Angela served as design researcher and usability consultant for a range of organisations, including at Electronic Ink and UserWorks, where she helped to anchor technological product design around user perspectives.",
+      "cardSubtitle": "Executive Director, 18F",
+      "cardTitle": "Angela Colter",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Angela-Colter.jpeg",
+      "section": "Government"
     },
     {
-      "cardTitle": "Ali Khouri",
-      "cardSubtitle": "Chairman, Arab Federation for Digital Economy, Arab League and Director General, Ministry of Interior, UAE",
-      "biography": "Al-Khouri is the former Director General of Emirates ID. Under his leadership, the authority helped to entrench a culture of innovation and high performance among staff. It successfully implemented government plans to register the UAE's population and build an identity management infrastructure which now supports e-government and and the digital economy. Emirates ID has received international accolades, including a UN Public Sector Award. In 2011, Al-Khouri \"Most Influential Personality in Digital Identity in a Decade\" by the 10th ID WORLD International Congress, and has published over 100 books and research articles.",
-      "section": "National government",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/AliKhouri.jpg"
+      "biography": "The Open Data Charter unites governments and civil society around one shared goal: creating a culture of open and responsible data use in government and making that data available to citizens. As the Executive Director, Ania Calderón has urged governments to adopt an \"open by default\" mindset and been a driving force for expanding the number of signatories to the charter, which now counts more than 70 governments around the world. In 2019, the Open Data Charter has put the data rights of citizens at the top of their agenda and highlighted the need for increased data transparency.",
+      "cardSubtitle": "Executive Director, Open Data Charter",
+      "cardTitle": "Ania Calderón",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Ania-Calderon.jpg",
+      "section": "Young Leaders"
     },
     {
-      "cardTitle": "Andrés Bustamante Valenzuela",
-      "cardSubtitle": "Head of Digital Government, General Secretariat of the Chilean Presidency",
-      "biography": "Andrés Bustamante Valenzuela is head of the Digital Government Office in the President of Chile’s General Secretariat. He has coordinated digital government projects including pension reform and led the “Chile Sin Papeleo” initiative (Chile Without Paperwork) which digitalized 500 procedures and synchronized 40 government agencies (now interoperable). As the head of the Digital Office he created and implemented the public “One-Stop Multichannel” citizen centered service ChileAtiende, led the implementation of the new Transparency Law, the National Digital Identity “ClaveUnica”, and the first Open Government intiatives and platforms on Open Data and Citizen Engagement. From 2014 to 2018 he was a founding partner at Asimov Consultants, a firm assisting public agencies on digital transformation and the use of disruptive technologies.",
-      "section": "National government",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/AndresBustamanteValenzuela.jpg"
+      "biography": "Anna-Maija Karjalainen is the director general of public sector ICT in Finland's Ministry of Finance. Karjalainen is responsible for creating guidelines for digital services and ensuring that all departments are digitalising services. She has helped boost Finland to the number six spot on the 2018 United Nation e-government survey. Karjalainen has also helped automate the Ministry of Finance, using robots and artificial intelligence to streamline government services.",
+      "cardSubtitle": "Director of General Public Sector ICT, Ministry of Finance, Finland",
+      "cardTitle": "Anna-Maija Karjalainen",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Anna-Maija-Karjalainen.jpeg",
+      "section": "Government "
     },
     {
-      "cardTitle": "Andrew Rasiej",
-      "cardSubtitle": "Founder, Civic Hall",
-      "biography": "Andrew Rasiej is the founder of Civic Hall, a New York City community center that pioneers technology for public interest, and co-founder of Civic Hall Labs, Civic Hall’s research and development arm. In 2004, Rasiej co-founded the Personal Democracy Forum, the world’s largest conference that focuses on the intersections of technology, politics, and government. He is also the founder of MOUSE.org, a youth development nonprofit that provides students in New York City public schools and across the the world with technology education.",
-      "section": "Nonprofit",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/AndrewRasiej.jpg"
+      "biography": "Arvo Ott is the executive director of Estonia’s e-Governance Academy, a non-profit think tank and consultancy part-owned by the Estonian government. His focus is e-governance studies and consultations, training programs and general management. Prior to joining the academy, Ott served as head of the e-government office at Estonia’s Ministry of Economic Affairs and Communications for more than 12 years. He was responsible for e-government strategy planning and implementation.",
+      "cardSubtitle": "Executive Director, Estonia's e-Governance Academy",
+      "cardTitle": "Arvo Ott",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Arvo-Ott.jpeg",
+      "section": "International and Non-governmental Organisations"
     },
     {
-      "cardTitle": "Andrus Ansip",
-      "cardSubtitle": "European Commissioner for the Digital Single Market",
-      "biography": "Andrus Ansip is vice president of the European Commission and commissioner for the digital single market. He was previously communications minister and then prime minister of Estonia from 2005 to 2014 as the country became a world leader in digital government. He now oversees EU efforts to improve access to online products and services and grow the digital economy, including the abolition of mobile data roaming charges.",
-      "section": "Politician",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/AndrusAnsip.jpg"
+      "biography": "Ashok Kumar Seetharaman is the centre director of the Singapore e-Government Leadership Centre (eGL), responsible for leading, providing research, and training senior government officials and public servants in digital and e-government. He assists on the design, development and delivery of digital government programmes. Seetharaman currently serves as an expert in the Advisory Group of United Nation's eGovernment Ranking Committee.",
+      "cardSubtitle": "Centre Director, Singapore e-Government Leadership Centre",
+      "cardTitle": "Ashok Kumar",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Ashok-Kumar.jpg",
+      "section": "Government"
     },
     {
-      "cardTitle": "Antti Pennanen",
-      "cardSubtitle": "CEO and Founder, MONI ",
-      "biography": "Antti Pennanen is the CEO and Founder of MONI, a Finnish start-up. In 2015, the Finnish government partnered with the company to launch a pilot digital financial services programme enabling refugees to receive money and pay bills without opening a bank account. Prior to this Antti created a number of animation studios and has sat on the board of IT companies.",
-      "section": "Business",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/AnttiPennanen.jpg"
-    },
-    {
-      "cardTitle": "Åsa Zetterberg",
-      "cardSubtitle": "CDO of Government, Sweden",
-      "biography": "At the start of 2018, Åsa Zetterberg was appointed Sweden’s first ever chief digital officer. She is responsible for implementing the country’s digitalisation strategy, which includes a range of issues from broadband access to cybersecurity. A particular focus for Zetterberg is exploring the potential of artificial intelligence to strengthen Sweden’s welfare system, along with improving the nation’s competitiveness. Appointed by the Swedish Prime Minister Stefan Löfven, she has previously led similar projects at a municipal level.",
-      "section": "National government",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/AsaZetterberg.jpg"
-    },
-    {
-      "cardTitle": "Audrey Tang",
+      "biography": "Audrey Tang is Taiwan’s digital minister, and is the first transgender official in the top executive cabinet. She is a software developer and former entrepreneur: she dropped out of school at age 12 to focus on coding, and founded a search engine company before she was 15. She is now helping Taiwan in its bid to become an Asian Silicon Valley by devising and implementing a strategy to create “digital Taiwan”.",
       "cardSubtitle": "Minister for Digital, Taiwan",
-      "biography": "Audrey Tang is Taiwan’s digital minister, the first transgender official in the top executive cabinet. She is a software developer and former entrepreneur: she dropped out of school at age 12 to focus on coding, and founded a search engine company before she was 15. She is now helping Taiwan in its bid to become an Asian Silicon Valley by devising and implementing a strategy to create “digital Taiwan”.",
-      "section": "Top 20",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/AudreyTang.jpg"
+      "cardTitle": "Audrey Tang",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Audrey-Tang.png",
+      "section": "Young Leaders"
     },
     {
+      "biography": "Barbara Ubaldi is digital government and open data lead at the OECD, leading the organisation’s work on Open Government Data (OGD), Social Media and Digital Government. The OGD project works to improve impact measurement of government open data projects. Ubaldi has championed a set of principles of digital innovators in national government including transparency, international co-operation, the development of solid frameworks and securing political commitment. She is also an associate professor of digital government at Sciences Po.",
+      "cardSubtitle": "Digital Government and Open Data Lead, OECD",
       "cardTitle": "Barbara Ubaldi",
-      "cardSubtitle": "Senior Project Manager, OECD",
-      "biography": "Barbara Ubaldi is a senior project manager at the OECD, leading the organisation’s work on Open Government Data (OGD), Social Media and Digital Government. The OGD project works to improve impact measurement of government open data projects. Ubaldi has championed a set of principles of digital innovators in national government including transparency, international co-operation, the development of solid frameworks and securing political commitment.",
-      "section": "International organisation",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/BarbaraUbaldi.jpg"
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Barbara-Ubaldi.jpg",
+      "section": "International and Non-governmental Organisations"
     },
     {
+      "biography": "Beth Simone Noveck directs The Governance Lab and its MacArthur Research Network on Opening Governance, and also serves as chief innovation officer for the state of New Jersey. The author of numerous books and articles on governance innovation, she works with governments around the world to implement innovative and responsible approaches for using technology to solve public problems. Previously, she was the first United States Deputy Chief Technology Officer and director of the White House Open Government Initiative.",
+      "cardSubtitle": "Chief Innovation Officer, New Jersey Government ",
       "cardTitle": "Beth Noveck",
-      "cardSubtitle": "Co-Founder, GovLab",
-      "biography": "Beth Simone Noveck directs The Governance Lab and its MacArthur Research Network on Opening Governance. She is based in New York City where she serves as a professor in Technology, Culture, and Society at New York University’s Tandon School of Engineering. The author of numerous books and articles on governance innovation, she works with governments around the world to implement innovative and responsible approaches for using technology to solve public problems. Previously, she was the first United States Deputy Chief Technology Officer and director of the White House Open Government Initiative.",
-      "section": "Top 20",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/BethNoveck.jpg"
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Beth-Novek.png",
+      "section": "Academia"
     },
     {
-      "cardTitle": "Casper Klynge",
-      "cardSubtitle": "Tech Ambassador, Denmark",
-      "biography": "Casper Klynge is the world’s first ambassador for tech, representing Danish authorities in direct dialogue with the global tech industry. TechPlomacy is an acknowledgement of the key role that technology and digitalization plays and will increasing play in the future for individuals and societies alike. With his global and interdisciplinary team based in Silicon Valley, Copenhagen and Beijing, Casper Klynge works in new ways to build partnerships and engage directly with tech-giants, other governments, international organizations, and civil society to proactively address both the opportunities and risks of the fourth industrial revolution. Casper Klynge has previously spent nearly two decades working in foreign affairs for Denmark, the EU and NATO, and has served as ambassador to Indonesia and Cyprus and as Head of Mission for the EU in Kosovo.",
-      "section": "National government",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/CasperKlynge.jpg"
+      "biography": "Kenya has a rare opportunity to accellerate the country's development by using new and emerging technologies like AI and blockchain — that's the conclusion of a recent report published by the digital taskforce led by professor Bitange Ndemo, which provides a road map and a number of key recommendations for the country's digital transformation. At the launch of the report, Ndemo, who is a professor in economics and an active board member in several local digital companies, highlighted the potential of blockchain to improve the integrity of democratic elections, mitigating the risk of violence among political factions.   ",
+      "cardSubtitle": "Chairman, Kenyan Distributed Ledgers and Artificial Intelligence Taskforce",
+      "cardTitle": "Bitange Ndemo",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Bitange-Ndemo.png",
+      "section": "Academia"
     },
     {
-      "cardTitle": "Clare Curran",
-      "cardSubtitle": " Minister for Government Digital Services, New Zealand",
-      "biography": "A New Zealand Labour MP since 2008, Clare Curran is minister for government digital services, as well as broadcasting minister. She previously lived in Australia working with unions, before running her own communications business, campaigning on environment and social justice issues in both New Zealand and Australia. Her portfolio of government digital services was created in 2017, with a focus on building New Zealand’s digital economy, addressing the digital divide and creating a more open digital government.",
-      "section": "Politician",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/ClareCurran.jpg"
+      "biography": "Carlos Santiso is director of the Digital Innovation in Government Directorate of the Development Bank of Latin America (CAF), focusing on improving the lives of people in emerging economies. Santiso is passionate about the ability of data and technology to transform government, end corruption, and encourage innovation. Previously, he served at the Inter-American Development Bank as the division chief of innovation in citizen services, moving to the role in 2016 after joining in 2011 as division chief for the institutional capacity of the state.",
+      "cardSubtitle": "Director for Digital Innovation in Government, Development Bank of Latin America",
+      "cardTitle": "Carlos Santiso",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Carlos-Santiso.jpg",
+      "section": "International and Non-governmental Organisations"
     },
     {
-      "cardTitle": "Darja Isaksson",
-      "cardSubtitle": "Member, Swedish Government's National Innovation Council",
-      "biography": "Darja Isaksson is founder of the digital consultancy Ziggy Creative Colony, who have worked on Swedish social security services. In 2015 Isaksson joined Prime Minister Stefan Löfven’s National Innovation Council, which meets four times a year and has helped to build innovation partnerships with India and Germany. She sits on the boards of organisations including the Interactive Institute Swedish ICT and the Advisory Board for the National Co-ordinator of Life Sciences.",
-      "section": "National government",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/DarjaIsaksson.jpg"
+      "biography": "Charlotte Stix was the youngest member on the team that authored the EU-wide AI strategy published in late 2018. Formerly with the European Commission, she is now a research associate on AI Policy at the Leverhulme Centre for the Future of Intelligence. She publishes her own bi-monthly newsletter on AI policy and recently published a survey of the European Union’s artificial intelligence ecosystem, pointing to the need for greater EU leadership as the field matures. ",
+      "cardSubtitle": "Research Associate on AI Policy and Responsible Innovation, Leverhulme Centre for the Future of Intelligence, University of Cambridge",
+      "cardTitle": "Charlotte Stix",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Charlotte-Stix.jpg",
+      "section": "Young Leaders"
     },
     {
-      "cardTitle": "David Eaves",
-      "cardSubtitle": "Lecturer, Harvard Kennedy School",
+      "biography": "Dana Chisnell is co-director at the Center for Civic Design, US, whose goal is to make every interaction between government and citizens easy and effective. She was a special consultant with the United States Digital Service in the Obama White House, applying her expertise in civic design by training various departments in user research and usability testing. An expert in plain language and usability, Dana contributed significantly to the formulation of several requirements in AARP’s Web Content Accessibility Guidelines. ",
+      "cardSubtitle": "Co-Director at the Center for Civic Design, US",
+      "cardTitle": "Dana Chisnell",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Dana-Chisnell.jpg",
+      "section": "International and Non-governmental Organisations"
+    },
+    {
+      "biography": "Daniel Abadie is the under secretary of digital government for Argentina, responsible for designing and implementing the government’s digital strategy. Formerly a tech entrepreneur, Abadie is passionate about delivering quality digital services that help restore public trust. He played a big role in scaling up Argentina’s digital strategy to a national level, focusing on leveraging new technologies to improve public services and engage citizens.",
+      "cardSubtitle": "Under Secretary of Digital Government, Argentina",
+      "cardTitle": "Daniel Abadie",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Daniel-Abadie.jpg",
+      "section": "Top 20"
+    },
+    {
+      "biography": "Daniel Korksi is the co-founder and CEO of PUBLIC, an organisation devoted to helping startups transform the public sector by building better services for citizens and better tools for public servants. He’s also the chairman and co-founder of the annual GovTech Summit. Previously, Korski served as a special adviser to former UK prime minister David Cameron and a number of other high-ranking political figures. He also helped establish the European Council on Foreign Relations, a bipartisan thinktank.",
+      "cardSubtitle": "CEO and Co-Founder at PUBLIC",
+      "cardTitle": "Daniel Korski",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Daniel-Korski.jpg",
+      "section": "Business"
+    },
+    {
       "biography": "David Eaves is a lecturer at the Harvard Kennedy School. Prior to joining the Harvard faculty, Eaves advised the Mayor of Vancouver in the late 2000s, proposing and drafting the Open Motion, one of the world's first open data portals. He was also the first director of education at Code for America, and has worked with 18F and the Presidential Innovation Fellows at the White House.",
-      "section": "Top 20",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/DavidEaves.jpg"
+      "cardSubtitle": "Lecturer in Public Policy, Harvard Kennedy School",
+      "cardTitle": "David Eaves",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/David-Eaves .jpeg",
+      "section": "Academia"
     },
     {
-      "cardTitle": "David Ferguson",
-      "cardSubtitle": "Director of the Center for Development Innovation in USAID’s U.S. Global Development Lab",
-      "biography": "David Ferguson is the director and cofounder of the Center for Development Innovation at US Global Development Lab USAID. Under his leadership, the lab partnered with government and private organisations to source, test, and scale innovative development enterprises in over 60 countries. Its investment in programs supporting access to digital technology helped nearly 50 million people gain access to the internet. He previously served as the deputy director of USAID’s Office of Science and Technology, as well as vice president of professional services at AT&T.",
-      "section": "National government",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/DavidFerguson.jpg"
-    },
-    {
+      "biography": "Debra Lam is the managing director of smart cities and inclusive innovation for Georgia Institute of Technology. She received national attention for her role as chief of innovation and performance at the City of Pittsburgh, where she sponsored research in urban development and fast-tracking innovations to city operations via innovative partnerships with Carnegie Mellon University and the University of Pittsburgh. This collaboration became MetroLab network, a group of more than 30 city-university partnerships that bring data, analytics, and innovation to city government.",
+      "cardSubtitle": "Managing Director of Smart Cities and Inclusive Innovation, Georgia Institute of Technology",
       "cardTitle": "Debra Lam",
-      "cardSubtitle": "Managing Director, Smart Cities and Inclusive Innovation at Georgia Institute of Technology",
-      "biography": "Debra Lam is the managing director of smart cities and inclusive innovation for Georgia Tech. She received national attention for her role as chief of innovation and performance at the City of Pittsburgh, where she sponsored research in urban development and fast-tracking innovations to city operations via innovative partnerships with Carnegie Mellon University and the University of Pittsburgh. This collaboration became MetroLab network, a group of more than 30 city-university partnerships that bring data, analytics, and innovation to city government.",
-      "section": "Academia",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/DebraLam.jpg"
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Debra-Lam.jpg",
+      "section": "Academia"
     },
     {
-      "cardTitle": "Diego Molano Vega",
-      "cardSubtitle": "Digital transformation consultant",
-      "biography": "Diego Molano Vega is a consultant advising governments and businesses on major digital transformation projects. From 2010 to 2015 he was Colombia’s minister for information and communication technologies. His “Plan Vive Digital”, which won Colombia several international awards for its commitment to digital government, included projects expanding fibre-optic transmission to remote communities, bringing computers into public schools and subsidising internet access for poor households.",
-      "section": "Business",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/DiegoMolanoVega.jpg"
+      "biography": "Debs Durojaiye describes herself as \"a black face in a white tech space\". In addition to being an interaction designer for GDS in the UK civil service, she is the founder of Afrotech Fest, a festival by and for Black people of African and Caribbean heritage focused on all things tech. In its first two years, the London-based festival has become a place for a diverse group of activists, artists, developers and entrepreneurs to share their ideas and innovations. ",
+      "cardSubtitle": "Interaction designer, UK Government Digital Service",
+      "cardTitle": "Debs Durojaiye",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Debs-Durojaiye.jpg",
+      "section": "Government"
     },
     {
+      "biography": "A former Amazon Excutive, Diego Piancentini was headhunted by the Italian governent in 2016 to lead the country's efforts in digital transformation, a position he held for two years as a pro-bono civil servant. During this time he founded the Government Digital Transformation Team with the stated goal of developing an “operating system” for Italy and a road map for the future digital development of Italy's public administration, which was published at the end of his term in September 2018. ",
+      "cardSubtitle": "Former Government Commissioner for the Digital Agenda, Italy",
+      "cardTitle": "Diego Piacentini",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Diego-Piacentini.jpg",
+      "section": "Government"
+    },
+    {
+      "biography": "Eddie Copeland is director of the London Office of Technology and Innovation, a \"public sector startup\" in the British capital focusing on building digital capacity in the city's boroughs. Previously he was director of government innovation at Nesta, a global innovation foundation based in the UK. His remit includes digital democracy, city data analytics and behavioural insights. Prior to joining Nesta, he was head of teachnology at Policy Exchange, a think tank, and worked as a researcher in the UK parliament. He wrote a book on working for a think tank and currently advises the Mayor of London as a member of the Smart London Board.",
+      "cardSubtitle": "Director, London Office of Technology and Innovation",
       "cardTitle": "Eddie Copeland",
-      "cardSubtitle": "Director of Government Innovation, Nesta",
-      "biography": "Eddie Copeland is director of government innovation at Nesta, a global innovation foundation based in the UK. His remit includes digital democracy, city data analytics and behavioural insights. Prior to joining Nesta, he was head of teachnology at Policy Exchange, a think tank, and worked as a researcher in the UK parliament. He wrote a book on working for a think tank and currently advises the Mayor of London as a member of the Smart London Board.",
-      "section": "Nonprofit",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/EddieCopeland.jpg"
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Eddie-Copeland.jpg",
+      "section": "Young Leaders"
     },
     {
-      "cardTitle": "Elizabeth Blandón Bermudez",
-      "cardSubtitle": "Director of Digital Government, Colombian Ministry of Information Technologies & Communications",
-      "biography": "Elizabeth Blandón Bermudez is director of digital government in the Colombian Information and Communication Technologies ministry. As a major proponent of the Open Data movement, Ms. Bermudez founded Columbia's Open Data contest, To the U, which encourages students and teachers to use data published by public entities to solve national problems. Bermudez has a long record of public service in national and regional government, across areas from ICT to risk and financial policy.",
-      "section": "National government",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/ElizabethBlandonBermudez.jpg"
-    },
-    {
-      "cardTitle": "Eric Garcetti",
+      "biography": "Eric Garcetti is the Mayor of Los Angeles, California. Under his tenure, LA was named the US's #1 digital city by the Center for Digital Government for two consecutive years. The city received the award for projects including the LA CyberLab, a public-private partnership to combat cybercrime, and OurCycleLA, a project helping to bridge the digital divide for some of the city's most underprivileged residents. The city is also experimenting extensively with chatbots in an effort to better engage residents and improve services.",
       "cardSubtitle": "Mayor of Los Angeles, California",
-      "biography": "Eric Garcetti is the Mayor of Los Angeles, California. Under his tenure, LA was named the US' #1 digital city by the Center for Digital Government for two consecutive years. The city received the award for projects including the LA CyberLab, a public-private partnership to combat cybercrime, and OurCycleLA, a project helping to bridge the digital divide for some of the city's most underprivileged residents. The city is also experimenting extensively with chatbots in an effort to better engage residents and improve services.",
-      "section": "Local/regional government",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/EricGarcetti.jpg"
+      "cardTitle": "Eric Garcetti",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Eric-Garcetti .jpg",
+      "section": "Politics"
     },
     {
-      "cardTitle": "Evgeny Morozov",
-      "cardSubtitle": "Independent Writer and Open Government Advocate",
-      "biography": "Evgeny Morozov is a writer and researcher, whose work examines the societal impacts of technology. He has been a visiting scholar at Stanford University and a Schwartz fellow at the New America Foundation. His books include The Net Delusion: The Dark Side of Internet Freedom and To Save Everything, Click Here: The Folly of Technological Solutionism. He has been a fellow at the Open Society Foundations, which work to strengthen democracy internationally.",
-      "section": "Top 20",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/EvgenyMorozov.jpg"
+      "biography": "Fadi Salem is director of policy research and advisory at the Mohammed bin Rashid School of Government. He has led regional policy research on digital governance, the intersection of public policy and innovation, and the internet for the Middle East and North Africa. Salem has also advised senior government officials on technology policy and digital economy in his previous role in The Executive Office in Dubai. He currently serves on the Artificial Intelligence Ethics Advisory Board for Smart Dubai. ",
+      "cardSubtitle": "Director of Research and Advisory, Mohammed Bin Rashid School of Government",
+      "cardTitle": "Fadi Salem",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Fadi-Salem.jpeg",
+      "section": "Academia"
     },
     {
-      "cardTitle": "Francesca Bria",
-      "cardSubtitle": "Chief Technology and Digital Innovation Officer, City of Barcelona",
       "biography": "Francesca Bria is the Chief Technology and Digital Innovation Officer for the City of Barcelona. Under her leadership the city has created Decidim, a digital participatory platform through which citizens can suggest, debate and vote on ideas through social media. Previously a senior project lead at the innovation lab Nesta, she has a background in social science and economics and has advised the City of Rome on technological innovation.",
-      "section": "Top 20",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/FrancescaBria.jpg"
+      "cardSubtitle": "Chief Technology and Digital Innovation Officer, City of Barcelona",
+      "cardTitle": "Francesca Bria",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Francesca-Bria.jpg",
+      "section": "Top 20"
     },
     {
+      "biography": "Ger Baron is the chief technology officer of the City of Amsterdam, responsible for innovation, research and development, and innovation partnerships. He has played a key role in the development of several Amsterdam smart city initiatives, such as the City Protocol, which creates an innovative framework to connect cities around the globe to share experiences and learn new solutions. He is currently the president of the initiative.",
+      "cardSubtitle": "Chief Technology Officer, City of Amsterdam",
+      "cardTitle": "Ger Baron",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Ger-Baron.jpeg",
+      "section": "Government "
+    },
+    {
+      "biography": "Getahun Mekuria is Ethiopia's minister of innovation and technology, focusing on how to incorporate technological advancements into agriculture and health policy. He leads an initiative to track the planting of 350 million trees across Ethiopia, having developed new software to coordinate the record-breaking effort. Powered by digital, Mekuria is working to make Ethiopia a medium-income country within a ten year time span.",
+      "cardSubtitle": "Minister of Innovation and Technology, Ethiopia",
+      "cardTitle": "Getahun Mekuria",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Getahun-Mekuria.jpg",
+      "section": "Politics"
+    },
+    {
+      "biography": "Hamzat Lawal is an open data activist and the founder and CEO of Connected Development (CODE), a non-government organization which uses digital technologies to increase government accountability. With mobile and web platforms CODE provides citizens in countries across Africa with information on government activity and economic development in their local area. He is co-founder of Follow the Money, which measures and tracks service delivery in rural communities in Nigeria.",
+      "cardSubtitle": "Founder and CEO, Connected Development",
       "cardTitle": "Hamzat Lawal",
-      "cardSubtitle": "Co-Founder and CEO, Connected Development",
-      "biography": "Hamzat Lawal is an open data activist and the co-founder and CEO of Connected Development (CODE), a non-government organization which uses digital technologies to increase government accountability. With mobile and web platforms CODE provides citizens in countries across Africa with information on government activity and economic development in their local area. He is co-founder of Follow the Money, which measures and tracks service delivery in rural communities in Nigeria.",
-      "section": "Nonprofit",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/HamzatLawal.jpg"
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Hamzat-Lawal.jpeg",
+      "section": "Young Leaders"
     },
     {
-      "cardTitle": "Hans Jochen Scholl",
-      "cardSubtitle": "Professor, University of Washington iSchool",
-      "biography": "Hans Jochen Scholl is a professor at the Information School at the University of Washington, where he specialises in smart governance and government and disaster information management. He founded and presently chairs the Digital Government Track at the prestigous Hawaii International Conference on System Sciences, and he supervises the maintenance and publication of the E-Government Reference Library (EGRL). Dr. Scholl was chosen by Oxford Bibliographies to write the encyclopedia's entry on \"E-Government.\" Before entering academia, he held technical and managerial positions at ICT industry firms including Apple, Data General (now EMC) and ITT.",
-      "section": "Academia",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/HansJochenScholl.jpg"
-    },
-    {
-      "cardTitle": "Helen Margetts ",
+      "biography": "Helen Margetts is Professor of Society and the Internet at the University of Oxford, where she was Director of the Oxford Internet Institute from 2011-18. She is a Turing Fellow and Director of the Public Policy Programme at the Alan Turing Institute for Data Science and Artificial Intelligence. She has published over 100 books, articles and policy reports on digital government and politics, including Political Turbulence (2015), which won the W.J.Mackenzie best politics book prize in 2017. She sits on the government’s Digital Economy Council and the Home Office Scientific Advisory Council and is founding editor of the journal Policy and Internet.",
       "cardSubtitle": "Professor of Society and the Internet, University of Oxford",
-      "biography": "Helen Margetts is Professor of Society and the Internet at the University of Oxford, where she was Director of the Oxford Internet Institute from 2011-8. She is a Turing Fellow and Director of the Public Policy Programme at the Alan Turing Institute for Data Science and Artificial Intelligence. She has published over 100 books, articles and policy reports on digital government and politics, including Political Turbulence (2015), which won the W.J.Mackenzie best politics book prize in 2017. She sits on the government’s Digital Economy Council and the Home Office Scientific Advisory Council and is founding editor of the journal Policy and Internet.",
-      "section": "Academia",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/HelenMargetts.jpg"
+      "cardTitle": "Helen Margetts",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Helen-Margetts.jpg",
+      "section": "Academia"
     },
     {
-      "cardTitle": "Hillary Hartley",
-      "cardSubtitle": "CDO, Ontario ",
+      "biography": "Henri Verdier is the French Ambassador for Digital Affairs, and until 2015 he was the Head of Etalab, the French Prime Minister’s task force for Open Government and Data. In this role he launched the government’s first open data portal. As a digital specialist, he is a member of the ARCEP Strategic Committee, the CNIL Strategic Committee, and was the Founding Director of Edition Odile Jacob Multimedia, a publishing house in the field of e-learning. ",
+      "cardSubtitle": "Chief Technology Officer and Digital Ambassador, France",
+      "cardTitle": "Henri Verdier",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Henri-Verdier.jpg",
+      "section": "Government"
+    },
+    {
       "biography": "Hillary Hartley is Ontario’s first chief digital officer. She leads the Ontario Digital Service, which is redesigning provincial government services to focus on users’ needs. She previously co-founded 18F, a US government agency created in 2014 to support government bodies’ digital development, and was one of President Barack Obama’s Presidential Innovation Fellows in 2013. Outside government, Hartley worked for seven years at NIC Inc, a digital government consultancy based in San Francisco.",
-      "section": "Top 20",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/HillaryHartley.jpg"
+      "cardSubtitle": "CDO, Ontario ",
+      "cardTitle": "Hillary Hartley",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Hillary-Hartley.jpeg",
+      "section": "Government"
     },
     {
-      "cardTitle": "Jacqueline Poh",
-      "cardSubtitle": "Deputy Secretary, Singapore Prime Minister's Office Strategy Group ",
-      "biography": "Jacqueline Poh is Deputy Secretary at the Singapore Prime Minister's Office Strategy Group. She previously served as founding chief executive of GovTech Singapore, the country’s digital transformation agency. At GovTech, Poh helped lead the digitisation of Singapore’s public services, which included the roll-out of the SingPass digital identity which allows citizens to quickly access online services across government and to the improvement Singapore's cybersecurity and ICT resilience.",
-      "section": "National government",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/JacquelinePoh.jpg"
+      "biography": "Honey Dacanay is the co-founder and excecutive lead at the Ontario Digital Service in Canada. Ontario Digital Service aims to provide higher qualitity government services through digital practices, data and technology. Honey has played a key role in Ontario Digital Service's creation of tools and guides for digital action in government. In her previous roles as a Senior Policy Advisor for both the Ontario Treasury Board Secreteriat and The Ontario Cabinent Office, she focused on evidence-based decision making and an Open Government initiative.  ",
+      "cardSubtitle": "Co-founder and Executive Lead, Ontario Digital Service",
+      "cardTitle": "Honey Dacanay",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Honey-Dacanay.jpg",
+      "section": "Young Leaders"
     },
     {
-      "cardTitle": "James Anderson",
-      "cardSubtitle": "Head of Government Innovation Programs, Bloomberg Philanthropies",
-      "biography": "James Anderson leads Government Innovation at Bloomberg Philanthropies, which promotes local leadership, data-driven management, and innovative solutions in government in more than 250 cities across the globe. Anderson’s programming includes What Works Cities, an initiative to support mayors and local leader leaders make data-driven policy choices, the Mayors Challenge, an ideas competition that encourages cities to uncover inventive solutions to urgent problems, Innovation Teams in 20 cities, and the Bloomberg Harvard City Leadership Initiative. Previously, he served as director of communication for the City of New York’s Mayor’s Office for four years.",
-      "section": "Nonprofit",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/JamesAnderson.jpg"
+      "biography": "Huda Al Hashimi is a senior public servant responsible for strategy and innovation at the Prime Minsiter's office in the UAE. She has been charged with overseeing the implementation of the National Innovation Strategy, which aims to make the UAE more innovative and tech-driven, as well as delivering on the UAE Vision 2021, a national strategy with the aim of transforming the country into a knowledge economy.  She is also an outspoken voice for gender equity, and sits on the UAE Gender Balance Council. ",
+      "cardSubtitle": "Assistant Director General for Strategy and Innovation, UAE Prime Minister's Office,",
+      "cardTitle": "Huda Al Hashimi",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Huda-Al-Hashimi.jpeg",
+      "section": "Government"
     },
     {
-      "cardTitle": "Jane Fountain",
-      "cardSubtitle": "Chair of the Department of Political Science, University of Massachusets Amhurst",
-      "biography": "Jane E. Fountain is Chair of the Political Science Department at the University of Massachusetts Amherst and founder and Director of the National Center for Digital Government and the Science, Technology and Society Initiative at the same University. Her book, Building the Virtual State: Information Technology and Institutional Change, was awarded an Outstanding Academic Title by Choice and has been translated into 3 languages. Fountain serves on the Massachusetts Governor’s Council on Innovation. She previously served as Chair of the World Economic Forum Global Advisory Council on the Future of Government.",
-      "section": "Academia",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/JaneFountain.jpg"
+      "biography": "Idoia Ortiz de Artiñano Goñi is the managing director of PublicTech Lab, based out of IE University, Madrid. The Lab is a place for collaboration and experimentation, a hotbed for new solutions to public sector problems. Goñi is leading a new culture of service design, focused on delivery and the needs of citizens. She works to foster the GovTech ecosystem, supporting startups, corporations and universities to co-create with government to boost innovation.",
+      "cardSubtitle": "Managing Director, PublicTech Lab",
+      "cardTitle": "Idoia Ortiz de Artiñano Goñi",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Idoia-Ortiz-de-Artinano-Goni.jpeg",
+      "section": "Academia"
     },
     {
-      "cardTitle": "Janil Puthucheary",
-      "cardSubtitle": "Senior Minister of State of the Ministry of Communications and Information, Singapore",
-      "biography": "Janil Puthucheary is the minister-in-charge of GovTech and senior minister of state, ministry of communications and information for the government of Singapore. He is leading attempts to increase inclusion for all citizens, regardless of their technical literacy or expertise, across government services in Singapore. Closely involved in Singapore’s Smart Nation drive, he is working to increase interoperability between different services to help increase access for citizens.",
-      "section": "Politician",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/JanilPuthucheary.jpg"
+      "biography": "Imraan Bashir is the Canadian Government’s executive director of cyber security and digital identity. Bashir is responsible for establishing the digital security standards for over 100 departments and agencies, to establish a consistent security position. Bashir also leads Canada’s digital identity program, working across provinces to allow access to online services. He is an advocate for pragmatic security and a balanced, risk-based, approach.",
+      "cardSubtitle": "Executive Director, Cyber Security and Digital Identity, Government of Canada",
+      "cardTitle": "Imraan Bashir",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Imraan-Bashir.jpg",
+      "section": "Government"
     },
     {
-      "cardTitle": "Janne Viskari",
-      "cardSubtitle": "Director General, Population Register Center, Finland",
-      "biography": "Janne Viskari is director at the Population Register Centre of Finland, a key actor in the digitalization of the Finnish public sector, and is in charge of the implementation of the government’s National Architecture for Digital Services. This program has created a digital infrastructure platform, the Suomi.fi services, for both public and private use, which includes an e-ID service and digital post for public organizations. The Centre is now working on a pilot to incorporate the idea of consent into Finland’s public digital services.",
-      "section": "National government",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/JanneViskari.jpg"
+      "biography": "As the chief digital officer at Moldova’s e-Government Centre, Iurie Turcanu has driven the implementation of an impressive national ICT strategy, including most notably an e-Transformation project which has steadily and successfully increased the impact of various public services. Iurie drove the Open Data Initiative, as well as schemes like M-Cloud, which was implemented in order to strengthen the quality of electronic service delivery in Moldova and which was recognised as the \"Best Cloud Project in Central & Eastern Europe\" in 2012. Iurie has also acted as an advisor to the Prime Minister on e-governance. ",
+      "cardSubtitle": "Chief Digital Officer, Moldova's e-Government Centre",
+      "cardTitle": "Iurie Turcanu",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Iurie-Turcanu.jpg",
+      "section": "Government"
     },
     {
-      "cardTitle": "Jeni Tennison",
-      "cardSubtitle": "CEO, Open Data Institute",
-      "biography": "Jeni Tennison is the CEO of the Open Data Institute. The ODI provides analysis and research into the ethical issues behind the adoption of new technologies and their impact on government and society. As the public face of the organisation Tennison regularly comments on how organisations in the public and private sector should govern the use of data. Before joining the ODI, Jeni was the technical architect and lead developer for legislation.gov.uk where she helped engineer new standards for publishing statistics as linked data.",
-      "section": "Nonprofit",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/JeniTennison.jpg"
-    },
-    {
-      "cardTitle": "Jennifer Pahlka",
-      "cardSubtitle": "Founder and Executive Director, Code for America",
-      "biography": "Jennifer Pahlka is the founder and executive director of Code for America, a nationwide program to make government smarter, more creative and more effective for its citizens. Founded in 2009, Code for America has brought thousands of tech and design professionals into dialogue with city, state and federal government to apply design thinking and innovative practices to governance. In 2013, Pahlka served as deputy chief technology officer at the White House. ",
-      "section": "Top 20",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/JenniferPahlka.jpg"
-    },
-    {
-      "cardTitle": "John Delaney",
-      "cardSubtitle": "Founder and Co-Chair, US Congressional AI Caucus",
-      "biography": "John Delaney is founder and co-chair of the US Congressional AI caucus. A democratic party representative for Maryland’s sixth district, Delaney set up the AI caucus as a means to inform policymakers in the US government on the technological, social and economic impacts of artificial intelligence. It is designed as a forum for experts from different sectors to meet and ensure that AI innovation benefits Americans. Delaney has a background in business and is campaigning to run in the 2020 presidential election.",
-      "section": "Politician",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/JohnDelaney.jpg"
-    },
-    {
-      "cardTitle": "José Clastornik",
-      "cardSubtitle": "Executive Director of AGESIC, Uruguay",
-      "biography": "José Clastornik is the Executive Director at AGESIC, Uruguay's e-government and information society agency. The body has made Uruguay a digital leader in the region, the only country in Latin America and the Caribbean (LAC) to break into the most advanced cohort of the UN's 2018 e-government survey. Clastornik was also the first president at Red GEALC, a digital innovation network spanning LAC region which promotes digital collaboration. ",
-      "section": "Top 20",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/JoseClastornik.jpg"
-    },
-    {
-      "cardTitle": "J. Ramon Gil-Garcia",
-      "cardSubtitle": "Research Director, Center for Technology in Government, University at Albany",
       "biography": "J. Ramon Gil-Garcia is an expert in government IT, and directs research at the Center for Technology in Government at the University at Albany. A prolific author in digital government research, he has also taught in Mexico City, and is a member of the Mexican Academy of Sciences. Gil-Garcia's work covers issues from collaborative electronic government to the adoption of emergent technologies and digital divide policies.",
-      "section": "Academia",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/JRamonGilGarcia.jpg"
+      "cardSubtitle": "Research Director, University at Albany Center for Technology in Government",
+      "cardTitle": "J. Ramon Gil-Garcia",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/JRamon-GilGarcia.jpg",
+      "section": "Academia"
     },
     {
-      "cardTitle": "Juan Pablo Escobar Luque",
-      "cardSubtitle": "Co-founder, Codeando México and Cívica Digital",
+      "biography": "Jacqueline de Rojas is the president of techUK and the chair of Digital Leaders' board. She serves on the UK government’s Digital Economy Council, and sits on the boards of Rightmove, Costain and AO World. She’s also the co-chair at the Institute of Coding, supports Newcastle’s University Technical College and mentors the Girlguiding Association. De Rojas is passionate about diversity and inclusion in tech, and was named Computer Weekly’s Most Influential Woman in IT in 2015.",
+      "cardSubtitle": "President, techUK",
+      "cardTitle": "Jacqueline de Rojas",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Jacqueline-de-Rojas.jpg",
+      "section": "Business"
+    },
+    {
+      "biography": "Jaimie Boyd has held a number of positions in both the private sector and in the Government of Canada, most recently in support of open government. She is an alumnus of the Government of Canada’s Accelerated Economist Training Program, Action Canada, the Institute for Technology and Society’s Global Policy Fellowship and the Organization of American States’ Fellowship on Open Government in the Americas. Jaimie works to embrace digital change in the public sector and is focused on finding ways to help government better serve its citizens using technology. ",
+      "cardSubtitle": "Chief Digital Officer, Government of British Columbia",
+      "cardTitle": "Jaimie Boyd",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Jaimie-Boyd.jpeg",
+      "section": "Young Leaders"
+    },
+    {
+      "biography": "Jane E. Fountain is director of the National Center for Digital Government at the University of Massachusetts Amherst. Her book, Building the Virtual State: Information Technology and Institutional Change, was awarded an Outstanding Academic Title by Choice and has been translated into 3 languages. Fountain serves on the Massachusetts Governor’s Council on Innovation. She previously served as Chair of the World Economic Forum Global Advisory Council on the Future of Government.",
+      "cardSubtitle": "Director, University of Massachussets Amherst National Center for Digital Government",
+      "cardTitle": "Jane Fountain",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Jane-Fountain.jpg",
+      "section": "Academia"
+    },
+    {
+      "biography": "Janil Puthucheary is senior minister of state, ministry of communications and information for the government of Singapore. He is leading attempts to increase inclusion for all citizens, regardless of their technical literacy or expertise, across government services in Singapore. Closely involved in Singapore’s Smart Nation drive, he is working to increase interoperability between different services to help increase access for citizens.",
+      "cardSubtitle": "Senior Minister of State of the Ministry of Communications and Information, Singapore",
+      "cardTitle": "Janil Puthucheary",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Janil-Puthucheary.jpeg",
+      "section": "Government"
+    },
+    {
+      "biography": "Janne Viskari is director at the Population Register Centre of Finland, where he plays a key role in the digitalisation of the Finnish public sector, and is in charge of the implementation of the government’s National Architecture for Digital Services. This program has created a digital infrastructure platform, the Suomi.fi services, for both public and private use, which includes an e-ID service and digital post for public organizations. The centre is now working on a pilot to incorporate the idea of consent into Finland’s public digital services.",
+      "cardSubtitle": "Director General, Finland's Population Register Center",
+      "cardTitle": "Janne Viskari",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Janne-Viskari.jpeg",
+      "section": "Government"
+    },
+    {
+      "biography": "Jennifer Pahlka is the founder and executive director of Code for America, a nationwide program to make government smarter, more creative and more effective for its citizens. Founded in 2009, Code for America has brought thousands of tech and design professionals into dialogue with city, state and federal government to apply design thinking and innovative practices to governance. In 2013, Pahlka served as deputy chief technology officer at the White House. ",
+      "cardSubtitle": "Founder and Executive Director, Code for America",
+      "cardTitle": "Jennifer Pahlka",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Jennifer-Pahlka.jpg",
+      "section": "International and Non-governmental Organisations"
+    },
+    {
+      "biography": "Joanna Bryson is a reader/associate professor in the department of computer science at the University of Bath. She teaches and works on artificial intelligence, ethics and collaborative cognition. She helped the UK’s Engineering and Physical Sciences Research Council to define principles around robotics. She has also consulted The Red Cross on autonomous weapons and contributed to an all party group in the UK parliament on AI. In 2017, she won an Outstanding Achievement Award from Cognition X.",
+      "cardSubtitle": "Associate Professor, University of Bath",
+      "cardTitle": "Joanna Bryson",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Joanna-Bryson jpg",
+      "section": "Academia"
+    },
+    {
+      "biography": "As the digital director for the UK National Archives, John Sheridan is responsible for overseeing the ongoing digitisation of the archives, which date back more than 1,000 years and span more than 32 million individual records, covering everything from Shakespeare's verse to modern day tweets. With a stated goal of being a \"disruptive 21st century archive\", Sheridan is leading the institution on a new 4-year strategy to become more open, more inclusive and more digital. These efforts are an extension of the archives' previous digital strategy, which saw the total number of downloadable, digital records expand to 9 million in total — a number that is constantly growing. ",
+      "cardSubtitle": "Digital Director, UK National Archives",
+      "cardTitle": "John Sheridan",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/John-Sheridan.jpg",
+      "section": "Government"
+    },
+    {
+      "biography": "José Clastornik is the Executive Director at AGESIC, Uruguay's e-government and information society agency. The body has made Uruguay a digital leader in the region, the only country in Latin America and the Caribbean (LAC) to break into the most advanced cohort of the UN's 2018 e-government survey. Clastornik was also the first president at Red GEALC, a digital innovation network spanning LAC region which promotes digital collaboration. ",
+      "cardSubtitle": "Executive Director of AGESIC, Uruguay",
+      "cardTitle": "José Clastornik",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Jose-Clastornik.jpg",
+      "section": "Government"
+    },
+    {
+      "biography": "Joy Buolamwini  is founder of the Algorithmic Justice League, an organisation which aims to highlight the hidden algorithmic bias in the technology we are all surrounded by, and showcase the impact on vulnerable and disadvantaged groups. One challenge is that, while machine learning algorithms can recognise human features, the technology is better at identifying white faces than people of colour, limiting the use of this technology for ethnic minorities. Joy has been a leading advocate for the safe space pledge, which aims to mitigate the adverse effects from the rapid spread of facial recognition software in public spaces.",
+      "cardSubtitle": "Founder, Algorithmic Justice League",
+      "cardTitle": "Joy Buolamwini",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Joy-Buolamwini.jpeg",
+      "section": "International and Non-governmental Organisations"
+    },
+    {
+      "biography": "As Canada's minister of digital government, Joyce Murray has championed an \"open by default\" mindset, with a stated goal of making the inner workings of government more accessible to ordinary citizens. As part of her mandate, she has been charged with expanding open data initiatives and making data digitally avialable to all Canadians. Most recently she has launched a new Policy on Service and Digital, which plots the course for how the Canadian government will use new technologies such as artificial intelligence and blockchain to deliver 21st century services. ",
+      "cardSubtitle": "Minister of Digital Government, Canada",
+      "cardTitle": "Joyce Murray",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Joyce-Murray.jpg",
+      "section": "Politics"
+    },
+    {
       "biography": "Juan Pablo Escobar Luque is the co-founder of Cívica Digital, where he is currently the CEO. In 2013, Luque co-created Codeando México, a community which develops technology to solve public problems. Two years later, he co-founded Cívica Digital, which develops mobile and web applications to strengthen civic participation. Based in Mexico City, their products can be used around the world.",
-      "section": "Business",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/JuanPabloEscobarLuque.jpg"
+      "cardSubtitle": "Co-founder, Codeando México and Cívica Digital",
+      "cardTitle": "Juan Pablo Escobar Luque",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Juan-Pablo-Escobar.jpg",
+      "section": "Young Leaders"
     },
     {
-      "cardTitle": "Julia Glidden",
-      "cardSubtitle": "General Manager, Global Government Industry, IBM",
-      "biography": "Julia Glidden is general manager in the global government industry department of IBM Corporation. She is an internationally-renowned pioneer in the field of digital government, and an expert advisor on Open Data to the United Nations, the World Economic Forum and the European Commission. She founded 21c, a London-based innovation consultancy which advised governments across the globe on technology disruption, and election.com, which ran the world's first legally binding online political election.",
-      "section": "Business",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/JuliaGlidden.jpg"
+      "biography": "Karen Mossberger is a professor in the School of Public Affairs at Arizona State University. Her research interests encompass local governance, urban policy, digital government, and digital inequality. Karen researched and evaluated the Smart Communities Program, a digital inclusion initiative in nine Chicago neighbourhoods, among other digital government projects, and co-authored ‘Digital Cities: The Internet and the Geography of Opportunity’ in 2012. She served as president of the APSA’s Urban Politics and Information Technology and Politics sections, and was elected a fellow in the National Academy of Public Administration. ",
+      "cardSubtitle": "Professor, Arizona State University School of Public Affairs",
+      "cardTitle": "Karen Mossberger",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Karen-Mossberger.jpg",
+      "section": "Academia"
     },
     {
-      "cardTitle": "Justin Arenstein",
-      "cardSubtitle": "Founder, Code for Africa",
-      "biography": "Justin Arenstein is the founder of Code for Africa, an open-data initiative for countries across the continent. An award winning journalist and media strategist, Arenstein set-up Code for Africa to drive improvement in the availability and quality of government information in African countries. Code for Africa also provides fellowships and skills training for pioneers in civil society and government, and supports the development of tools to increase access to data.",
-      "section": "Nonprofit",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/JustinArenstein.jpg"
+      "biography": "Kathryn Peters co-founded Democracy Works, a non-partisan non-profit, which standardises election data in the US to turbocharge voter registration. She leads on managing election data standardisation for Google's Civic API, which is used by almost all civic tech apps in the US. She has previously worked in information management at the United Nations and in political rights monitoring in Afghanistan.",
+      "cardSubtitle": "Co-Founder and COO, Democracy Works",
+      "cardTitle": "Kathryn Peters",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Kathryn-Peters.jpg",
+      "section": "International and Non-governmental Organisations"
     },
     {
-      "cardTitle": "Kevin Cunnington",
-      "cardSubtitle": "Director General, Government Digital Service",
-      "biography": "Kevin Cunnington is the director general of UK's Government Digital Service (GDS), a central government body spearheading the digital transformation of other departments and deisgning new digital services for UK citizens. GDS has been credited with making the UK the world's leader in digital government, and has inspired similar units in the governments of the US, Australia and New Zealand. Prior to leading GDS, Cunnington was director of business transformation at the Department for Work and Pensions and head of online at Vodafone. ",
-      "section": "National government",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/KevinCunnington.jpg"
+      "biography": "Kimmo Rousku is the general secretary of VAHTI, the Finnish Government’s Public Administration Digital Security Steering Group. The group is the coordination body for the organisations responsible for the development and management of Finland’s public security. VAHTI plays a key part in the implementation of the country’s cyber security strategy. Rousku is also a part-time lecturer with a keen interest in data protection regulations.",
+      "cardSubtitle": "General Secretary, VAHTI ",
+      "cardTitle": "Kimmo Rousku",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Kimmo-Rousku.jpg",
+      "section": "Government"
     },
     {
-      "cardTitle": "Kim Boo-kyum",
-      "cardSubtitle": "Minister of the Interior and Safety, South Korea",
-      "biography": "Kim Boo-kyum is the minister for the interior and safety for South Korea, and responsible for the management of the country’s administration and e-government initiatives. The latter saw South Korea ranked first in the UN’s e-government survey for three consecutive terms. Reforms include technology which allows citizens 24/7 access to services and the integration of IT systems across government.",
-      "section": "Politician",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/KimBooKyum.jpg"
+      "biography": "Ko Wen-je is the Mayor of Taipei, Taiwan. Since his election in 2014, he has used principles associated with design and openness to drive digital transformations across Taipei to improve the city’s liveability. Taipei was ranked Top 5 in the world last year for improving its safety, greenery, education, and air quality, as well as public transportation. Innovations include the ‘Taipei Soundscape’ project which enhances public transit with music, while empowering local musicians. He launched the i-voting platform in 2016 for citizens to vote on municipal issues and propose new projects, and he is rolling out digital initiatives like epayments as well as fast wifi in schools. Revolutionising teaching in Taipei through online teaching portals. ",
+      "cardSubtitle": "Mayor of Taipei",
+      "cardTitle": "Ko Wen-je",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Ko-Wen-Je.jpg",
+      "section": "Politics"
     },
     {
-      "cardTitle": "Kit Collingwood-Richardson",
-      "cardSubtitle": "Co-Founder, One Team Gov",
-      "biography": "Kit Collingwood-Richardson is a co-founder of One Team Gov, a global movement to radically reform how the public service works. After stints in digital at the UK Ministry of Justice and and the Office of the Public Guardian, she is now deputy director of data for the flagship Universal Credit welfare reform program at the Department for Work and Pensions.",
-      "section": "National government",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/KitCollingwood.jpg"
+      "biography": "Kok Ping Soon is the chief executive of the Government Technology Agency of Singapore (GovTech), the agency responsible for Singapore’s Smart Nation initiative and public sector-wide digital transformation. He has also held various positions in Singapore's Ministry of Manpower, National Security Co-ordination Secretariat, Ministry of Trade and Industry, Tourism Board, Contact Singapore and the Economic Development Board. He is a district councillor in the North West Community Development Council and a member of the World Economic Forum's Global Futures Council on behavioural sciences.",
+      "cardSubtitle": "Chief Executive, GovTech Singapore",
+      "cardTitle": "Kok Ping Soon",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Kok-Ping-Soon.jpeg",
+      "section": "Government"
     },
     {
-      "cardTitle": "Kristen Titus",
-      "cardSubtitle": "CTIO, New York State",
-      "biography": "Kristen Titus is the chief technology and innovation officer at New York State and former founding executive director of Girls Who Code, a leading advocate of gender parity in the technology sector. She leads the New York City government’s $10 million commitment to support tech sector growth, and her policy work has served as a template for President Obama’s TechHire and CSforAll initiatives, which now operate in more than 50 cities.",
-      "section": "Local/regional government",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/KristenTitus.jpg"
+      "biography": "Leah Bannon is product manager at the US Digital Service, working on user-centred design in the Department of Veterans Affairs. Formerly the Product Lead at 18F, she helped redesign foia.gov, the Freedom of Information Act’s site, and fec.gov, the website for the Federal Election Commission. Leah founded the Tech Lady Hackathon (now Tech, Rebalanced), an annual civic hacking and training event for minorities, and works with Code for DC, a volunteer civic hacker group. ",
+      "cardSubtitle": "Product Manager, Department of Veterans Affairs, United States Digital Services",
+      "cardTitle": "Leah Bannon",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Leah-Bannon.jpg",
+      "section": "Government"
     },
     {
-      "cardTitle": "Lars Frelle-Petersen",
-      "cardSubtitle": "Digital Director, Danish Confederation of Industry",
-      "biography": "Lars Frelle-Petersen is the digital director at for Danish Industry, a trade body, where he manages the digitisation policy unit. He was previously director-general of the Danish Agency for Digitalisation, where he worked on the NemID system used by millions Danes to interact with government, banks and other services. He worked in government for more than 16 years, including as head of digitalisation in the finance ministry.",
-      "section": "Business",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/LarsFrellePetersen.jpg"
+      "biography": "Luis Alberto Moreno is the President of the Inter-American Development Bank (IDB) since being elected in 2005 and reelected in 2010 and 2015. As President of the IDB, he overhauled the bank’s  organisational structure by introducing monitoring, making the bank more agile and customer-focused. He is passionate about innovation and champions digital tools as a way to fight corruption. Since he assumed office, the IDB, under Moreno, has made investments and created partnerships in areas such as digital connectivity, sustainable cities, and innovation. ",
+      "cardSubtitle": "President, Inter-American Development Bank",
+      "cardTitle": "Luis Alberto Moreno",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Luis-Alberto-Moreno.jpeg",
+      "section": "International and Non-governmental Organisations"
     },
     {
-      "cardTitle": "Linet Kwaboka",
-      "cardSubtitle": "Founded and CEO, DataScienceLTD",
-      "biography": "Linet Kwamboka is the Founder and CEO of DataScience LTD, a data insights company, and an open data and open government activist. She has helped to coordinate the Open Kenyan Initiative, a project designed to open government data to the public in reusable formats and to Open Government Partnerships initiatives in Kenya. Previously a Software Engineer with Carnegie Mellon University and Stanford University, Kwamboka taught her many of her data analysis and visualisation skills.",
-      "section": "Business",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/LinetKwaboka.jpg"
-    },
-    {
-      "cardTitle": "Liora Shechter",
-      "cardSubtitle": "CIO, Tel Aviv ",
-      "biography": "Liora Shechter has spearheaded Tel Aviv's digital transformation, focusing on connecting the muncipality to its citizens. Her work as CIO has included creating the award-winning e-government app DIGI-TEL, which provides residents with location-specific services and information. The platform has almost 200,000 registered users, which is over 60% of the eligible population.In 2014, the annual Smart City Expo dubbed Tel Aviv the \"world's smartest city,\" naming it above 250 other cities.",
-      "section": "Local/regional government",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/LioraShechter.jpg"
-    },
-    {
-      "cardTitle": "Lou Downe",
-      "cardSubtitle": "Director of Design and Service Standards, UK Government",
-      "biography": "Lou Downe is the director of design and service standards for the UK government. They founded and spearheaded a £5million ($65million) program for people working in teams at the forefront of the government service design field. They also established an international forum dedicated to building and maintaining international government design standards. Previously, Downe was a producer at the Tate art galleries.",
-      "section": "National government",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/LouDowne.jpg"
-    },
-    {
-      "cardTitle": "Luis Felipe Salin Monteiro",
-      "cardSubtitle": "Secretary of Information Technology and Communication, Brazil",
-      "biography": "Luis Felipe Salin Monteiro is the new ICT secretary for the Government of Brazil. He previously worked at the planning ministry, where he led the modernisation department, leading on public sector innovation projects. While there, he emphasised the importance of system-wide change, rather than small fixes. From 2012-15 he was general coordinator of Information Technology in the Ministry of Communications.",
-      "section": "National government",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/LuisFelipeSalinMonteiro.jpg"
-    },
-    {
-      "cardTitle": "Malcolm Turnbull",
-      "cardSubtitle": "Prime Minister, Australia",
-      "biography": "Malcolm Turnbull is the prime minister of Australia, and has long been a champion of digital government. As Minister for Communication, he oversaw the creation of Australia’s Digital Transformations Office (DTO), which produced an innovative performance dashboard and a digital marketplace that transformed the administration’s information & communications technology (ICT) procurement. As Prime Minister, Turnbull has overseen the replacement of the DTO with the Digital Transformations Agency, and has expanded its role to central oversight over the government’s ICT agenda.",
-      "section": "Top 20",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/MalcolmTurnbull.jpg"
-    },
-    {
-      "cardTitle": "María Inés Baqué",
-      "cardSubtitle": "Secretary of Management and Public Innovation, Argentina",
-      "biography": "A former director at tech giant Microsoft, María Inés Baqué was appointed Argentina’s Secretary of Public Management and Innovation in 2016. She brought to the role experience in major IT businesses — prior to Microsoft she worked at Electronic Data Systems, a subsidiary of Hewlett Packard. She champions women in leadership as a member of Vital Voices, a nonprofit supporting high-level women, and the Americas Society/Council of the America’s Women's Hemispheric Network.",
-      "section": "National government",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/MariaInesBaque.jpg"
-    },
-    {
-      "cardTitle": "MarÍa Isabel MejÍa Jaramillo",
-      "cardSubtitle": "Executive Director, Info Projects",
-      "biography": "MarÍa Isabel MejÍa Jaramillo is executive director at Info Projects, a digital consultancy based in Bogotá. Before moving to the private sector, she helped make Colombia one of the leading Latin American countries in digital government, spending four years leading the online government strategy and four years as Vice-Minister of Information Technologies and Communications.",
-      "section": "Business",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/MariaIsabelMejiaJaramillo.jpg"
-    },
-    {
-      "cardTitle": "Maria Roat",
-      "cardSubtitle": "Chief Information Officer for Small Business Administration, Washington DC",
-      "biography": "Maria Roat is the Small Business Administration (SBA) Chief Information Officer where she is respinsible for the SBA's efforts to improve its onliene capabilities. As part of her role as the Federal CIO Council’s chair for innovation she’s leading on digital initatives such as developing an portal which allows federal employees to submit concepts they would like to test. Prior to this Maria served more than two years as the U.S. Department of Transportation's Chief Technology Officer, and for 10 years at the Department of Homeland Security (DHS)",
-      "section": "National government",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/MariaRoat.jpg"
-    },
-    {
-      "cardTitle": "Maria Wimmer",
-      "cardSubtitle": "Professor, University of Koblenz Institute for Information Systems Research",
-      "biography": "Maria Wimmer is professor for e-government and chair of the e-government research group at the Institute for Information Systems at University of Koblenz-Landau, Germany. Her research focuses on e-government and e-democracy / e-participation, systems analysis and systems design. She co-organises a series of international conferences on e-government and has published more than 150 papers on the topic. From 2004 to 2005, she worked in the ICT operative unit of Austria’s Federal Chancellery in Vienna. ",
-      "section": "Academia",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/MariaWimmer.jpg"
-    },
-    {
-      "cardTitle": "Marijn Janssen",
-      "cardSubtitle": "Professor of ICT & Governance, TU Delft",
-      "biography": "A professor of ICT and governance, Marijn Janssen is head of ICT in TU Delft's Technology, Policy and Management faculty. With a focus on public-private service networks, Janssen also edits a number of academic journals including Government Information Quarterly. Having published over 320 refereed publications, Janssen has been recognised as one of the leading e-government researchers in the world.",
-      "section": "Academia",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/MarijnJanssen.jpg"
-    },
-    {
-      "cardTitle": "Martha Lane Fox",
-      "cardSubtitle": "Founder of Doteveryone and cross-bench peer in House of Lords",
-      "biography": "Martha Lane Fox is founder of Doteveryone, a charity fighting for a fairer internet and building a movement for responsible technology. She previously co-founded Lastminute.com, Europe’s largest travel and leisure website. From 2009 to 2013, she was the UK’s Digital Champion and helped to create the Government Digital Service, the team that launched the Gov.uk website. She entered the House of Lords as a crossbench peer in 2013 — its youngest female member.",
-      "section": "Top 20",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/MarthaLaneFox.jpg"
-    },
-    {
-      "cardTitle": "Marushka Chocobar Reyes",
-      "cardSubtitle": "Secretary of Digital Government, Peru",
-      "biography": "Marushka Chocobar Reyes is secretary of digital government for Peru. Appointed to the position early in 2018, she heads efforts to drive digital transformation across the Peruvian government. She has supported digital teams within Peru’s public service in the past, such as building a single web domain for government in just a few months where all government information is now published, and creating an online provisional driving license service.",
-      "section": "National government",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/MarushkaChocobarReyes.jpg"
-    },
-    {
-      "cardTitle": "Matt Hancock",
-      "cardSubtitle": "Secretary of State for Health and Social Care, UK",
-      "biography": "Matt Hancock is Britain’s Secretary of State for Health and Social Care where he has prioritised digitisation and improving technology. He previously served as Secretary of State for Digital, Culture, Media, and Sport, where he was responsible for the development and roll-out of the UK’s seven-pronged Digital Strategy. He also launched the Culture is Digital Report, a framework for linking culture and tech to increase participation and boost capability of cultural organisations, via initiatives such as digitization of public collections and development of virtual reality exhibitions.",
-      "section": "Top 20",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/MattHancock.jpg"
-    },
-    {
-      "cardTitle": "Maya Wiley",
-      "cardSubtitle": "Senior Vice President for Social Justice, New School",
-      "biography": "Maya Wiley is a distinguished lawyer, academic and founder and co-director of the Digital Equity Lab, a project nested in the New School which seeks to tackle the “structural inequities that persist and evolve as technology transforms our cultural, social and political systems”. Wiley served as a council to New York City mayor Bill de Blasio from 2014 to 2016 and advocated for multi-million pound investment in bringing internet access to public housing projects and phone boxes in an effort to bridge the digital divide.",
-      "section": "Academia",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/MayaWiley.jpg"
-    },
-    {
-      "cardTitle": "Michael Keenan",
-      "cardSubtitle": "Minister Assisting the Prime Minister for Digital Transformation, Australia",
-      "biography": "Michael Keenan is Australia’s minister assisting the prime minister for digital transformation as well as the minister for human services. Under Keenan’s lead, the Australian Digital Transformation Agency developed a framework for a digital identity to safeguard online transactions between government and citizens, and also established a Digital Investment Management Office to advise ministers on information and communications technology investments.",
-      "section": "Politician",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/MichaelKeenan.jpg"
-    },
-    {
-      "cardTitle": "Mike Bracken",
-      "cardSubtitle": "Partner, Public Digital",
-      "biography": "Mike Bracken is a partner at Public Digital, a consultancy working with governments and large organisations around the world, advising them on adapting to the digital era. From 2011-15 he held a range of positions in the British government including chief data officer and director of digital. He was a co-founder of the UK’s Government Digital Service. Other work has included helping to set up mysociety.org, which educates the public about digital and social rights.",
-      "section": "Business",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/MikeBracken.jpg"
-    },
-    {
+      "biography": "M Jae Moon is the underwood distinguished professor of public administration at Yonsei University and director of the university's institute for future government. He has published extensive research on public service reform, including the adoption of e-governance across different branches of the public service. In addition to his academic work he has worked on various training and projects for international organisations such as the Asian Development Bank.",
+      "cardSubtitle": "Director, Yonsei University Institute for Future Government",
       "cardTitle": "M. Jae Moon",
-      "cardSubtitle": "Director, Institute for Future Government",
-      "biography": "M Jae Moon is the underwood distinguished professor of public administration at Yonsei University. He has published extensive research on public service reform, including the adoption of e-governance across different branches of the public service. In addition to his academic work he has worked on various training and projects for international organisations such as the Asian Development Bank.",
-      "section": "Academia",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/MJaeMoon.jpg"
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/M-Jae-Moon.PNG",
+      "section": "Academia"
     },
     {
-      "cardTitle": "Mounir Mahjoubi",
-      "cardSubtitle": "Secretary of State for Digital Affairs, France",
-      "biography": "Mounir Mahjoubi is France’s secretary of state for the digital sector, responsible for turning the country into a “Digital Republic”. This includes bolstering the growth and standing of French digital start-ups. Prior to this, Mahjoubi served as digital manager of Macron's campaign team where he has been credited for stemming a cyber attack. Previously he served as president of the French Digital Council where he advised on the impact of digital technologies on economy and society.",
-      "section": "Top 20",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/MounirMahjoubi.jpg"
+      "biography": "Mariéme Jamme is the founder of iamtheCODE, which aims to give women equal opportunities in tech through hackathons, mentorship and community-building. Jamme, who had no formal education, taught herself to read and write — and, eventually, how to code. Her goal is to train one million women programming by 2030. She also runs Spotone Global Solutions, which help tech companies gain a foothold in Africa, Europe, the Middle East and Asia. She is a World Economic Forum Young Global Leader and was named one of the 20 youngest powerful women in Africa by Forbes.",
+      "cardSubtitle": "Founder of iamtheCODE",
+      "cardTitle": "Mariéme Jamme",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Marieme-Jamme.jpg",
+      "section": "International and Non-governmental Organisations"
     },
     {
-      "cardTitle": "Nana Akufo-Addo",
-      "cardSubtitle": "President, Ghana",
+      "biography": "A professor of ICT and governance, Marijn Janssen is head of ICT in TU Delft's Technology, Policy and Management faculty. With a focus on public-private service networks, Janssen also edits a number of academic journals including Government Information Quarterly. Having published over 320 refereed publications, Janssen has been recognised as one of the leading e-government researchers in the world.",
+      "cardSubtitle": "Professor of ICT & Governance, TU Delft",
+      "cardTitle": "Marijn Janssen",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Marijn-Janssen.jpg",
+      "section": "Academia"
+    },
+    {
+      "biography": "In his role as Human Rights Lead at the NY-based research institute Data & Society, Mark Latonero investigates the benefits, risks, and harms of digital technologies. He has published a number of reports on topics such as the use of technology by refugees, the role of social platforms in human online trafficking and his most recent paper, Governing Artificial Intelligence, where he proposes a human rights framework to govern AI. He has also served in several advisory roles, including as the Innovation Consultant for the UN Office of the High Commissioner for Human Rights.",
+      "cardSubtitle": "Research Lead for Human Rights, Data & Society",
+      "cardTitle": "Mark Latonero",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Mark-Latonero.jpg",
+      "section": "Academia"
+    },
+    {
+      "biography": "Martha Lane Fox is founder of Doteveryone, a charity fighting for a fairer internet and building a movement for responsible technology. She previously co-founded Lastminute.com, Europe’s largest travel and leisure website. From 2009 to 2013, she was the UK’s Digital Champion and helped to create the Government Digital Service, the team that launched the Gov.uk website. She entered the House of Lords as a crossbench peer in 2013 — its youngest female member.",
+      "cardSubtitle": "Founder, Doteveryone and member of the UK House of Lords",
+      "cardTitle": "Martha Lane Fox",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Martha-LaneFox.jpg",
+      "section": "Business"
+    },
+    {
+      "biography": "Marushka Chocobar Reyes is secretary of digital government for Peru. Appointed to the position early in 2018, she heads efforts to drive digital transformation across the Peruvian government. She has supported digital teams within Peru’s public service, and work she has overseen includes building a single web domain for government in just a few months where all government information is now published, and creating an online provisional driving license service.",
+      "cardSubtitle": "Secretary of Digital Government, Peru",
+      "cardTitle": "Marushka Chocobar Reyes",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Marushka-Chocobar-Reyes.jpeg",
+      "section": "Government"
+    },
+    {
+      "biography": "Matt Cutts is administrator at the United States Digital Service, US, and is responsible for setting the overall direction and strategy for the USDS’s projects. Formerly a distinguished engineer and head of webspam at Google, Cutts has decades of experience working as an engineer in both private and government spaces. His primary focus now is on improving the government services that millions of people use by enhancing them with modern technology and digital innovations. ",
+      "cardSubtitle": "Administrator, United States Digital Service",
+      "cardTitle": "Matt Cutts",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Matt-Cutts.jpg",
+      "section": "Government"
+    },
+    {
+      "biography": "Maya Wiley is a distinguished lawyer, academic and founder and co-director of the Digital Equity Lab, a project based in the New School which seeks to tackle the “structural inequities that persist and evolve as technology transforms our cultural, social and political systems”. Wiley served as a council to New York City mayor Bill de Blasio from 2014 to 2016 and advocated for multi-million pound investment in bringing internet access to public housing projects and phone boxes in an effort to bridge the digital divide.",
+      "cardSubtitle": "Senior Vice President for Social Justice, New School",
+      "cardTitle": "Maya Wiley",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Maya-Wiley.jpg",
+      "section": "Academia"
+    },
+    {
+      "biography": "Michael Pratt was appointed the Secretary of NSW Treasury and NSW Industrial Relations in 2017. He is responsible for the management of the New South Wales government finances. Pratt spent the majority of his career in finance, leading to executive level roles at Standard Chartered Bank and the Bank of Melbourne, before becoming the NSW Customer Service Commissioner. As Customer Service Commissioner, Pratt was responsible for a major reform of how government and citizens interact by digitising and consolidating government services to put customer service first.",
+      "cardSubtitle": "Secretary of Treasury, NSW Government",
+      "cardTitle": "Michael Pratt",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Michael-Pratt.jpeg",
+      "section": "Government"
+    },
+    {
+      "biography": "Michelle Tong is digital services lead for the City of San Jose, US. She introduced user-centred design into My San Jose, an app and online platform that enables residents and businesses to easily request and track public services, and piloted the Digital Services Academy to train City staff in usability and design. Michelle also co-founded Code for San Jose, a local Code for America brigade, to foster alignment and connection in San Jose’s civic tech community. ",
+      "cardSubtitle": "Digital Services Lead, City of San Jose",
+      "cardTitle": "Michelle  Thong",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Michelle-Thong.jpg",
+      "section": "Government"
+    },
+    {
+      "biography": "Miguel Lago and Alessandra Orofino are the trailblazing co-founders of both Meu Rio and Nossas Cidades (Our Cities), two \"laboratiories of activism\" aimed at improving civic engagement and encouraging people-centred political action in Brazil. They have driven pioneering initiatives to improve and streamline life in the city, to boost local participation, and to make local institutions more inclusive and accountable. Both Meu Rio and Nossas Cidades tap into online and offline community-management methodologies to mobilise citizens to engage more with their local governments. ",
+      "cardSubtitle": "Co-founders, Nossas and Meu Rio, Brazil ",
+      "cardTitle": "Miguel Lago and Alessandra Orofino",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Miguel-Porrua.jpg",
+      "section": "Young Leaders"
+    },
+    {
+      "biography": "Miguel Porrúa is an e-Government specialist in the Data and Digital Government Cluster at the Inter-American Development Bank. Previously, Porrúa spent 11 years as senior e-Government specialist in the Organisation of American States (OAS) Secretariat for Political Affairs and director of government relations for Latin America. He has written several articles and documents on e-government and global information technology, in addition to co-editing a book about e-government titled América Latina Puntogob.",
+      "cardSubtitle": "Data and Digital Government Cluster Coordinator, Inter-American Development Bank",
+      "cardTitle": "Miguel Porrúa",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/MiguelLago-AlessandraOrofino.jpg",
+      "section": "International and Non-governmental Organisations"
+    },
+    {
       "biography": "Nana Akufo-Addo is the President of Ghana. During his presidency he has been a strong advocate for the digitisation of Ghana and has launched a number of initiatives including a new national digital ID scheme, an electronic payment platform and a digital property adressing system all of which are considered some of the most innovative in the region. Under his leadership Ghana has signficantly improved its digital services and gained a reputation as one of the most advanced digital societies in Africa. ",
-      "section": "Top 20",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/NanaAkufoAddo.jpg"
+      "cardSubtitle": "President, Ghana",
+      "cardTitle": "Nana Akufo-Addo",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Nana-Akufo-Addo.jpg",
+      "section": "Politics"
     },
     {
-      "cardTitle": "Navdeep Bains",
-      "cardSubtitle": "Minister of Innovation, Science and Economic Development, Canada",
-      "biography": "Navdeep Bains is Canadian federal Minister of Innovation, Science and Economic Development. He is responsible for Canada’s newly-launched National Digital and Data Consultations, canvassing industry and citizens about the impact of digital innovation on government and the economy. He launched Canada's Inclusive Innovation Agenda in 2016, establishing as a government priority the need to harness emerging technology to invigorate the Canadian economy.",
-      "section": "Politician",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/NavdeepBains.jpg"
+      "biography": "Nicolás Laguna is the executive director of Bolivia’s Agency of Electronic Government and ICT (AGETIC). A frank advocate for “debureaucratisation”, Laguna is passionate about adapting government to fit changes in Bolivian society, with two thirds of Bolivians now online. He has subsequently led the development of Bolivia’s online payment platform and a government-wide ID system. Laguna’s priority is the citizen; everything AGETIC creates is turned into free software for public use.",
+      "cardSubtitle": "Director, Bolivian Agency of Electronic Government and ICT",
+      "cardTitle": "Nicolás Laguna",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Nicolas-Laguna.jpg",
+      "section": "Young Leaders"
     },
     {
+      "biography": "Sir Nigel Shadbolt is chairman and co-founder of the Open Data Institute, one of the foremost institutions for advocating a global open data ecosystem. Nigel is a notable scholar of computer and web science and holds various fellowships and professorships. He was information advisor to the UK Prime Minister, which led to the creation of the data.gov.uk dataset portal. Nigel is the President of the British Computer Society, and was knighted in recognition of his services to science and engineering. ",
+      "cardSubtitle": "Chairman, Open Data Institute",
+      "cardTitle": "Nigel Shadbolt",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Nigel Shadbolt.jpg",
+      "section": "International and Non-governmental Organisations"
+    },
+    {
+      "biography": "Nnenna Nwakanma is the chief web advocate for the World Wide Web Foundation (WWW) where shen advocates for open data, open government and the open web across Africa. She works to drive forward the Africa Data Consensus, the Africa Open Data Network, the Africa Open Data Conference and the African Declaration on Internet Rights and Freedoms. She represents the Web Foundation at a number of international fora, including the Global Partnership for Sustainable Development Data. She has over 15 years of experience working with the United Nations Systems on subjects such as the information society, gender and data digital equality.",
+      "cardSubtitle": "Chief Web Advocate, World Wide Web Foundation",
       "cardTitle": "Nnenna Nwakanma",
-      "cardSubtitle": "Interim Policy Director, World Wide Web Foundation",
-      "biography": "Nnenna Nwakanma is the interim policy director for the World Wide Web Foundation (WWW) where shen advocates for open data, open government and the open web across Africa. She works to drive forward the Africa Data Consensus, the Africa Open Data Network, the Africa Open Data Conference and the African Declaration on Internet Rights and Freedoms. She represents the Web Foundation at a number of international fora, including the Global Partnership for Sustainable Development Data. She has over 15 years of experience working with the United Nations Systems on subjects such as the information society, gender and data digital equality.",
-      "section": "Nonprofit",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/NnennaNwakanma.jpg"
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Nnenna-Nwakanma.jpg",
+      "section": "International and Non-governmental Organisations"
     },
     {
-      "cardTitle": "Nuria Simo",
-      "cardSubtitle": "CIO, Inter-American Development Bank",
-      "biography": "Nuria Simo Vila is the Chief Information Officer and General Manager at the Department of Information Technology of the Inter-American Development Bank (IADB). In this position she is driving the digital transformation of the IADB in order to help the bank accomplish its development challenges. Before joining the IADB, Nuria held CIO positions at several global operations such as FrieslandCampina in the Netherlands, EADS in Germany, and Cargill in Spain, the United States and the United Kingdom.",
-      "section": "International organisation",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/NuriaSimo.jpg"
+      "biography": "Oluseun Onigbinde is CEO of the Nigerian civic organisation, BudgiT. He was inspired by his passion for open data to create the organisation in 2011. BudgiT is a data visualisation platform for Nigeria’s budget that aims to increase citizen engagement, raise accountability and increase the transparency of government spending. Onigbinde is also a Policy Advisor Board Member for One Africa, an organisation that campaigns to end poverty and preventable diseases by 2030.",
+      "cardSubtitle": "Co-Founder and CEO of budgIT, Nigeria ",
+      "cardTitle": "Oluseun Onigbinde",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Oluseun-Onigbinde.jpeg",
+      "section": "Young Leaders"
     },
     {
-      "cardTitle": "Park Won-soon",
+      "biography": "Park Won Soon, human rights lawyer and mayor of Seoul, is a pioneer in government data visualization and open data. He is currently spearheading a movement to establish Seoul’s own crypto-currency, dubbed “S-coin,” and leading an initiative to increase government transparency using blockchain technology. Won Soon likes to use data and technology to enact policy changes. For instance, after receiving a tweet from a constituent requesting night time bus services, Soon’s office used data from private phone companies on which areas had the most late-night phone calls to design Night Owl bus routes.",
       "cardSubtitle": "Mayor, Seoul",
-      "biography": "Park Won-soon, human rights lawyer and mayor of Seoul, is a pioneer in government data visualization and open data. He is currently spearheading a movement to establish Seoul’s own crypto-currency, dubbed “S-coin,” and leading an initiative to increase government transparency using blockchain technology. Won-soon likes to use data and technology to enact policy changes. For instance, after receiving a tweet from a constituent requesting night time bus services, Soon’s office used data from private phone companies on which areas had the most late-night phone calls to design Night Owl bus routes.",
-      "section": "Top 20",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/ParkWonSoon.jpg"
+      "cardTitle": "Park  Won Soon",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Park-Won-Soon.jpg",
+      "section": "Politics"
     },
     {
-      "cardTitle": "Paula Forteza",
-      "cardSubtitle": "French politician and civic tech advocate",
       "biography": "Paula Forteza is a French politician and advocate for civic technology initiatives across government in France. She works to make digital affairs and citizen participation a priority in French political debate, and has released her agenda and schedule as open data. She has a background in technology and innovation policy, having previously worked at Etalab, the French Prime Minister’s taskforce for Open Data, Open Government and Data Science and on public innovation for the City of Buenos Aires.",
-      "section": "Politician",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/PaulaForteza.jpg"
+      "cardSubtitle": "French politician and civic tech advocate",
+      "cardTitle": "Paula Forteza",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Paula-Forteza.png",
+      "section": "Politics"
     },
     {
-      "cardTitle": "Phillip Thigo",
-      "cardSubtitle": "Senior Advisor at the Office of the Deputy President, Kenya",
-      "biography": "Philip Thigo is the lead on data & innovation at the Office of the Deputy President in Kenya. He has previously served as executive director of Infonet Africa. Over the years, he has co-created unique technology initiatives such as Apps4Africa together with the US State Department and Uchaguzi, and initiative to help monitor elections. He currently serves as the point of contact for Open Government Partnership for Kenya.",
-      "section": "National government",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/PhillipThigo.jpg"
+      "biography": "Paula Ingabire has been the minister of ICT and innovation for Rwanda since 2018. She has worked with Transform Africa, an organisation that focuses on digital innovation, and is the former head of the Kigali Innovation City initiative, which pushed to make the city a hub of new tech opportunities. The World Economic Forum selected Rwanda as the host of the Africa Drone Forum 2020 because of its pioneering use of drone technology for the delivery of public services, including medical delivery drones and the use of Beyond Visual Line Of Sight (BVLOS) UAV operations. ",
+      "cardSubtitle": "Minister of Information and Communications Technology and Innovation, Rwanda",
+      "cardTitle": "Paula Ingabire",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Paula-Ingabire.jpg",
+      "section": "Politics"
     },
     {
+      "biography": "Pia Andrews is Executive Director of Digital Government at the New South Wale Department of Finance, Services and Innovation. She is responsible for the all-of-NSW-government policy and innovation for ICT, digital, open, information, data, emerging tech and transformation, including a service innovation lab (DNA). Previously she was service integration lead at New Zealand's Department of Internal Affairs, and is recognised internationally for driving the idea of government as an API. Beginning her career in IT, Andrews directed an open source consultancy in her native Australia before holding a number of roles in government, including director of data infrastructure and government engagement at Australia’s Department of the Prime Minister and Cabinet.",
+      "cardSubtitle": "Executive director of Digital Government, New South Wales Finance Department",
       "cardTitle": "Pia Andrews",
-      "cardSubtitle": "Service Integration Lead, New Zealand Department of Internal Affairs",
-      "biography": "Pia Andrews is service integration lead at New Zealand's Department of Internal Affairs, and is recognised internationally for driving the idea of government as an API. Beginning her career in IT, Andrews directed an open source consultancy in her native Australia before holding a number of roles in government, including director of data infrastructure and government engagement at Australia’s Department of the Prime Minister and Cabinet.",
-      "section": "Top 20",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/PiaAndrews.jpg"
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Pia-Andrews.jpg",
+      "section": "Government"
     },
     {
+      "biography": "Pia Mancini is the co-founder and CEO of Open Collective, a collaborative and transparant fundraising platform. After serving as the chief advisor for political affairs for the City of Buenos Aires, Mancini co-founded Democracy OS, an open-sourced mobile app that breaks down complex policies for voters. She also co-founded a political party centred around the principles of digital governance, Partido de La Red (The Net Party), which received 1% of Buenos Aire's votes in the city's 2013 congressional elections. ",
+      "cardSubtitle": "Co-Founder and CEO, Open Collective",
       "cardTitle": "Pia Mancini",
-      "cardSubtitle": "Political Scientist and Activist",
-      "biography": "Pia Mancini is the co-founder of Democracy Earth, a non-profit that builds platforms for decentralized and incorruptible online governance, and Open Collective, a collaborative and transparant fundraising platform. After serving as the chief advisor for political affairs for the City of Buenos Aires, Mancini co-founded Democracy OS, an open-sourced mobile app that breaks down complex policies for voters. She also co-founded a political party centred around the principles of digital governance, Partido de La Red (The Net Party), which received 1% of Buenos Aire's votes in the city's 2013 congressional elections.",
-      "section": "Nonprofit",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/PiaMancini.jpg"
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Pia-Mancini.jpeg",
+      "section": "Young Leaders"
     },
     {
+      "biography": "Randall Brugeaud took up a new role as head of Australia’s Digital Transformation Agency at the start of July, 2018, a promotion from his previous position as chief operating officer at the Australian Bureau of Statistics. He has also served as chief information officer of what was formerly called the Department of Immigration and Border Protection. He serves as a Senior Executive Fellow of the Harvard Kennedy School.",
+      "cardSubtitle": "CEO, Australia's Digital Transformation Agency",
       "cardTitle": "Randall Brugeaud",
-      "cardSubtitle": "Head of the Digital Transformation Agency, Australia",
-      "biography": "Randall Brugeaud took up a new role as head of Australia’s Digital Transformation Agency at the start of July, a promotion from his previous position as chief operating officer at the Australian Bureau of Statistics. He has also served as chief information officer of what was formerly called the Department of Immigration and Border Protection. He is also a Senior Executive Fellow of the Harvard Kennedy School.",
-      "section": "National government",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/RandallBrugeaud.jpg"
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Randall-Brugeaud.jpg",
+      "section": "Government"
     },
     {
-      "cardTitle": "Ravi Shankar Prasad",
+      "biography": "Ravi Shankar Prasad is India’s minister for electronics and IT. His ministry is working on a new data protection framework for India, digital inclusion and cyber security. It has initiated several new e-governance initiatives, including a unified mobile app for services, an online procurement platform and an open government data platform. He was critical in bringing digital TV to India and also led the corporatisation of the Indian film industry. He is a designated senior advocate in India’s Supreme Court.",
       "cardSubtitle": "Minster for Electronics and IT and Minister for Law and Justice, India",
-      "biography": "Ravi Shankar Prasad is India’s minister for electronics and IT. His ministry is working on a new data protection framework for India, digital inclusion and cyber security. It has initiated several new e-governance initiatives, including a unified mobile app for services, an online procurement platform and an open government data platform. He was critical in bringing digital TV to India and also led the corporatization of the Indian film industry. He is a designated senior advocate in India’s Supreme Court.",
-      "section": "Top 20",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/RaviShankarPrasad.jpg"
+      "cardTitle": "Ravi Shankar Prasad",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Ravi-Shankar-Prasad.jpg",
+      "section": "Politics"
     },
     {
-      "cardTitle": "René Penning de Vries",
-      "cardSubtitle": "Chairman, Dutch Blockchain Coalition",
-      "biography": "René Penning de Vries is Chairman of the Dutch Blockchain Coalition, a public-private partnership that wants to use blockchain technology to make a digital exchange system for government bodies, companies and citizens. Mr. de Vries has over 30 years experience working for tech companies in the private sector, including presiding as chief technology officer of NXP Semiconductors.",
-      "section": "National government",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/RenePenningDeVries.jpg"
+      "biography": "Rikke Zeberg is Director-General at the Agency for Digitisation in Denmark’s Ministry of Finance. She has been closely involved in a government-wide project of setting new, ambitious goals for future digital transformations in public service delivery. Zeberg’s approach is shaped by a desire to produce cogency and optimum usability for Danish citizens, as well as a deep commitment to transparency around data. Rikke and her team are working hard on a governmental Coherency Reform, and she intends to help increase Denmarks’ use of technologies like AI and machine learning to advance service delivery in the future.  ",
+      "cardSubtitle": "Director-General at the Agency for Digitisation, Denmark ",
+      "cardTitle": "Rikke Zeberg",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Rikke-Zeberg.jpg",
+      "section": "Academia"
     },
     {
-      "cardTitle": "Roberta Rabay",
-      "cardSubtitle": "Director, LabHacker",
-      "biography": "Roberta has been a director of LabHacker since December 2017. LabHacker operates within the Brazilian Chamber of Deputies and works promote the collaborative development of innovative citizenship projects. Roberta joined the Board in 1999, worked in the area of ​​Information Technology, where she worked on portal development, user experience, internal communication and people management.",
-      "section": "National government",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/RobertaRabay.jpg"
+      "biography": "Ro Khanna is a US Congressman, representing California’s 17th District. First elected to Congress in the 2016 general election, Khanna is the Congressman for Silicon Valley, who is now calling on tech companies to create jobs and diversify their recruiting efforts. Articulating a philosophy of progressive capitalism, Khanna fights for universal broadband coverage for all, and works to stop excessive surveillance.",
+      "cardSubtitle": "US Congressman, California",
+      "cardTitle": "Ro Khanna",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Ro-Khanna.jpeg",
+      "section": "Politics"
     },
     {
-      "cardTitle": "Rocio Fonseca",
-      "cardSubtitle": "Head of Innovation, CORFO and Ex head of Start-up Chile",
-      "biography": "Rocio Fonseca is head of innovation at the Chilean Economic Development agency (CORFO), a government platform that serves as a one-stop-shop for entrepreneurs, where she is responsible for accelerating public sector modernisation and digitisation through innovation. Until recently she worked as the executive director of Start-Up Chile during the period when the initiative established itself as the definitive innovation and entrepreneurial hub of Latin America. ",
-      "section": "National government",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/RocioFonseca.jpg"
+      "biography": "Robert Krimmer is a professor of e-Governance within at Estonia’s Tallinn University of Technology. His research is focused on electronic participation and democracy, as well as e-voting, the transformation of the public sector and developing digital societies. He leads a large-scale pilot focused on exploring and demonstrating the feasibility of the once-only principle, which involves partners from other 21 countries inside and outside the European Union. Krimmer is also an associate editor of the international scientific journal Government Information Quarterly.",
+      "cardSubtitle": "Professor of e-Governance, Tallinn University of Technology",
+      "cardTitle": "Robert Krimmer",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Robert-Krimmer.jpg",
+      "section": "Academia"
     },
     {
-      "cardTitle": "Samir Saini",
-      "cardSubtitle": "IT Commissioner and CIO, City of New York",
-      "biography": "Samir Saini is CIO and IT commissioner for the City of New York. He previously served as CIO of the city of Atlanta, where he centralised the city’s data onto a secure and reliable cloud system and rolled out Smart Cities initiatives. The SmartATL program partnered with academic and City Leadership partners to use big Data and internet of things sensors on city streets, improving public safety, mobility, and the city’s operational efficiency. Prior to his work in the public sector, Saini served as VP for Corporate Systems for MGM Mirage and the General Electric Company.",
-      "section": "Local/regional government",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/SamirSaini.jpg"
+      "biography": "Roberta Cocco is the councillor for digital transformation and citizen services for the Municipality of Milan, Italy. Cocco was the former national plans development director for Microsoft and used her expertise to support the Government’s Digital Agenda. In her work for the city of Milan, she has focused on digitising critical citizen services, experimenting with 5G, and keeping Milan in the top rankings as a “smart city” by undertaking innovative projects. She is also passionate about projects that push girls into STEM careers.",
+      "cardSubtitle": "Councillor for Digital Transformation and Citizen Services, Municipality of Milan",
+      "cardTitle": "Roberta Cocco",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Roberta-Cocco.jpg",
+      "section": "Government"
     },
     {
-      "cardTitle": "Scott Brison",
-      "cardSubtitle": "President of the Treasury Board of Canada and Minister of Digital Government, Canada",
-      "biography": "Scott Brison is Canada’s first minister for digital government and president of the treasury board, which manages the Canadian public service. He championed the creation of the Canadian Digital Service and leads the Government of Canada Service Strategy, focused on digitisation and simplification of Canadian government. He recently gave a TedX Talk focused on the role of digital government in re-engaging citizens in the democratic process which can be viewed <a href=\"https://www.youtube.com/watch?v=Hn0gVp7J2g0\">here</a>.",
-      "section": "Politician",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/ScottBrison.jpg"
+      "biography": "Robin Christopherson is head of digital inclusion and part of the acclaimed accessibility and tech team at AbilityNet. As a speaker, Christophersen, who is blind, is known for captivating audiences with examples of good and bad accessibility practice. He advises companies on their obligations under the Equality Act and the Disability Equality Duty. He also has courtroom experience as an expert technical witness in assistive technology and software, systems and website accessibility.",
+      "cardSubtitle": "Head of Digital Inclusion, Ability.net",
+      "cardTitle": "Robin Christopherson",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Robin-Christopherson.jpg",
+      "section": "International and Non-governmental Organisations"
     },
     {
-      "cardTitle": "Shai-Lee Spigelman",
-      "cardSubtitle": "CEO, Digital Israel",
+      "biography": "Rudi Borrmann is a leading figure in South America's digital government movement. He is currently the undersecretary for public innovation and open government in Argentina, a role in which he chaired the digital economy task force during Argentina's presidency of the G20 in 2018. Previously, Borrmann founded the Buenos Aires Innovation Lab and led the city's Open Government project, which was the first city-level open government initiative in Argentina. ",
+      "cardSubtitle": "Undersecretary of Public Innovation and Open Government, Argentina",
+      "cardTitle": "Rudi Borrmann",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Rudi-Borrmann.jpg",
+      "section": "Government"
+    },
+    {
+      "biography": "Under the leadership of Sak Segkhoonthod, the Thai Digital Government Development Agency has been revamped and given a new mandate to digitise government. The flagship project is a two-year plan for digital government, that aims to bring the nation's services up to speed by creating a new government data center, unifying government communication and putting open government data at the forefront. The goal is to create Thailand 4.0, an innovation-driven nation where the government leads the way in data analytics and AI.",
+      "cardSubtitle": "President and CEO, Digital Government Development Agency, Thailand",
+      "cardTitle": "Sak Segkhoonthod",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Sak-Segkhoonthod.jpeg",
+      "section": "Government"
+    },
+    {
       "biography": "Shai-lee Spigelman is CEO for Digital Israel. She leads the government’s national digital program and national strategy around digital education, digital health, economics in the digital age, smart cities and digital literacy. Prior to joining Digital Israel, Shai-lee held several roles at Microsoft Israel. In her last position, she served as VP of Marketing and Social Responsibility and a member of the board of directors of the Microsoft Research and Development Centre in Israel.",
-      "section": "National government",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/ShaiLeeSpigelman.jpg"
+      "cardSubtitle": "CEO, Digital Israel",
+      "cardTitle": "Shai-Lee  Spigelman",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Shai-Lee-Spigelman.jpg",
+      "section": "Government"
     },
     {
-      "cardTitle": "Siim Sikkut",
-      "cardSubtitle": "CIO, Government of Estonia",
+      "biography": "Shirin Hamid is the Principal Director and CIO of the Asian Development Bank (ADB), working closely with both government and the private sector in Asia-Pacific to boost development schemes, build and enhance digital economies, and support sustainable growth in the long-term. Shirin has led IT and data governance reforms within the ADB, with a view to modernise how the organisation operates. She was recognised as leader in the 2019 CIO100 awards, and spoke at the ConnectGov Leaders Summit in Edinburgh this year.",
+      "cardSubtitle": "Principal Director and CIO of the Asian Development Bank",
+      "cardTitle": "Shirin Hamid",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Shirin-Hamid.jpg",
+      "section": "International and Non-governmental Organisations"
+    },
+    {
       "biography": "Siim Sikkut has been the Estonian government’s chief information officer since March 2017. He previously worked as a digital policy adviser to the government for five years, where he was one of the founders of the flagship e-Residency program and helped to author the Estonian Digital Agenda 2020. Sikkut has alkso been an adviser on e-Government for Jersey and a member of the digital government advisory group at the Inter-American Development Bank.",
-      "section": "Top 20",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/SiimSikkut.jpg"
+      "cardSubtitle": "CIO, Government of Estonia",
+      "cardTitle": "Siim Sikkut",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Siim-Sikkut.jpg",
+      "section": "Young Leaders"
     },
     {
-      "cardTitle": "Sophie Løhde",
-      "cardSubtitle": "Minister for Public Sector Innovation, Denmark",
-      "biography": "Sophie Lohde is Denmark’s Minister for Public Innovation. Under the helm of Ms. Lohde, the newly-created department led a massive reform of Denmark’s information and communication technology systems, used AI and blockchain to streamline government services, and released the world’s first ever survey on government innovation. Denmark were recently ranked first in a UN Survey on digital government. Ms. Lohde was elected to the Danish Parliament in 2007.",
-      "section": "Top 20",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/SophieLohde.jpg"
+      "biography": "Stefano Quintarelli is the chairman of the steering committee at the Italian Digital Agency and a member of the European Commission’s AI High Level Expert Group. He’s a serial entrepreneur who founded I.NET, the first Italian business internet service provider. He was also a founder and board member of Clusit, Italy’s computer security association and chairman of AIIP, Italy’s ISP association. He’s an angel investor, professor and former member of the Italian Parliament.",
+      "cardSubtitle": "Chairman of the Steering Committee, Italian Digital Agency",
+      "cardTitle": "Stefano Quintarelli",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Stefano-Quintarelli.jpeg",
+      "section": "Government"
     },
     {
-      "cardTitle": "Stefaan Verhulst,",
-      "cardSubtitle": "Co-Founder and Chief Research and Development Officer, GovLab",
-      "biography": "Stefaan Verhulst is co-founder and chief research and development officer at New York University’s GovLab, an innovation lab seeking to improve people’s lives by transforming governance through data, technology and crowdsourcing. Verhulst also advises the Markle Foundation and Global Partners Digital, in addition to holding senior research positions at NYU and the Central European University.",
-      "section": "Academia",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/StefaanVerhulst.jpg"
+      "biography": "Suhazimah Dzazali is the chief information officer at the Malaysian Administrative Modernisation and Management Planning Unit (MAMPU). MAMPU is Malaysia’s central agency for the modernisation and transformation of the public service. In her role, Dzazali acts as a change agent, strengthening tech policy, standards and practice and encouraging the uptake of digital within the public sector. She was responsible for the development of the government’s public service digitisation plan.",
+      "cardSubtitle": "Deputy Director-General, Malaysian Administrative Modernisation and Management Planning Unit",
+      "cardTitle": "Suhazimah Dzazali",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Suhazimah-Dzazali.jpeg",
+      "section": "Government"
     },
     {
-      "cardTitle": "Stefan Schweinfest",
-      "cardSubtitle": "Director, UN Statistics Division",
-      "biography": "Stefan Schweinfest first joined the United Nations Statistics Division (UNSD) in 1989 and now serves as its director. UNSD is the statistical heart of the United Nations, collating and standardising data, developing capacity across member states and coordinating a range of international statistical programs. He is also officer-in-charge at the UN's Division for Public Institutions and Digital Government, assisting and advising government across the world on digital transformation and innovative public administration.",
-      "section": "International organisation",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/StefanSchweinfest.jpg"
+      "biography": "Susan Crawford is the John A. Reilly Clinical Professor of Law at Harvard Law School, and has published a number of books and articles on the tech revolution and digital governance. With over a decade's worth of experience in digital government, Susan has been recognised as one of Fast Company’s Most Influential Women in Technology (2009), Prospect Magazine’s Top Ten Brains of the Digital Future (2011), and TIME Magazine’s Tech 40: The Most Influential Minds in Tech (2013) among other accolades. She is the founder of OneWebDay, served as Special Assistant to the President for Science, Technology, and Innovation Policy in 2009, co-led the FCC transition team between the Bush and Obama administrations, served as a member of Mayor Michael Bloomberg’s Advisory Council on Technology and Innovation and also on Mayor Bill de Blasio’s Broadband Task Force. ",
+      "cardSubtitle": "John A. Reilly Clinical Professor of Law, Harvard Law School",
+      "cardTitle": "Susan  Crawford",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Susan-Crawford.jpg",
+      "section": "Government"
     },
     {
-      "cardTitle": "Taavi Kotka",
-      "cardSubtitle": "Former Chief Information Officer, Estonia",
-      "biography": "Taavi Kotka is Estonia’s former chief information officer, known for leading its world renowned e-residency program. In 2014 he co-proposed the idea for 10 million e-residents by 2025 at an idea contest of the Estonian Development Foundation. Prior to his government work, he was CEO of Nortal (then Webmedia), one of the largest software development companies in the Baltic states. He is now a special advisor on digital single market issues and e-governance for the vice president of the European Commission.",
-      "section": "Politician",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/TaaviKotka.jpg"
+      "biography": "Tabitha Goldstaub is the co-founder of CognitionX, a network that connects organisations with a global network of AI experts. Alongside CognitionX, Goldstaub is the AI & data business champion and chair of the AI Council for the UK government. She also set up Why Women in AI, co-founded Future Girl Corp and advises Teens in AI to improve women’s representation in the industry. She is the director of CogX, a festival for \"all things AI\".",
+      "cardSubtitle": "Chair, UK's AI Council",
+      "cardTitle": "Tabitha Goldstaub",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Tabitha-Goldstaub.jpeg",
+      "section": "Young Leaders"
     },
     {
-      "cardTitle": "Theo Blackwell",
-      "cardSubtitle": "Chief Digital Officer, London",
-      "biography": "Theo Blackwell is London’s first chief digital officer. He plays a leading role in mayor Sadiq Khan’s plan to make London the world’s smartest city, and helped to develop the new Smart London Plan, a vision to transform the city’s services for the digital age. Blackwell was formerly a cabinet member at Camden council, helping it to become London’s leading digital borough through its use of public data. He has also worked at GovTech accelerator Public and at Ukie, the video games industry’s trade body.",
-      "section": "Local/regional government",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/TheoBlackwell.jpg"
+      "biography": "Tariq Malik is chief technical advisor at the United Nations Development Program (UNDP), and a core member of the World Bank’s Technical Experts Group. He has led multiple biometrics identity-programs and Information Technology projects, including most recently a National Registration and Identification System in Malawi, Africa. The innovational digital ecosystem created by this project has helped to significantly reform governance in Malawi, in turn strengthening democracy, financial inclusion, sustainable development, and overall service delivery. Tariq is one of the brains behind the global ‘ID for Development’ (#ID4D) program, and authored the framework of international standards for digital identity.",
+      "cardSubtitle": "Chief Technical Advisor, UNDP",
+      "cardTitle": "Tariq Malik",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Tariq-Malik.jpg",
+      "section": "International and Non-governmental Organisations"
     },
     {
+      "biography": "Theresa Pardo is the director of the Rockefeller College of Public Affairs & Policy at the University of Albany and one of the most cited scholars in the world in her field. Her team conducts applied research and problem-solving projects on issues relating to policy, management, and technology in the governments worldwide. Pardo also serves advises New York State Governor Andrew M. Cuomo as part of Open New York. ",
+      "cardSubtitle": "Director, University at Albany's Rockefeller College of Public Affairs & Policy",
       "cardTitle": "Theresa Pardo",
-      "cardSubtitle": "Director, Center for Technology in Government at the University at Albany",
-      "biography": "Theresa Pardo is the director of the Center for Technology in Government (CTG) at the University of Albany and one of the most cited scholars in the world in her field. The CTG conducts applied research and problem-solving projects on issues relating to policy, management, and technology in the governments worldwide. Pardo also serves advises New York State Governor Andrew M. Cuomo as part of Open New York. ",
-      "section": "Academia",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/TheresaPardo.jpg"
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Theresa-Pardo.jpeg",
+      "section": "Academia"
     },
     {
-      "cardTitle": "Tiago C. Peixoto",
-      "cardSubtitle": "Senior Public Sector Specialist, World Bank Group",
       "biography": "Tiago C. Peixoto is senior public sector specialist at the World Bank Group, where he leads the Bank’s Digital Engagement Evaluation Team. He’s published several papers on the intersection of technology and government, including a much-cited meta-analysis of various governments’ usage of information and communication technologies platforms to project citizen voices and improve public service deliveries. Before joining the World Bank, Piexoto was an advisor for the OECD and the UN, and research director of the Electronic Democracy Centre at the University of Zurich. ",
-      "section": "International organisation",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/TiagoCPeixoto.jpg"
+      "cardSubtitle": "Senior Public Sector Specialist, World Bank Group",
+      "cardTitle": "Tiago C. Peixoto",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/TiagoC-Peixoto.jpg",
+      "section": "International and Non-governmental Organisations"
     },
     {
-      "cardTitle": "Tim Berners-Lee",
-      "cardSubtitle": "Inventor of the World Wide Web",
-      "biography": "Tim Berners-Lee is the inventor of the World Wide Web and president and co-founder of the Open Data Institute, a non-profit organization that works with companies and governments to build safe and open data systems that collect data ethically and confidentially. He is also a co-founding director of the World Wide Web Foundation and Director of the World Wide Web Consortium. Knighted by the UK’s Queen Elizabeth for his groundbreaking work in the technology sector, Berners-Lee is a global advocate of open government data and a member of the United Kingdom’s Transparency Board.",
-      "section": "Top 20",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/TimBernersLee.jpg"
+      "biography": "Tiana Epps-Johnson is the founder and executive director of the Center for Technology and Civic Life (CTCL). In this capacity, she provides resources and training to support local election administrators, helping them to modernise the ways they communicate with voters. CTCL also publish free, open-source civic datasets, used over 200 million times, which are adapted into tools to drive civic participation.",
+      "cardSubtitle": "Founder and Executive Director, Center for Technology and Civic Life",
+      "cardTitle": "Tiana Epps-Johnson",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Tiana-Epps-Johnson.jpg",
+      "section": "Young Leaders"
     },
     {
-      "cardTitle": "Tom Steinberg",
-      "cardSubtitle": "Founder, mySociety and Digital Transformation Lead, Big Lottery Fund",
-      "biography": "Tom Steinberg is the digital transformation lead at the Big Lottery Fund, a distributor of funding from Britain’s National Lottery. Previously, he founded and directed mySociety, an international nonprofit which builds and popularises digital tools that give citizens power over institutions and decision makers. Under Steinberg's leadership, mySociety ran popular British social and political accountability websites including WhatDoTheyKnow.com and FixMyStreet.com. He's advised a range of private and government institutions across a spectrum of political ideologies, including Code For America. He sat on the UK government’s Public Sector Transparency Board for two years.",
-      "section": "Nonprofit",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/TomSteinberg.jpg"
+      "biography": "Ulrike Huemer is the chief information officer for the City of Vienna. She is currently responsible for running digital strategy for Vienna and working towards ensuring that the Austrian capital is a “smart city” by digitising citizen services. Huemer advocates for using technology not as a “means to an end” but as a way to create social change to provide quality services to citizens.",
+      "cardSubtitle": "Chief Information Officer, City of Vienna",
+      "cardTitle": "Ulrike Huemer",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Ulrike-Huemer.jpg",
+      "section": "Government"
     },
     {
-      "cardTitle": "Toomas Hendrik Ilves",
-      "cardSubtitle": "Former President, Estonia",
-      "biography": "Toomas Hendrik Ilves was president of Estonia from 2006 to 2016 where he was the pioneer of a number of radical digital ideas. During his presidency he served in several senior ICT positions in the European Union including chairman of the EU Task Force on eHealth and the European Cloud Partnership Steering Board. More recently, Toomas Hendrik Ilves has spoken and written extensively about e-government, cyber security and other topics relating to digital government. He is currently a visting felow at the Hoover Institution at Stanford University and co-chare of the WEF's Global Future Council on Blockchain.",
-      "section": "Politician",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/ToomasHendrikIlves.jpg"
-    },
-    {
-      "cardTitle": "Toshio Obi",
-      "cardSubtitle": "Director, APEC e-Government Research Center",
-      "biography": "Toshio Obi is a professor at the Institute of Digital Government at Waseda University and director of the APEC e-Government Research Center. During his distinguished career he has held senior positions on a  as a member of various advisory committees of the Japanese Government including the National e-Government Promotion Council,  the Prime Minister’s IT Strategy Council, the International Academy of CIOs and the UNESCO/UNITWIN Program on Disaster Management. He has published more than 40 books, including The Aging Society and ICT and annual World e-Government Rankings. He has received the MIC Minister’s Award (twice) and an Emperor Blue Ribbon Medal.",
-      "section": "Academia",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/ToshioObi.jpg"
-    },
-    {
-      "cardTitle": "Vasundhara Raje",
-      "cardSubtitle": "Chief Minister, Rajasthan",
-      "biography": "Vasundhara Raje is Chief Minister of Rajasthan, the first woman to hold the post. In 2018 she was awarded Chief Minister of the Year at Skoch Summit for her work on e-governance. Rajasthan is India’s first state to implement an integrated and unified e-governance framework and architecture, known for leveraging technology and digital government. It launched the Bhamashah Card for cash subsidy transfers (given to the head woman in the household), and before Startup India was launched, Rajasthan announced its own ambitious Startup Policy in 2015.",
-      "section": "Politician",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/VasundharaRaje.jpg"
-    },
-    {
-      "cardTitle": "Yannis Charalabidis",
-      "cardSubtitle": "Associate Professor, University of the Aegean and Director, Greek Digital Governance Research Center",
-      "biography": "Yannis Charalabidis is an associate professor at the University of the Aegean, specialising in government transformation, e-participation, e-government and e-governance. He is also director of the university’s Innovation and Entrepreneurship Unit and is head of the Information Systems Laboratory, coordinating policy making, research and pilot application projects for governments and enterprises worldwide. He has published more than 200 papers in international journals and conferences and won three ‘best paper’ awards at the International IFIP e-government Conference.  ",
-      "section": "Academia",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/YannisCharalabidis.jpg"
-    },
-    {
-      "cardTitle": "Yasmin Mahmood",
-      "cardSubtitle": "CEO, Malaysia Digital Economy Corporation",
-      "biography": "Yasmin Mahmood is CEO of the Malaysia Digital Economy Corporation (MDEC), which works to develop the country's digital economy. Starting out as an analyst programmer in a local bank, Mahmood worked her way to senior positions at Hewlett Packard and Dell, before heading MDEC. An active advocate of women's empowerment in the workplace, she is also a mentor for Lean-in Malaysia.",
-      "section": "National government",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/YasminMahmood.jpg"
-    },
-    {
-      "cardTitle": "Yogida Sawmynaden",
-      "cardSubtitle": "Minister of Technology, Commmunication and Innovation, Mauritius",
-      "biography": "Yogida Sawmynaden is Mauritius' Minister of Technology, Commmunication and Innovation, a position he took up in January 2017. Since then, he has played a leading role in launching the Indian Ocean Exchange submarine cable system project, a new open access path which will connect the island to South Africa and India. Sawmynaden has also overseen the country's open data portal, which has begun to release government datasets.",
-      "section": "Politician",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/YogidaSawmynaden.jpg"
-    },
-    {
-      "cardTitle": "Yolanda Martínez Mancilla",
-      "cardSubtitle": "National Digital Strategy Coordinator, Office of the President of Mexico",
-      "biography": "Yolanda Martínez Mancilla is co-ordinator of Mexico’s national digital strategy. She has more than 15 years of experience working on digital transformation. She has worked in Mexican federal and local governments, with the consulting firm Deloitte, and in development with UNDP. As national digital strategy coordinator in the president's office, Mancilla is responsible for promoting the use of ICT in the federal public administration.",
-      "section": "Top 20",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/YolandaMartinezMancilla.jpg"
-    },
-    {
-      "cardTitle": "Zunaid Ahmed Palak",
-      "cardSubtitle": "State Minister for ICT, Bangladesh",
-      "biography": "Zunaid Ahmed Palak has served as state minister for ICT in Bangladesh since 2014, and was named a Young Global Leader by the World Economic Forum in 2016. He is the youngest member of the country’s cabinet. He oversaw a win for his department at the 2017 Mobile Government Awards, where it took first prize for its National Mobile Application Awareness Development and Capacity Building Program.",
-      "section": "Politician",
-      "imageUrl": "https://assets.apolitical.co/images/lists/digital-government-world100/ZunaidAhmedPalak.jpg"
+      "biography": "Vincenzo Aquaro is the chief of digital government at the United Nations. He has more than 25 years of experience in technology, having worked both for international organisations and in the private sector. Since 2010, he has led the UN’s annual e-Government Survey and the flagship e-Government program, which helps government advance public sector reform. He has also served as chief of the e-government branch at Division for Public Administration and Development Management at the UN Department of Economic and Social Affairs. Prior to joining the UN, he was CEO of Formit Servizi, an IT consultancy.",
+      "cardSubtitle": "Chief of Digital Government, United Nations",
+      "cardTitle": "Vincenzo Aquaro",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Vincenzo.Aquaro.jpg",
+      "section": "International and Non-governmental Organisations"
     }
   ],
   "galleryOrder": [
     "Top 20",
-    "National government",
-    "Politician",
-    "Local/regional government",
+    "Young Leaders",
+    "Government",
+    "Politics",
+    "International and Non-governmental Organisations",
     "Academia",
-    "Business",
-    "International organisation",
-    "Nonprofit"
+    "Business"
   ]
 }
