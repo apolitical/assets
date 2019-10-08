@@ -1,12 +1,12 @@
 {
   "metaData": {
-    "htmlTitle": "Apolitical Lists | Apolitical",
+    "htmlTitle": "Digital Government: The 100 Most Influential People | Apolitical",
     "twitterTitle": "World’s 100 Most Influential People in Digital Government",
-    "twitterDescription": "We’re excited to present our 2018 list of the world’s 100 most influential people in digital government. It’s the first of its kind to show the international spread of the field, and includes individuals from every continent.",
+    "twitterDescription": "We’re excited to present our 2019 list of the world’s 100 most influential people in digital government. It’s the first of its kind to show the international spread of the field, and includes individuals from every continent.",
     "twitterImage": "https://assets.apolitical.co/images/lists/digital-government-world100/social-card.png",
     "facebookImage": "https://assets.apolitical.co/images/lists/digital-government-world100/social-card.png",
     "facebookTitle": "World’s 100 Most Influential People in Digital Government",
-    "facebookDescription": "We’re excited to present our 2018 list of the world’s 100 most influential people in digital government. It’s the first of its kind to show the international spread of the field, and includes individuals from every continent."
+    "facebookDescription": "We’re excited to present our 2019 list of the world’s 100 most influential people in digital government. It’s the first of its kind to show the international spread of the field, and includes individuals from every continent."
   },
   "hero": {
     "title": "World’s 100 Most Influential People in Digital Government",
@@ -60,7 +60,7 @@
       "section": "Government"
     },
     {
-      "biography": "The Open Data Charter unites governments and civil society around one shared goal: creating a culture of open and responsible data use in government and making that data available to citizens. As the Executive Director, Ania Calderón has urged governments to adopt an \"open by default\" mindset and been a driving force for expanding the number of signatories to the charter, which now counts more than 70 governments around the world. In 2019, the Open Data Charter has put the data rights of citizens at the top of their agenda and highlighted the need for increased data transparency.",
+      "biography": "Ania Calderón is the Executive Director of the Open Data Charter, an organisation that unites governments and civil society around the shared goal of creating a culture of open and ethical data use. In her role she has urged governments to adopt an ‘open by default’ mindset and has been a driving force for expanding the number of signatories to the charter, which now counts more than 70 governments around the world. 2019 saw the Open Data Charter champion the data rights of citizens and bring the need for increased data transparency into public view.",
       "cardSubtitle": "Executive Director, Open Data Charter",
       "cardTitle": "Ania Calderón",
       "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Ania-Calderon.jpg",
@@ -109,7 +109,7 @@
       "section": "Academia"
     },
     {
-      "biography": "Kenya has a rare opportunity to accellerate the country's development by using new and emerging technologies like AI and blockchain — that's the conclusion of a recent report published by the digital taskforce led by professor Bitange Ndemo, which provides a road map and a number of key recommendations for the country's digital transformation. At the launch of the report, Ndemo, who is a professor in economics and an active board member in several local digital companies, highlighted the potential of blockchain to improve the integrity of democratic elections, mitigating the risk of violence among political factions.   ",
+      "biography": "Bitange Ndemo is a leader in digital transformation in Kenya. During his tenure as Permanent Secretary of Kenya’s Ministry of Information and Communication, he initiated Kenya Open Data and drove the establishment of various policies and initiatives in the tech field, including iHub and mLab. As a professor at the University of Nairobi’s Business School, Bitange teaches entrepreneurship with an emphasis on small and medium social enterprise and a focus on ICT for driving economic growth. He is a vocal advocate for emerging technologies like AI and blockchain, and is currently Honorary Chair of the Alliance for Affordable Internet (A4AI) and an Advisor to the Better than Cash Alliance, a global initiative to digitise payments.",
       "cardSubtitle": "Chairman, Kenyan Distributed Ledgers and Artificial Intelligence Taskforce",
       "cardTitle": "Bitange Ndemo",
       "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Bitange-Ndemo.png",
@@ -154,7 +154,7 @@
       "biography": "David Eaves is a lecturer at the Harvard Kennedy School. Prior to joining the Harvard faculty, Eaves advised the Mayor of Vancouver in the late 2000s, proposing and drafting the Open Motion, one of the world's first open data portals. He was also the first director of education at Code for America, and has worked with 18F and the Presidential Innovation Fellows at the White House.",
       "cardSubtitle": "Lecturer in Public Policy, Harvard Kennedy School",
       "cardTitle": "David Eaves",
-      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/David-Eaves .jpeg",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/David-Eaves-.jpeg",
       "section": "Academia"
     },
     {
@@ -189,7 +189,7 @@
       "biography": "Eric Garcetti is the Mayor of Los Angeles, California. Under his tenure, LA was named the US's #1 digital city by the Center for Digital Government for two consecutive years. The city received the award for projects including the LA CyberLab, a public-private partnership to combat cybercrime, and OurCycleLA, a project helping to bridge the digital divide for some of the city's most underprivileged residents. The city is also experimenting extensively with chatbots in an effort to better engage residents and improve services.",
       "cardSubtitle": "Mayor of Los Angeles, California",
       "cardTitle": "Eric Garcetti",
-      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Eric-Garcetti .jpg",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Eric-Garcetti-.jpg",
       "section": "Politics"
     },
     {
@@ -236,7 +236,7 @@
     },
     {
       "biography": "Henri Verdier is the French Ambassador for Digital Affairs, and until 2015 he was the Head of Etalab, the French Prime Minister’s task force for Open Government and Data. In this role he launched the government’s first open data portal. As a digital specialist, he is a member of the ARCEP Strategic Committee, the CNIL Strategic Committee, and was the Founding Director of Edition Odile Jacob Multimedia, a publishing house in the field of e-learning. ",
-      "cardSubtitle": "Chief Technology Officer and Digital Ambassador, France",
+      "cardSubtitle": "Ambassador for Digital Affairs, France",
       "cardTitle": "Henri Verdier",
       "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Henri-Verdier.jpg",
       "section": "Government"
@@ -256,7 +256,7 @@
       "section": "Young Leaders"
     },
     {
-      "biography": "Huda Al Hashimi is a senior public servant responsible for strategy and innovation at the Prime Minsiter's office in the UAE. She has been charged with overseeing the implementation of the National Innovation Strategy, which aims to make the UAE more innovative and tech-driven, as well as delivering on the UAE Vision 2021, a national strategy with the aim of transforming the country into a knowledge economy.  She is also an outspoken voice for gender equity, and sits on the UAE Gender Balance Council. ",
+      "biography": "Huda Al Hashimi is a senior public servant responsible for strategy and innovation at the Prime Minister's office in the United Arab Emirates. She oversees the implementation of the UAE’s National Innovation Strategy, which aims to drive tech innovation across government, and is leading the delivery of the UAE Vision 2021, a national strategy that aims to transform the country into an economy of knowledge. Huda is an outspoken gender equity activist, and sits on the UAE Gender Balance Council. ",
       "cardSubtitle": "Assistant Director General for Strategy and Innovation, UAE Prime Minister's Office,",
       "cardTitle": "Huda Al Hashimi",
       "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Huda-Al-Hashimi.jpeg",
@@ -336,7 +336,7 @@
       "biography": "Joanna Bryson is a reader/associate professor in the department of computer science at the University of Bath. She teaches and works on artificial intelligence, ethics and collaborative cognition. She helped the UK’s Engineering and Physical Sciences Research Council to define principles around robotics. She has also consulted The Red Cross on autonomous weapons and contributed to an all party group in the UK parliament on AI. In 2017, she won an Outstanding Achievement Award from Cognition X.",
       "cardSubtitle": "Associate Professor, University of Bath",
       "cardTitle": "Joanna Bryson",
-      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Joanna-Bryson jpg",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Joanna-Bryson.jpg",
       "section": "Academia"
     },
     {
@@ -354,14 +354,14 @@
       "section": "Government"
     },
     {
-      "biography": "Joy Buolamwini  is founder of the Algorithmic Justice League, an organisation which aims to highlight the hidden algorithmic bias in the technology we are all surrounded by, and showcase the impact on vulnerable and disadvantaged groups. One challenge is that, while machine learning algorithms can recognise human features, the technology is better at identifying white faces than people of colour, limiting the use of this technology for ethnic minorities. Joy has been a leading advocate for the safe space pledge, which aims to mitigate the adverse effects from the rapid spread of facial recognition software in public spaces.",
+      "biography": "Joy Buolamwini is founder of the Algorithmic Justice League, an organisation which aims to highlight the hidden algorithmic bias in the technology we are all surrounded by, and showcase the impact on vulnerable and disadvantaged groups. One challenge is that, while machine learning algorithms can recognise human features, the technology is better at identifying white faces than people of colour, limiting the use of this technology for ethnic minorities. Joy has been a leading advocate for the safe space pledge, which aims to mitigate the adverse effects from the rapid spread of facial recognition software in public spaces.",
       "cardSubtitle": "Founder, Algorithmic Justice League",
       "cardTitle": "Joy Buolamwini",
       "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Joy-Buolamwini.jpeg",
       "section": "International and Non-governmental Organisations"
     },
     {
-      "biography": "As Canada's minister of digital government, Joyce Murray has championed an \"open by default\" mindset, with a stated goal of making the inner workings of government more accessible to ordinary citizens. As part of her mandate, she has been charged with expanding open data initiatives and making data digitally avialable to all Canadians. Most recently she has launched a new Policy on Service and Digital, which plots the course for how the Canadian government will use new technologies such as artificial intelligence and blockchain to deliver 21st century services. ",
+      "biography": "Canada’s Minister of Digital Government, Joyce Murray, has since her election spearheaded an ‘open by default’ mindset with the stated goal of making the inner workings of government more accessible to ordinary citizens. Part of her mandate is to expand open data initiatives and to make data digitally available to all Canadians; most recently, she launched a new policy on Service and Digital, which plots the course for how the Canadian government will use new technologies like AI and blockchain to deliver 21st century services.  ",
       "cardSubtitle": "Minister of Digital Government, Canada",
       "cardTitle": "Joyce Murray",
       "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Joyce-Murray.jpg",
@@ -487,9 +487,9 @@
       "section": "Government"
     },
     {
-      "biography": "Michelle Tong is digital services lead for the City of San Jose, US. She introduced user-centred design into My San Jose, an app and online platform that enables residents and businesses to easily request and track public services, and piloted the Digital Services Academy to train City staff in usability and design. Michelle also co-founded Code for San Jose, a local Code for America brigade, to foster alignment and connection in San Jose’s civic tech community. ",
+      "biography": "Michelle Thong is digital services lead for the City of San Jose, US. She introduced user-centred design into My San Jose, an app and online platform that enables residents and businesses to easily request and track public services, and piloted the Digital Services Academy to train City staff in usability and design. Michelle also co-founded Code for San Jose, a local Code for America brigade, to foster alignment and connection in San Jose’s civic tech community. ",
       "cardSubtitle": "Digital Services Lead, City of San Jose",
-      "cardTitle": "Michelle  Thong",
+      "cardTitle": "Michelle Thong",
       "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Michelle-Thong.jpg",
       "section": "Government"
     },
@@ -525,7 +525,7 @@
       "biography": "Sir Nigel Shadbolt is chairman and co-founder of the Open Data Institute, one of the foremost institutions for advocating a global open data ecosystem. Nigel is a notable scholar of computer and web science and holds various fellowships and professorships. He was information advisor to the UK Prime Minister, which led to the creation of the data.gov.uk dataset portal. Nigel is the President of the British Computer Society, and was knighted in recognition of his services to science and engineering. ",
       "cardSubtitle": "Chairman, Open Data Institute",
       "cardTitle": "Nigel Shadbolt",
-      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Nigel Shadbolt.jpg",
+      "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Nigel-Shadbolt.jpg",
       "section": "International and Non-governmental Organisations"
     },
     {
@@ -545,7 +545,7 @@
     {
       "biography": "Park Won Soon, human rights lawyer and mayor of Seoul, is a pioneer in government data visualization and open data. He is currently spearheading a movement to establish Seoul’s own crypto-currency, dubbed “S-coin,” and leading an initiative to increase government transparency using blockchain technology. Won Soon likes to use data and technology to enact policy changes. For instance, after receiving a tweet from a constituent requesting night time bus services, Soon’s office used data from private phone companies on which areas had the most late-night phone calls to design Night Owl bus routes.",
       "cardSubtitle": "Mayor, Seoul",
-      "cardTitle": "Park  Won Soon",
+      "cardTitle": "Park Won Soon",
       "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Park-Won-Soon.jpg",
       "section": "Politics"
     },
@@ -564,7 +564,7 @@
       "section": "Politics"
     },
     {
-      "biography": "Pia Andrews is Executive Director of Digital Government at the New South Wale Department of Finance, Services and Innovation. She is responsible for the all-of-NSW-government policy and innovation for ICT, digital, open, information, data, emerging tech and transformation, including a service innovation lab (DNA). Previously she was service integration lead at New Zealand's Department of Internal Affairs, and is recognised internationally for driving the idea of government as an API. Beginning her career in IT, Andrews directed an open source consultancy in her native Australia before holding a number of roles in government, including director of data infrastructure and government engagement at Australia’s Department of the Prime Minister and Cabinet.",
+      "biography": "Pia Andrews is Executive Director of Digital Government at the New South Wales Department of Finance, Services and Innovation. She is responsible for the all-of-NSW-government policy and innovation for ICT, digital, open, information, data, emerging tech and transformation, including a service innovation lab (DNA). Previously she was service integration lead at New Zealand's Department of Internal Affairs, and is recognised internationally for driving the idea of government as an API. Beginning her career in IT, Andrews directed an open source consultancy in her native Australia before holding a number of roles in government, including director of data infrastructure and government engagement at Australia’s Department of the Prime Minister and Cabinet.",
       "cardSubtitle": "Executive director of Digital Government, New South Wales Finance Department",
       "cardTitle": "Pia Andrews",
       "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Pia-Andrews.jpg",
@@ -627,14 +627,14 @@
       "section": "International and Non-governmental Organisations"
     },
     {
-      "biography": "Rudi Borrmann is a leading figure in South America's digital government movement. He is currently the undersecretary for public innovation and open government in Argentina, a role in which he chaired the digital economy task force during Argentina's presidency of the G20 in 2018. Previously, Borrmann founded the Buenos Aires Innovation Lab and led the city's Open Government project, which was the first city-level open government initiative in Argentina. ",
+      "biography": "Rudi Borrmann is a leading figure in South America's digital government movement. He is currently the Undersecretary for Public Innovation and Open Government in Argentina, a role in which he chaired the digital economy task force during Argentina's presidency of the G20 in 2018. Previously, Borrmann founded the Buenos Aires Innovation Lab and led the city's Open Government project, which was the first city-level open government initiative in Argentina. ",
       "cardSubtitle": "Undersecretary of Public Innovation and Open Government, Argentina",
       "cardTitle": "Rudi Borrmann",
       "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Rudi-Borrmann.jpg",
       "section": "Government"
     },
     {
-      "biography": "Under the leadership of Sak Segkhoonthod, the Thai Digital Government Development Agency has been revamped and given a new mandate to digitise government. The flagship project is a two-year plan for digital government, that aims to bring the nation's services up to speed by creating a new government data center, unifying government communication and putting open government data at the forefront. The goal is to create Thailand 4.0, an innovation-driven nation where the government leads the way in data analytics and AI.",
+      "biography": "Under the leadership of Sak Segkhoonthod, Thailand’s Digital Government Development Agency has been revamped and given a new mandate to digitise government. The agency’s flagship project is an impressive two-year plan that aims to enhance and digitise the nation's services, most notably through the creation of a new government data centre that will help streamline government communication and place open data at the forefront of government. The goal is to create ‘Thailand 4.0’, an innovation-driven nation where government leads the way in data analytics and AI.",
       "cardSubtitle": "President and CEO, Digital Government Development Agency, Thailand",
       "cardTitle": "Sak Segkhoonthod",
       "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Sak-Segkhoonthod.jpeg",
@@ -643,7 +643,7 @@
     {
       "biography": "Shai-lee Spigelman is CEO for Digital Israel. She leads the government’s national digital program and national strategy around digital education, digital health, economics in the digital age, smart cities and digital literacy. Prior to joining Digital Israel, Shai-lee held several roles at Microsoft Israel. In her last position, she served as VP of Marketing and Social Responsibility and a member of the board of directors of the Microsoft Research and Development Centre in Israel.",
       "cardSubtitle": "CEO, Digital Israel",
-      "cardTitle": "Shai-Lee  Spigelman",
+      "cardTitle": "Shai-Lee Spigelman",
       "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Shai-Lee-Spigelman.jpg",
       "section": "Government"
     },
@@ -678,7 +678,7 @@
     {
       "biography": "Susan Crawford is the John A. Reilly Clinical Professor of Law at Harvard Law School, and has published a number of books and articles on the tech revolution and digital governance. With over a decade's worth of experience in digital government, Susan has been recognised as one of Fast Company’s Most Influential Women in Technology (2009), Prospect Magazine’s Top Ten Brains of the Digital Future (2011), and TIME Magazine’s Tech 40: The Most Influential Minds in Tech (2013) among other accolades. She is the founder of OneWebDay, served as Special Assistant to the President for Science, Technology, and Innovation Policy in 2009, co-led the FCC transition team between the Bush and Obama administrations, served as a member of Mayor Michael Bloomberg’s Advisory Council on Technology and Innovation and also on Mayor Bill de Blasio’s Broadband Task Force. ",
       "cardSubtitle": "John A. Reilly Clinical Professor of Law, Harvard Law School",
-      "cardTitle": "Susan  Crawford",
+      "cardTitle": "Susan Crawford",
       "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Susan-Crawford.jpg",
       "section": "Government"
     },
