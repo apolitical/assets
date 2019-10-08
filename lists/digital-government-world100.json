@@ -1,15 +1,15 @@
 {
   "metaData": {
-    "htmlTitle": "Digital Government: The 100 Most Influential People | Apolitical",
-    "twitterTitle": "World’s 100 Most Influential People in Digital Government",
+    "htmlTitle": "Digital Government: The 100 Most Influential People 2019 | Apolitical",
+    "twitterTitle": "World’s 100 Most Influential People in Digital Government 2019",
     "twitterDescription": "This list celebrates pioneering politicians, civil servants, academics, and activists generating positive change all around the world and driving digital government into the future.",
     "twitterImage": "https://apolitical.co/wp-content/uploads/2019/10/100-Most-Influential-People-in-Digital-Government-2019-Twitter.png",
     "facebookImage": "https://apolitical.co/wp-content/uploads/2019/10/100-Most-Influential-People-in-Digital-Government-2019-Twitter.png",
-    "facebookTitle": "World’s 100 Most Influential People in Digital Government",
+    "facebookTitle": "World’s 100 Most Influential People in Digital Government 2019",
     "facebookDescription": "This list celebrates pioneering politicians, civil servants, academics, and activists generating positive change all around the world and driving digital government into the future."
   },
   "hero": {
-    "title": "World’s 100 Most Influential People in Digital Government",
+    "title": "World’s 100 Most Influential People in Digital Government 2019",
     "subtitle": "",
     "imageUrl": "https://apolitical.co/wp-content/uploads/2019/10/100-Most-Influential-People-in-Digital-Government-2019-Banner-high-res.jpg"
   },
@@ -36,7 +36,7 @@
       "cardSubtitle": "CEO, Canadian Digital Service",
       "cardTitle": "Aaron Snow",
       "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Aaron-Snow.jpg",
-      "section": "Government"
+      "section": "Top 20"
     },
     {
       "biography": "Amanda Smith is the recently appointed Head of User-Centred Policy Design at the Ministry of Justice UK. Before taking this role up in May 2019, Amanda was the Head of Data Strategy and Culture for the Ministry, and acted as a Senior Consultant at the Open Data Institute. In 2011 she led the UK Prime Ministerial commitment to deliver the world's first open crime and justice website and data platform: police.uk and data.police.uk, and in 2015 won the first Bloomberg WISE Open Technology award from the HRH Process Royal for her contributions in data and technology across Europe. Amanda specialises in data strategy, leadership and innovation programmes, and organisational design with a focus on open culture and user-centred approaches. ",
@@ -64,7 +64,7 @@
       "cardSubtitle": "Executive Director, Open Data Charter",
       "cardTitle": "Ania Calderón",
       "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Ania-Calderon.jpg",
-      "section": "Young Leaders"
+      "section": "Top 20"
     },
     {
       "biography": "Anna-Maija Karjalainen is the director general of public sector ICT in Finland's Ministry of Finance. Karjalainen is responsible for creating guidelines for digital services and ensuring that all departments are digitalising services. She has helped boost Finland to the number six spot on the 2018 United Nation e-government survey. Karjalainen has also helped automate the Ministry of Finance, using robots and artificial intelligence to streamline government services.",
@@ -92,14 +92,14 @@
       "cardSubtitle": "Minister for Digital, Taiwan",
       "cardTitle": "Audrey Tang",
       "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Audrey-Tang.png",
-      "section": "Young Leaders"
+      "section": "Top 20"
     },
     {
       "biography": "Barbara Ubaldi is digital government and open data lead at the OECD, leading the organisation’s work on Open Government Data (OGD), Social Media and Digital Government. The OGD project works to improve impact measurement of government open data projects. Ubaldi has championed a set of principles of digital innovators in national government including transparency, international co-operation, the development of solid frameworks and securing political commitment. She is also an associate professor of digital government at Sciences Po.",
       "cardSubtitle": "Digital Government and Open Data Lead, OECD",
       "cardTitle": "Barbara Ubaldi",
       "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Barbara-Ubaldi.jpg",
-      "section": "International and Non-governmental Organisations"
+      "section": "Top 20"
     },
     {
       "biography": "Beth Simone Noveck directs The Governance Lab and its MacArthur Research Network on Opening Governance, and also serves as chief innovation officer for the state of New Jersey. The author of numerous books and articles on governance innovation, she works with governments around the world to implement innovative and responsible approaches for using technology to solve public problems. Previously, she was the first United States Deputy Chief Technology Officer and director of the White House Open Government Initiative.",
@@ -113,7 +113,7 @@
       "cardSubtitle": "Chairman, Kenyan Distributed Ledgers and Artificial Intelligence Taskforce",
       "cardTitle": "Bitange Ndemo",
       "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Bitange-Ndemo.png",
-      "section": "Academia"
+      "section": "Top 20"
     },
     {
       "biography": "Carlos Santiso is director of the Digital Innovation in Government Directorate of the Development Bank of Latin America (CAF), focusing on improving the lives of people in emerging economies. Santiso is passionate about the ability of data and technology to transform government, end corruption, and encourage innovation. Previously, he served at the Inter-American Development Bank as the division chief of innovation in citizen services, moving to the role in 2016 after joining in 2011 as division chief for the institutional capacity of the state.",
@@ -148,14 +148,14 @@
       "cardSubtitle": "CEO and Co-Founder at PUBLIC",
       "cardTitle": "Daniel Korski",
       "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Daniel-Korski.jpg",
-      "section": "Business"
+      "section": "Top 20"
     },
     {
       "biography": "David Eaves is a lecturer at the Harvard Kennedy School. Prior to joining the Harvard faculty, Eaves advised the Mayor of Vancouver in the late 2000s, proposing and drafting the Open Motion, one of the world's first open data portals. He was also the first director of education at Code for America, and has worked with 18F and the Presidential Innovation Fellows at the White House.",
       "cardSubtitle": "Lecturer in Public Policy, Harvard Kennedy School",
       "cardTitle": "David Eaves",
       "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/David-Eaves-.jpeg",
-      "section": "Academia"
+      "section": "Top 20"
     },
     {
       "biography": "Debra Lam is the managing director of smart cities and inclusive innovation for Georgia Institute of Technology. She received national attention for her role as chief of innovation and performance at the City of Pittsburgh, where she sponsored research in urban development and fast-tracking innovations to city operations via innovative partnerships with Carnegie Mellon University and the University of Pittsburgh. This collaboration became MetroLab network, a group of more than 30 city-university partnerships that bring data, analytics, and innovation to city government.",
@@ -239,7 +239,7 @@
       "cardSubtitle": "Ambassador for Digital Affairs, France",
       "cardTitle": "Henri Verdier",
       "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Henri-Verdier.jpg",
-      "section": "Government"
+      "section": "Top 20"
     },
     {
       "biography": "Hillary Hartley is Ontario’s first chief digital officer. She leads the Ontario Digital Service, which is redesigning provincial government services to focus on users’ needs. She previously co-founded 18F, a US government agency created in 2014 to support government bodies’ digital development, and was one of President Barack Obama’s Presidential Innovation Fellows in 2013. Outside government, Hartley worked for seven years at NIC Inc, a digital government consultancy based in San Francisco.",
@@ -295,7 +295,7 @@
       "cardSubtitle": "President, techUK",
       "cardTitle": "Jacqueline de Rojas",
       "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Jacqueline-de-Rojas.jpg",
-      "section": "Business"
+      "section": "International and Non-governmental Organisations"
     },
     {
       "biography": "Jaimie Boyd has held a number of positions in both the private sector and in the Government of Canada, most recently in support of open government. She is an alumnus of the Government of Canada’s Accelerated Economist Training Program, Action Canada, the Institute for Technology and Society’s Global Policy Fellowship and the Organization of American States’ Fellowship on Open Government in the Americas. Jaimie works to embrace digital change in the public sector and is focused on finding ways to help government better serve its citizens using technology. ",
@@ -316,7 +316,7 @@
       "cardSubtitle": "Senior Minister of State of the Ministry of Communications and Information, Singapore",
       "cardTitle": "Janil Puthucheary",
       "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Janil-Puthucheary.jpeg",
-      "section": "Government"
+      "section": "Top 20"
     },
     {
       "biography": "Janne Viskari is director at the Population Register Centre of Finland, where he plays a key role in the digitalisation of the Finnish public sector, and is in charge of the implementation of the government’s National Architecture for Digital Services. This program has created a digital infrastructure platform, the Suomi.fi services, for both public and private use, which includes an e-ID service and digital post for public organizations. The centre is now working on a pilot to incorporate the idea of consent into Finland’s public digital services.",
@@ -407,21 +407,21 @@
       "cardSubtitle": "Chief Executive, GovTech Singapore",
       "cardTitle": "Kok Ping Soon",
       "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Kok-Ping-Soon.jpeg",
-      "section": "Government"
+      "section": "Top 20"
     },
     {
       "biography": "Leah Bannon is product manager at the US Digital Service, working on user-centred design in the Department of Veterans Affairs. Formerly the Product Lead at 18F, she helped redesign foia.gov, the Freedom of Information Act’s site, and fec.gov, the website for the Federal Election Commission. Leah founded the Tech Lady Hackathon (now Tech, Rebalanced), an annual civic hacking and training event for minorities, and works with Code for DC, a volunteer civic hacker group. ",
       "cardSubtitle": "Product Manager, Department of Veterans Affairs, United States Digital Services",
       "cardTitle": "Leah Bannon",
       "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Leah-Bannon.jpg",
-      "section": "Government"
+      "section": "Top 20"
     },
     {
       "biography": "Luis Alberto Moreno is the President of the Inter-American Development Bank (IDB) since being elected in 2005 and reelected in 2010 and 2015. As President of the IDB, he overhauled the bank’s  organisational structure by introducing monitoring, making the bank more agile and customer-focused. He is passionate about innovation and champions digital tools as a way to fight corruption. Since he assumed office, the IDB, under Moreno, has made investments and created partnerships in areas such as digital connectivity, sustainable cities, and innovation. ",
       "cardSubtitle": "President, Inter-American Development Bank",
       "cardTitle": "Luis Alberto Moreno",
       "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Luis-Alberto-Moreno.jpeg",
-      "section": "International and Non-governmental Organisations"
+      "section": "Top 20"
     },
     {
       "biography": "M Jae Moon is the underwood distinguished professor of public administration at Yonsei University and director of the university's institute for future government. He has published extensive research on public service reform, including the adoption of e-governance across different branches of the public service. In addition to his academic work he has worked on various training and projects for international organisations such as the Asian Development Bank.",
@@ -456,7 +456,7 @@
       "cardSubtitle": "Founder, Doteveryone and member of the UK House of Lords",
       "cardTitle": "Martha Lane Fox",
       "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Martha-LaneFox.jpg",
-      "section": "Business"
+      "section": "Government"
     },
     {
       "biography": "Marushka Chocobar Reyes is secretary of digital government for Peru. Appointed to the position early in 2018, she heads efforts to drive digital transformation across the Peruvian government. She has supported digital teams within Peru’s public service, and work she has overseen includes building a single web domain for government in just a few months where all government information is now published, and creating an online provisional driving license service.",
@@ -477,7 +477,7 @@
       "cardSubtitle": "Senior Vice President for Social Justice, New School",
       "cardTitle": "Maya Wiley",
       "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Maya-Wiley.jpg",
-      "section": "Academia"
+      "section": "Top 20"
     },
     {
       "biography": "Carrie Bishop has been the Chief Digital Services Officer at the City and County of San Francisco, US, since 2017. Prior to taking up this role in government, she acted as the Director of FutureGov, an organisation that has for over ten years been transforming public sector organisations through people-centred design and digital strategy. A champion of bold thinking and empathetic design, Carrie has helped develop projects such as Casserole Club, a community project in the UK and Australia that connects older citizens with home-cooked food in their neighbourhood, and Lantern, an online service for connecting people to social care.",
@@ -512,7 +512,7 @@
       "cardSubtitle": "President, Ghana",
       "cardTitle": "Nana Akufo-Addo",
       "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Nana-Akufo-Addo.jpg",
-      "section": "Politics"
+      "section": "Top 20"
     },
     {
       "biography": "Nicolás Laguna is the executive director of Bolivia’s Agency of Electronic Government and ICT (AGETIC). A frank advocate for “debureaucratisation”, Laguna is passionate about adapting government to fit changes in Bolivian society, with two thirds of Bolivians now online. He has subsequently led the development of Bolivia’s online payment platform and a government-wide ID system. Laguna’s priority is the citizen; everything AGETIC creates is turned into free software for public use.",
@@ -547,7 +547,7 @@
       "cardSubtitle": "Mayor, Seoul",
       "cardTitle": "Park Won Soon",
       "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Park-Won-Soon.jpg",
-      "section": "Politics"
+      "section": "Top 20"
     },
     {
       "biography": "Paula Forteza is a French politician and advocate for civic technology initiatives across government in France. She works to make digital affairs and citizen participation a priority in French political debate, and has released her agenda and schedule as open data. She has a background in technology and innovation policy, having previously worked at Etalab, the French Prime Minister’s taskforce for Open Data, Open Government and Data Science and on public innovation for the City of Buenos Aires.",
@@ -561,14 +561,14 @@
       "cardSubtitle": "Minister of Information and Communications Technology and Innovation, Rwanda",
       "cardTitle": "Paula Ingabire",
       "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Paula-Ingabire.jpg",
-      "section": "Politics"
+      "section": "Top 20"
     },
     {
       "biography": "Pia Andrews is Executive Director of Digital Government at the New South Wales Department of Finance, Services and Innovation. She is responsible for the all-of-NSW-government policy and innovation for ICT, digital, open, information, data, emerging tech and transformation, including a service innovation lab (DNA). Previously she was service integration lead at New Zealand's Department of Internal Affairs, and is recognised internationally for driving the idea of government as an API. Beginning her career in IT, Andrews directed an open source consultancy in her native Australia before holding a number of roles in government, including director of data infrastructure and government engagement at Australia’s Department of the Prime Minister and Cabinet.",
       "cardSubtitle": "Executive director of Digital Government, New South Wales Finance Department",
       "cardTitle": "Pia Andrews",
       "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Pia-Andrews.jpg",
-      "section": "Government"
+      "section": "Top 20"
     },
     {
       "biography": "Pia Mancini is the co-founder and CEO of Open Collective, a collaborative and transparant fundraising platform. After serving as the chief advisor for political affairs for the City of Buenos Aires, Mancini co-founded Democracy OS, an open-sourced mobile app that breaks down complex policies for voters. She also co-founded a political party centred around the principles of digital governance, Partido de La Red (The Net Party), which received 1% of Buenos Aire's votes in the city's 2013 congressional elections. ",
@@ -596,7 +596,7 @@
       "cardSubtitle": "Director-General at the Agency for Digitisation, Denmark ",
       "cardTitle": "Rikke Zeberg",
       "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Rikke-Zeberg.jpg",
-      "section": "Academia"
+      "section": "Government"
     },
     {
       "biography": "Ro Khanna is a US Congressman, representing California’s 17th District. First elected to Congress in the 2016 general election, Khanna is the Congressman for Silicon Valley, who is now calling on tech companies to create jobs and diversify their recruiting efforts. Articulating a philosophy of progressive capitalism, Khanna fights for universal broadband coverage for all, and works to stop excessive surveillance.",
@@ -659,7 +659,7 @@
       "cardSubtitle": "CIO, Government of Estonia",
       "cardTitle": "Siim Sikkut",
       "imageUrl": "https://apolitical.co/wp-content/uploads/2019/09/Siim-Sikkut.jpg",
-      "section": "Young Leaders"
+      "section": "Top 20"
     },
     {
       "biography": "Stefano Quintarelli is the chairman of the steering committee at the Italian Digital Agency and a member of the European Commission’s AI High Level Expert Group. He’s a serial entrepreneur who founded I.NET, the first Italian business internet service provider. He was also a founder and board member of Clusit, Italy’s computer security association and chairman of AIIP, Italy’s ISP association. He’s an angel investor, professor and former member of the Italian Parliament.",
