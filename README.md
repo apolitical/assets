@@ -17,3 +17,7 @@ see: [frontends/lists/README.md](https://gitlab.com/apolitical/frontends/lists/b
 2. Enforce HTTPS
 3. Make a change to the repo and push it
 
+# Troubleshooting Lists
+
+- copy & paste your json into https://jsonlint.com/ and press validate to see if you have valid json (it will highlight where it is invalid)
+- if you are unsure about what is making the json invalid ask an engineer
