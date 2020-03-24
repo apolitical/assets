@@ -1,4 +1,3 @@
-# assets
 Static assets shared across apolitical sites
 
 - Fonts - Fonts that we don't want to host with google
