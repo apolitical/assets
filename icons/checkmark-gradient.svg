@@ -4,7 +4,7 @@
     <defs>
       <linearGradient id="gradient" gradientUnits="userSpaceOnUse" fy="50%">
         <stop offset="0" style="stop-color:#6b3ecd" />
-        <stop offset="1" style="stop-color:#6AD5E0">
+        <stop offset="1" style="stop-color:#6AD5E0" />
         <animate attributeName="fy" from="0" to="1" dur="5s" repeatCount="indefinite" />
       </linearGradient>
     </defs>
