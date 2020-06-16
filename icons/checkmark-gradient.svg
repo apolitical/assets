@@ -1,0 +1,13 @@
+  <svg width="16px" height="16px" viewBox="-2 -2 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink">
+    <title>Finish this lesson checkmark</title>
+    <desc>A check mark within a circle, indicating whether or not this lesson has been completed. This can be clicked to mark the lesson as complete.</desc>
+    <defs>
+      <linearGradient id="gradient" gradientUnits="userSpaceOnUse" fy="50%">
+        <stop offset="0" style="stop-color:#6b3ecd" />
+        <stop offset="1" style="stop-color:#6AD5E0">
+        <animate attributeName="fy" from="0" to="1" dur="5s" repeatCount="indefinite" />
+      </linearGradient>
+    </defs>
+    <path d="M0,36 C0,16.1177143 16.1177143,0 36,0 C55.8822857,0 72,16.1177143 72,36 C72,55.8822857 55.8822857,72 36,72 C16.1177143,72 0,55.8822857 0,36" id="Fill-232" stroke="url(#gradient)" fill="none" strokeWidth="4.5" />
+    <path d="M29.6608307,43.8103458 L50.8685951,21.7189246 C51.7902002,20.7589193 53.3116225,20.7570168 54.2488808,21.7333276 C55.1926735,22.716445 55.1880761,24.2905331 54.2532071,25.2643549 L30.5785744,49.9254306 C29.637829,50.9053738 28.1260465,50.8972348 27.1887882,49.9209241 C27.182141,49.9139999 27.175541,49.9070464 27.168988,49.900064 C27.1623072,49.8932612 27.1556547,49.88641 27.149031,49.8795103 L18.7026606,41.0812078 C17.7650296,40.1045089 17.7662485,38.5228661 18.7035068,37.5465554 C19.6472995,36.563438 21.1599822,36.56985 22.0967731,37.5456739 L28.8858445,44.6176232 L29.6608307,43.8103458 Z" id="Rectangle-348" fillRule="nonzero" stroke="url(#gradient)" fill="url(#gradient)" />
+  </svg>
