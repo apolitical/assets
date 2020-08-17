@@ -1,13 +1,27 @@
-  <svg width="16px" height="16px" viewBox="-2 -2 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>Finish this lesson checkmark</title>
     <desc>A check mark within a circle, indicating whether or not this lesson has been completed. This can be clicked to mark the lesson as complete.</desc>
     <defs>
-      <linearGradient id="gradient" gradientUnits="userSpaceOnUse" fy="50%">
-        <stop offset="0" style="stop-color:#6b3ecd" />
-        <stop offset="1" style="stop-color:#6AD5E0" />
-        <animate attributeName="fy" from="0" to="1" dur="5s" repeatCount="indefinite" />
-      </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#6B3ECD" offset="0%"></stop>
+            <stop stop-color="#00B3BF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="15.2777778%" x2="100%" y2="84.7222222%" id="linearGradient-2">
+            <stop stop-color="#6B3ECD" offset="0%"></stop>
+            <stop stop-color="#00B3BF" offset="100%"></stop>
+        </linearGradient>
     </defs>
-    <path d="M0,36 C0,16.1177143 16.1177143,0 36,0 C55.8822857,0 72,16.1177143 72,36 C72,55.8822857 55.8822857,72 36,72 C16.1177143,72 0,55.8822857 0,36" id="Fill-232" stroke="url(#gradient)" fill="none" strokeWidth="4.5" />
-    <path d="M29.6608307,43.8103458 L50.8685951,21.7189246 C51.7902002,20.7589193 53.3116225,20.7570168 54.2488808,21.7333276 C55.1926735,22.716445 55.1880761,24.2905331 54.2532071,25.2643549 L30.5785744,49.9254306 C29.637829,50.9053738 28.1260465,50.8972348 27.1887882,49.9209241 C27.182141,49.9139999 27.175541,49.9070464 27.168988,49.900064 C27.1623072,49.8932612 27.1556547,49.88641 27.149031,49.8795103 L18.7026606,41.0812078 C17.7650296,40.1045089 17.7662485,38.5228661 18.7035068,37.5465554 C19.6472995,36.563438 21.1599822,36.56985 22.0967731,37.5456739 L28.8858445,44.6176232 L29.6608307,43.8103458 Z" id="Rectangle-348" fillRule="nonzero" stroke="url(#gradient)" fill="url(#gradient)" />
-  </svg>
+    <g id="Digital-Transformation-MC---Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MC---DT---1.3" transform="translate(-399.000000, -1008.000000)">
+            <g id="Group-6" transform="translate(370.000000, 254.000000)">
+                <g id="Key-Takeaways" transform="translate(0.000000, 380.000000)">
+                    <g id="check-o-line-gradient-16" transform="translate(30.000000, 375.000000)">
+                        <path d="M0,8 C0,3.58171429 3.58171429,0 8,0 C12.4182857,0 16,3.58171429 16,8 C16,12.4182857 12.4182857,16 8,16 C3.58171429,16 0,12.4182857 0,8" id="Fill-232" stroke="url(#linearGradient-1)" stroke-width="1.2"></path>
+                        <path d="M6.41907655,9.91502738 L6.59129572,9.73563241 L11.3041322,4.82642769 C11.5089334,4.61309317 11.8470272,4.61267041 12.0553068,4.82962835 C12.2650386,5.04809888 12.2640169,5.39789624 12.0562682,5.61430109 L6.79523877,11.0945401 C6.58618422,11.3123053 6.25023255,11.3104966 6.04195293,11.0935387 C6.04047578,11.092 6.03900911,11.0904548 6.0375529,11.0889031 C6.03606826,11.0873914 6.03458994,11.0858689 6.03311801,11.0843356 L4.15614679,9.12915729 C3.94778436,8.91211308 3.94805522,8.56063691 4.15633485,8.34367897 C4.36606656,8.12520844 4.70221826,8.12663333 4.91039403,8.34348309 L6.41907655,9.91502738 L6.41907655,9.91502738 Z" id="Rectangle-348" fill="url(#linearGradient-2)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
