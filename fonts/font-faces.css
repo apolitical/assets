@@ -8,6 +8,7 @@
          url("./Lato-Regular.ttf") format('truetype');
     font-weight: 400;
     font-style: normal;
+    font-display: auto;
 }
 
 /* Lato italic */
@@ -21,6 +22,7 @@
          url('./Lato-Italic.ttf') format('truetype');
     font-weight: 400;
     font-style: italic;
+    font-display: auto;
 }
 
 /* Lato bold */
@@ -34,6 +36,7 @@
          url('./Lato-Bold.ttf') format('truetype');
     font-weight: 700;
     font-style: normal;
+    font-display: auto;
 }
 
 /* Lato black */
@@ -47,6 +50,7 @@
          url('./Lato-Black.ttf') format('truetype');
     font-weight: 900;
     font-style: normal;
+    font-display: auto;
 }
 
 /* Lato light */
@@ -60,6 +64,7 @@
          url('./Lato-Light.ttf') format('truetype');
     font-weight: 300;
     font-style: normal;
+    font-display: auto;
 }
 
 /* Lato thin */
@@ -73,6 +78,7 @@
          url('./Lato-Thin.ttf') format('truetype');
     font-weight: 100;
     font-style: normal;
+    font-display: auto;
 }
 
 /* Lato bold italic */
@@ -86,6 +92,7 @@
          url('./Lato-BoldItalic.ttf') format('truetype');
     font-weight: 700;
     font-style: italic;
+    font-display: auto;
 }
 
 /* Lato black italic */
@@ -99,6 +106,7 @@
          url('./Lato-BlackItalic.ttf') format('truetype');
     font-weight: 900;
     font-style: italic;
+    font-display: auto;
 }
 
 /* Lato light italic */
@@ -112,6 +120,7 @@
          url('./Lato-LightItalic.ttf') format('truetype');
     font-weight: 300;
     font-style: italic;
+    font-display: auto;
 }
 
 /* Lato thin italic*/
@@ -125,4 +134,5 @@
          url('./Lato-ThinItalic.ttf') format('truetype');
     font-weight: 100;
     font-style: italic;
+    font-display: auto;
 }
