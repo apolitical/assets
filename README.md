@@ -1,5 +1,5 @@
 # assets
-Static assets shared across apolitical sites:
+Static assets shared across apolitical sites
 
 - Fonts - Fonts that we don't want to host with google
 - Images - e.g profile images from most_influential lists
